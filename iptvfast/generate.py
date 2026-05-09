@@ -23,7 +23,7 @@ OUT = ROOT / "output"
 
 USER_AGENT = os.getenv(
     "IPTVFAST_USER_AGENT",
-    "IPTVFast/1.0 (+https://github.com/joaquinito2036-rgb/iptvfast)"
+    "IPTVFast/1.0 (+https://github.com/your-user/iptvfast)"
 )
 CONCURRENCY = int(os.getenv("IPTVFAST_CONCURRENCY", "32"))
 TIMEOUT = int(os.getenv("IPTVFAST_TIMEOUT", "25"))
@@ -293,13 +293,14 @@ async def main() -> int:
     async with aiohttp.ClientSession(headers=headers, timeout=timeout) as session:
         sources = list(cfg.get("m3u_sources", []))
 
-        # Generate Whale TV Plus country URLs
+        # Generate country/template URLs, e.g. Whale TV Plus and LG Channels
         for item in cfg.get("generated_sources", {}).values():
+            slugs = item.get("slugs", {}) or {}
             for country in item.get("countries", []):
                 sources.append({
                     "platform": item["platform"],
                     "country": country,
-                    "url": item["template"].format(country=country),
+                    "url": item["template"].format(country=country, slug=slugs.get(country, country)),
                 })
 
         results: list[Channel] = []
