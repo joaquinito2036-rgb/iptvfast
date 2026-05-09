@@ -23,7 +23,7 @@ OUT = ROOT / "output"
 
 USER_AGENT = os.getenv(
     "IPTVFAST_USER_AGENT",
-    "IPTVFast/1.0 (+https://github.com/your-user/iptvfast)"
+    "IPTVFast/1.0 (+https://github.com/joaquinito2036-rgb/iptvfast)"
 )
 CONCURRENCY = int(os.getenv("IPTVFAST_CONCURRENCY", "32"))
 TIMEOUT = int(os.getenv("IPTVFAST_TIMEOUT", "25"))
