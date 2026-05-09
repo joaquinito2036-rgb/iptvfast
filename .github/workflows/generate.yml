@@ -1,0 +1,50 @@
+name: Generate IPTVFast playlists
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    env:
+      IPTVFAST_CONCURRENCY: "32"
+      IPTVFAST_TIMEOUT: "25"
+      IPTVFAST_RESOLVE_REDIRECTS: "true"
+      COMMIT_OUTPUTS: "false"
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Generate playlists
+        run: python -m iptvfast.generate
+
+      - name: Upload output artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: iptvfast-output
+          path: output/
+
+      - name: Commit generated files
+        if: env.COMMIT_OUTPUTS == 'true'
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add output/
+          git commit -m "Update IPTVFast generated playlists" || echo "No changes"
+          git push
