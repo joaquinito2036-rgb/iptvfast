@@ -7,6 +7,8 @@ import json
 import os
 import re
 import sys
+import tempfile
+import xml.etree.ElementTree as ET
 from dataclasses import dataclass, asdict, field
 from datetime import datetime, timezone
 from pathlib import Path
@@ -29,6 +31,8 @@ CONCURRENCY = int(os.getenv("IPTVFAST_CONCURRENCY", "32"))
 TIMEOUT = int(os.getenv("IPTVFAST_TIMEOUT", "25"))
 RESOLVE_REDIRECTS = os.getenv("IPTVFAST_RESOLVE_REDIRECTS", "true").lower() == "true"
 WRITE_JSON_PLAIN = os.getenv("IPTVFAST_WRITE_JSON_PLAIN", "false").lower() == "true"
+MAX_XMLTV_GZ_BYTES = int(os.getenv("IPTVFAST_MAX_XMLTV_GZ_BYTES", str(100 * 1024 * 1024)))
+XMLTV_GZIP_LEVEL = int(os.getenv("IPTVFAST_XMLTV_GZIP_LEVEL", "9"))
 
 
 JMP_RE = re.compile(
@@ -283,6 +287,153 @@ def dedupe(channels: list[Channel]) -> list[Channel]:
     return out
 
 
+def norm_match_text(value: str) -> str:
+    value = (value or "").casefold()
+    value = re.sub(r"&amp;", " and ", value)
+    value = re.sub(r"[^a-z0-9áéíóúüñçàèìòùäëïöüâêîôû]+", "", value, flags=re.I)
+    return value
+
+
+def xmltv_time_to_dt(value: str):
+    if not value:
+        return None
+    m = re.match(r"(\d{14})(?:\s*([+-]\d{4}))?", value)
+    if not m:
+        return None
+    raw, tz = m.groups()
+    try:
+        if tz:
+            return datetime.strptime(raw + tz, "%Y%m%d%H%M%S%z")
+        return datetime.strptime(raw, "%Y%m%d%H%M%S").replace(tzinfo=timezone.utc)
+    except Exception:
+        return None
+
+
+def channel_match_tokens(channels: list[Channel]) -> set[str]:
+    tokens: set[str] = set()
+    for ch in channels:
+        for value in (ch.tvg_id, ch.tvg_name, ch.name):
+            n = norm_match_text(value)
+            if len(n) >= 3:
+                tokens.add(n)
+    return tokens
+
+
+def channel_matches_xmltv(channel_id: str, display_names: list[str], tokens: set[str]) -> bool:
+    candidates = [channel_id, *display_names]
+    normalized = [norm_match_text(x) for x in candidates if x]
+    for n in normalized:
+        if not n:
+            continue
+        if n in tokens:
+            return True
+        # Coincidencia flexible por nombre: sirve para pequeñas diferencias de mayúsculas,
+        # espacios, guiones, acentos o sufijos.
+        for t in tokens:
+            if len(t) >= 5 and (t in n or n in t):
+                return True
+    return False
+
+
+def clone_element(elem: ET.Element) -> ET.Element:
+    return ET.fromstring(ET.tostring(elem, encoding="utf-8"))
+
+
+def write_filtered_xmltv_gz(
+    source_bytes: bytes,
+    out_path: Path,
+    channels: list[Channel],
+    max_gz_bytes: int = MAX_XMLTV_GZ_BYTES,
+    max_days: int = 7,
+) -> dict[str, object]:
+    """Filter XMLTV to generated channel names and gzip with max compression.
+
+    Strategy:
+    1. Match XMLTV <channel> by id/display-name against generated M3U channel names/tvg ids.
+    2. Keep only <programme> whose channel survived.
+    3. Start with up to 7 days, then reduce days if gzip is still over max_gz_bytes.
+    """
+    if source_bytes[:2] == b"\x1f\x8b":
+        xml_bytes = gzip.decompress(source_bytes)
+    else:
+        xml_bytes = source_bytes
+
+    tokens = channel_match_tokens(channels)
+    best_meta: dict[str, object] = {}
+    best_payload = b""
+
+    now = datetime.now(timezone.utc)
+
+    # Try requested days first, then reduce to satisfy <=100 MB.
+    for days in range(int(max_days), 0, -1):
+        cutoff = now.timestamp() + days * 86400
+
+        root_out = ET.Element("tv", {
+            "generator-info-name": "IPTVFast filtered XMLTV",
+            "source-info-name": "epgshare01 filtered by generated channel names",
+        })
+
+        kept_ids: set[str] = set()
+        kept_channels = 0
+        kept_programmes = 0
+
+        with tempfile.NamedTemporaryFile(suffix=".xml", delete=False) as tmp:
+            tmp.write(xml_bytes)
+            tmp_path = tmp.name
+
+        try:
+            # Pass 1: channels
+            for event, elem in ET.iterparse(tmp_path, events=("end",)):
+                if elem.tag == "channel":
+                    cid = elem.attrib.get("id", "")
+                    names = [dn.text or "" for dn in elem.findall("display-name")]
+                    if channel_matches_xmltv(cid, names, tokens):
+                        kept_ids.add(cid)
+                        root_out.append(clone_element(elem))
+                        kept_channels += 1
+                    elem.clear()
+
+            # Pass 2: programmes
+            for event, elem in ET.iterparse(tmp_path, events=("end",)):
+                if elem.tag == "programme":
+                    cid = elem.attrib.get("channel", "")
+                    if cid in kept_ids:
+                        start = xmltv_time_to_dt(elem.attrib.get("start", ""))
+                        if start is None or start.timestamp() <= cutoff:
+                            root_out.append(clone_element(elem))
+                            kept_programmes += 1
+                    elem.clear()
+        finally:
+            try:
+                os.unlink(tmp_path)
+            except OSError:
+                pass
+
+        xml_out = ET.tostring(root_out, encoding="utf-8", xml_declaration=True)
+        gz_payload = gzip.compress(xml_out, compresslevel=XMLTV_GZIP_LEVEL, mtime=0)
+
+        best_meta = {
+            "xmltv_file": out_path.name,
+            "xmltv_max_days_requested": max_days,
+            "xmltv_days_written": days,
+            "xmltv_channels_written": kept_channels,
+            "xmltv_programmes_written": kept_programmes,
+            "xmltv_gz_bytes": len(gz_payload),
+            "xmltv_gz_limit_bytes": max_gz_bytes,
+            "xmltv_gzip_level": XMLTV_GZIP_LEVEL,
+            "xmltv_filtered_by_channel_name": True,
+        }
+        best_payload = gz_payload
+
+        if len(gz_payload) <= max_gz_bytes:
+            break
+
+    out_path.write_bytes(best_payload)
+    best_meta["xmltv_under_limit"] = len(best_payload) <= max_gz_bytes
+    return best_meta
+
+
+
 async def main() -> int:
     OUT.mkdir(exist_ok=True)
     cfg = yaml.safe_load(CONFIG.read_text(encoding="utf-8"))
@@ -339,16 +490,24 @@ async def main() -> int:
         channels = dedupe(results)
         channels.sort(key=lambda c: (c.platform, c.country, c.name.lower()))
 
-        # EPG XMLTV: keep compressed only
+        # EPG XMLTV: filter by generated channel names and gzip with max compression.
+        # Output name requested: all.xml.gz, max 100 MB by default.
         epg_url = cfg.get("epg", {}).get("url")
+        xmltv_meta: dict[str, object] = {}
+        local_epg_ref = "all.xml.gz"
         if epg_url:
             try:
                 epg_bytes = await fetch_bytes(session, epg_url)
-                (OUT / "xmltv.xml.gz").write_bytes(epg_bytes)
+                xmltv_meta = write_filtered_xmltv_gz(
+                    epg_bytes,
+                    OUT / local_epg_ref,
+                    channels,
+                    max_gz_bytes=MAX_XMLTV_GZ_BYTES,
+                    max_days=int(cfg.get("epg", {}).get("days", 7)),
+                )
             except Exception as e:
                 errors.append({"url": epg_url, "platform": "xmltv", "error": repr(e)})
 
-        local_epg_ref = "xmltv.xml.gz"
         write_m3u(OUT / "all.m3u", channels, local_epg_ref)
 
         # Platform and country outputs
@@ -372,8 +531,9 @@ async def main() -> int:
             "channels": [asdict(c) for c in channels],
             "epg": {
                 "source": epg_url,
-                "local": "xmltv.xml.gz",
+                "local": local_epg_ref,
                 "days": cfg.get("epg", {}).get("days", 7),
+                **xmltv_meta,
             },
         }
         write_json_gz(OUT / "all.json.gz", payload)
@@ -390,6 +550,7 @@ async def main() -> int:
             "generated_at": payload["generated_at"],
             "channel_count": len(channels),
             "platform_count": len(by_platform),
+            "xmltv": xmltv_meta,
             "errors": errors[:200],
         }
         (OUT / "summary.json").write_text(json.dumps(summary, indent=2, ensure_ascii=False), encoding="utf-8")
