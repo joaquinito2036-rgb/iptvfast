@@ -1,0 +1,71 @@
+#EXTM3U x-tvg-url="all.xml.gz"
+#EXTINF:-1 tvg-id="b55d0b746ff5601e" tvg-name="Accdn" group-title="hp" platform="hp" country="all",Accdn
+https://amg01258-raycom-amg01258c2-hp-us-11005.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="56f9735742626732" tvg-name="Bein Sports Xtra" group-title="hp" platform="hp" country="all",Bein Sports Xtra
+https://amg01334-beinxtra-amg01334c1-hp-us-10807.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="4f5225db920f97da" tvg-name="Big 12" group-title="hp" platform="hp" country="all",Big 12
+https://amg01258-raycom-amg01258c7-hp-us-11004.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="b8355e3e0a142c92" tvg-name="Circle Country" group-title="hp" platform="hp" country="all",Circle Country
+https://amg00432-amg00432c1-hp-us-11173.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="29e8f5c35098958d" tvg-name="Cowboy Channel" group-title="hp" platform="hp" country="all",Cowboy Channel
+https://amg17292-tetonfast-amg17292c1-hp-us-10781.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="fd70c6f992267c00" tvg-name="Curiosity Now path not correct" group-title="hp" platform="hp" country="all",Curiosity Now path not correct
+https://amg00170-amg00170c1-hp-us-10705.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="0aaae5efc3a91b9b" tvg-name="Declassified" group-title="hp" platform="hp" country="all",Declassified
+https://amg01515-amg01515c41-hp-us-10887.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="9e52a5c66e70e7ab" tvg-name="Euronews" group-title="hp" platform="hp" country="all",Euronews
+https://amg00882-amg00882c2-hp-us-10706.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="79c537e01ced2c20" tvg-name="FloSports Ice Hockey" group-title="hp" platform="hp" country="all",FloSports Ice Hockey
+https://amg02278-flosports-amg02278c2-hp-us-11052.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="27a91398d9865f1c" tvg-name="FloSports Racing" group-title="hp" platform="hp" country="all",FloSports Racing
+https://amg02278-flosports-amg02278c1-hp-us-11065.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ae3384e3c2dc6123" tvg-name="Freemovies Plus" group-title="hp" platform="hp" country="all",Freemovies Plus
+https://amg02042-amg02042c35-hp-us-11060.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-freemoviesplus-hpus/playlist.m3u8
+#EXTINF:-1 tvg-id="db10d20a27bbd3c9" tvg-name="Fuel TV" group-title="hp" platform="hp" country="all",Fuel TV
+https://amg01074-fueltv-amg01074c11-hp-us-11000.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="9fa74cb3e343b131" tvg-name="Haunt TV" group-title="hp" platform="hp" country="all",Haunt TV
+https://amg00090-amg00090c20-hp-us-10890.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="3718f6a425b56e3b" tvg-name="Homeful" group-title="hp" platform="hp" country="all",Homeful
+https://amg00090-amg00090c18-hp-us-10886.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="d5d81dfc35a8cdec" tvg-name="Homeful" group-title="hp" platform="hp" country="all",Homeful
+https://amg00090-amg00090c21-hp-us-10889.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="f0ea0068a69619e0" tvg-name="INFAST" group-title="hp" platform="hp" country="all",INFAST
+https://amg00861-terncloud-amg00861c5-hp-us-10710.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="3a7fcbb89314663c" tvg-name="INTRAVEL" group-title="hp" platform="hp" country="all",INTRAVEL
+https://amg00861-amg00861c22-hp-us-10709.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="1aec01513b1d91a6" tvg-name="INTROUBLE" group-title="hp" platform="hp" country="all",INTROUBLE
+https://amg00861-terncloud-amg00861c6-hp-us-10707.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="b08edf5e292bdf3b" tvg-name="INWILD" group-title="hp" platform="hp" country="all",INWILD
+https://amg00861-terncloud-amg00861c7-hp-us-10711.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="782f237a8b35e4ce" tvg-name="Inwonder" group-title="hp" platform="hp" country="all",Inwonder
+https://amg00861-terncloud-amg00861c4-hp-us-10708.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="994fa8f118bf003d" tvg-name="Love Nature" group-title="hp" platform="hp" country="all",Love Nature
+https://amg01515-amg01515c1-hp-us-10531.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="548e52da04840d53" tvg-name="Love Pets" group-title="hp" platform="hp" country="all",Love Pets
+https://amg01515-amg01515c44-hp-us-10849.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="d8fa861db9bfe716" tvg-name="Mecum TV" group-title="hp" platform="hp" country="all",Mecum TV
+https://amg16176-mecum-amg16176c1-hp-us-10847.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="42064d00ab018ed8" tvg-name="MI-5" group-title="hp" platform="hp" country="all",MI-5
+https://amg00627-banijay-amg00627c45-hp-us-11111.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="7c2307257be0fffa" tvg-name="Moonball Sports TV" group-title="hp" platform="hp" country="all",Moonball Sports TV
+https://amg18572-moonball-amg18572c1-hp-us-10776.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="097d7b5b64ad0e84" tvg-name="Nosey" group-title="hp" platform="hp" country="all",Nosey
+https://amg00514-amg00514c1-hp-us-11028.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="b9ea4e0f98aca637" tvg-name="Powernation" group-title="hp" platform="hp" country="all",Powernation
+https://amg01258-raycom-amg01258c3-hp-us-11041.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="c6c0569931de5a74" tvg-name="Reuters" group-title="hp" platform="hp" country="all",Reuters
+https://amg00453-reuters-amg00453c1-hp-us-11112.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="c532b20f080e6c55" tvg-name="Revolt TV" group-title="hp" platform="hp" country="all",Revolt TV
+https://amg00883-revolttv-amg00883c1-hp-us-11025.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="928aca4a9ce8d59c" tvg-name="TNA Wrestling" group-title="hp" platform="hp" country="all",TNA Wrestling
+https://amg00966-anthem-amg00966c1-hp-us-10940.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="63b7bc6c07761d2e" tvg-name="TYT" group-title="hp" platform="hp" country="all",TYT
+https://amg01220-amg01220c1-hp-us-11033.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="536c14682d1db238" tvg-name="USA Today" group-title="hp" platform="hp" country="all",USA Today
+https://amg00457-amg00457c1-hp-us-11031.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="a8d9b90321cd4851" tvg-name="World of Free Sport" group-title="hp" platform="hp" country="all",World of Free Sport
+https://amg01866-mmagfast-amg01866c4-hp-us-10725.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="8987beb3f32e151c" tvg-name="World Poker Tour" group-title="hp" platform="hp" country="all",World Poker Tour
+https://amg00218-amg00218c2-hp-us-10714.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="c6e7fde7b4e39baa" tvg-name="World Poker Tour" group-title="hp" platform="hp" country="all",World Poker Tour
+https://amg00218-amg00218c1-hp-us-10713.playouts.now.amagi.tv/playlist.m3u8

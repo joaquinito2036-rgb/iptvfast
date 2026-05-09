@@ -1,0 +1,63 @@
+#EXTM3U x-tvg-url="all.xml.gz"
+#EXTINF:-1 tvg-id="733b3884ea94955b" tvg-name="Babyshark TV (Mexico)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="mx",Babyshark TV (Mexico)
+https://newidco-babysharktv-2-mx.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="f3918cd40a890759" tvg-name="BCC Gaming (Mexico)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="mx",BCC Gaming (Mexico)
+https://arcade-cloud-mx.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="73a194af8aa1e047" tvg-name="Bloomberg Television (Mexico)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="mx",Bloomberg Television (Mexico)
+https://bloomberg-bloomberg-5-mx.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="9e3a3ef0a47bc0e4" tvg-name="Butaca TV (Mexico)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="mx",Butaca TV (Mexico)
+https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5c73d33f386883f4" tvg-name="Chiquilines might not be working  (Mexico)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="mx",Chiquilines might not be working  (Mexico)
+https://chiquilines-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="819625a93f77b3c3" tvg-name="Cindie (Mexico) Geo" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="mx",Cindie (Mexico) Geo
+https://amg01329-ottera-cindie-samsungmx-81cy6.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="17e06b7c2e0bdc2e" tvg-name="Cine Sureño might not be working  (Mexico)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="mx",Cine Sureño might not be working  (Mexico)
+https://cinesureno-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="0012ad2b4c6624cc" tvg-name="Clubbing TV (Mexico) Geo" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="mx",Clubbing TV (Mexico) Geo
+https://clubbingtv-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="c0d631d5d2a6b404" tvg-name="Dark matter (Mexico) Geo" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="mx",Dark matter (Mexico) Geo
+https://darkmatter-mex-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="484ce05c9b503834" tvg-name="Demand Africa (Mexico)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="mx",Demand Africa (Mexico)
+https://demandafrica-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5f203968e7f45fdf" tvg-name="Euronews (Mexico)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="mx",Euronews (Mexico)
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="0a5eaa788652b58b" tvg-name="Fail Army Internatioanl (Mexico)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="mx",Fail Army Internatioanl (Mexico)
+https://failarmy-international-mx.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="dd8ab9e993c9b62c" tvg-name="Flash TV might not be working  (Mexico)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="mx",Flash TV might not be working  (Mexico)
+https://flash-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="4826aab581425713" tvg-name="Fuel TV (Mexico)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="mx",Fuel TV (Mexico)
+https://fueltv-fueltv-11-mx.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="c59bce06b36ca18e" tvg-name="Hollywire (Mexico)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="mx",Hollywire (Mexico)
+https://hollywire-samsung-2-mx.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="cc82aa3821a966a6" tvg-name="Insight TV (Mexico)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="mx",Insight TV (Mexico)
+https://insighttv-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="6b5784d0caec1c30" tvg-name="InWonder (Mexico)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="mx",InWonder (Mexico)
+https://inwonder-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="656531c85f192ba9" tvg-name="MyTime Movie Network (Mexico)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="mx",MyTime Movie Network (Mexico)
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="59d5725b6a9730aa" tvg-name="Nashville (Mexico) Geo" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="mx",Nashville (Mexico) Geo
+https://amg00353-lionsgate-nashville-samsungmx-samsungmx-4z8kc.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="28a33870bc64706f" tvg-name="ORO TV (Mexico)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="mx",ORO TV (Mexico)
+https://veranda-orotv-1-mx.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5d1f1f0fb4158daf" tvg-name="People are Awesome (Mexico)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="mx",People are Awesome (Mexico)
+https://jukin-peopleareawesome-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="1486d22d8e62987e" tvg-name="PowerNation En Esponal (Mexico)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="mx",PowerNation En Esponal (Mexico)
+https://rtmtv-powernationenespanol-1-mx.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="305f296ff32a1001" tvg-name="Qwest Jazz (Mexico)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="mx",Qwest Jazz (Mexico)
+https://qwest-jazz-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="603bef58f3f689da" tvg-name="Runtime (Mexico)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="mx",Runtime (Mexico)
+https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="42a075d61090504c" tvg-name="Saber Más might not be working  (Mexico)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="mx",Saber Más might not be working  (Mexico)
+https://sabermas-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="94bd89bfb7342607" tvg-name="Saboreartv (Mexico)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="mx",Saboreartv (Mexico)
+https://veranda-saboreartv-1-mx.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="30f40cc5f98e21bc" tvg-name="Stingray Naturescape" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="mx",Stingray Naturescape
+https://samsung-mx.ott-channels.stingray.com/naturescape/master.m3u8
+#EXTINF:-1 tvg-id="3f64de795642d187" tvg-name="TasteMade (Mexico)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="mx",TasteMade (Mexico)
+https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ea0a8da9bb9f4e14" tvg-name="The Pet Collective (Mexico)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="mx",The Pet Collective (Mexico)
+https://the-pet-collective-international-mx.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="02296f0356921116" tvg-name="Tu Cine might not be working (Mexico)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="mx",Tu Cine might not be working (Mexico)
+https://tucine-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ec0232aad55001f2" tvg-name="WeatherSpy (Mexico)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="mx",WeatherSpy (Mexico)
+https://jukin-weatherspy-2-mx.samsung.wurl.com/manifest/playlist.m3u8

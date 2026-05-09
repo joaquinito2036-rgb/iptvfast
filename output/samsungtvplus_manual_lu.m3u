@@ -1,0 +1,21 @@
+#EXTM3U x-tvg-url="all.xml.gz"
+#EXTINF:-1 tvg-id="b92d7792f6c7e2ea" tvg-name="AfricaNews" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="lu",AfricaNews
+https://rakuten-africanews-2-lu.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="702a2e1ddcaa5be0" tvg-name="AVF Family (Luxemburg)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="lu",AVF Family (Luxemburg)
+https://futuretoday-afv-family-1-lu.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="13e4dfcc67ffa299" tvg-name="Bloomberg Quicktake (Luxemburg)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="lu",Bloomberg Quicktake (Luxemburg)
+https://bloomberg-quicktake-1-lu.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="67ef51a647747e80" tvg-name="Bloomberg TV (Luxemburg)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="lu",Bloomberg TV (Luxemburg)
+https://bloomberg-bloomberg-1-lu.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="64d16f49c454c883" tvg-name="Duck TV (Luxemburg)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="lu",Duck TV (Luxemburg)
+https://mmm-ducktv-4-lu.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="7c5560ff0beb47c6" tvg-name="Euronews (Luxemburg)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="lu",Euronews (Luxemburg)
+https://rakuten-euronews-2-lu.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ebebca35e94a74ad" tvg-name="Euronews 10 (Luxemburg)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="lu",Euronews 10 (Luxemburg)
+https://rakuten-euronews-10-lu.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="53a160a033dc0163" tvg-name="Mav TV Global (Luxemburg)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="lu",Mav TV Global (Luxemburg)
+https://mavtv-mavtvglobal-1-lu.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="d7b7b25b8a3a2d64" tvg-name="Rakuten Documentaries (Luxemburg)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="lu",Rakuten Documentaries (Luxemburg)
+https://rakuten-documentaries-15-lu.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="bfbb6cfa432ac908" tvg-name="Rakuten Family (Luxemburg)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="lu",Rakuten Family (Luxemburg)
+https://rakuten-family-15-lu.samsung.wurl.tv/playlist,m3u8

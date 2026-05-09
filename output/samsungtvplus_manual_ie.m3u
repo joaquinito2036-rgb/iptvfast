@@ -1,0 +1,41 @@
+#EXTM3U x-tvg-url="all.xml.gz"
+#EXTINF:-1 tvg-id="1bb1ae974c688926" tvg-name="AfricaNews (Ireland)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ie",AfricaNews (Ireland)
+https://rakuten-africanews-1-ie.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="0df1485767e13971" tvg-name="AVF Family (Ireland)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ie",AVF Family (Ireland)
+https://futuretoday-afv-family-2-ie.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="9a9af3cf04f3025a" tvg-name="Bloomberg Quicktake (Ireland)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ie",Bloomberg Quicktake (Ireland)
+https://bloomberg-quicktake-1-ie.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="60409dab53118125" tvg-name="Bloomberg TV (Ireland)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ie",Bloomberg TV (Ireland)
+https://bloomberg-bloomberg-1-ie.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="995a1987ae28a462" tvg-name="Duck TV (Ireland)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ie",Duck TV (Ireland)
+https://mmm-ducktv-4-ie.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="581f66febd55b8a7" tvg-name="Edge Sports" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ie",Edge Sports
+https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5978d8ec1eac048b" tvg-name="Estv" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ie",Estv
+https://estv-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="d94e3d20775d23ae" tvg-name="Euronews (Ireland)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ie",Euronews (Ireland)
+https://rakuten-euronews-1-ie.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="e4b919301fe3ba2a" tvg-name="Insight TV" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ie",Insight TV
+https://insighttv-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="2f68af7672d56033" tvg-name="Mav TV Motorsports Network (Ireland)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ie",Mav TV Motorsports Network (Ireland)
+https://mavtv-mavtvglobal-1-ie.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="527f1f81e948db8a" tvg-name="Mytime Movie Network" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ie",Mytime Movie Network
+https://appletree-mytimeuk-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="4eeb1f42a0d37ae0" tvg-name="Rakuten Action Movies (Ireland)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ie",Rakuten Action Movies (Ireland)
+https://rakuten-action-13-ie.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="04c300ef4a66b656" tvg-name="Rakuten Comedy Movies (Ireland)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ie",Rakuten Comedy Movies (Ireland)
+https://rakuten-comedy-13-ie.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5a9bcc38f76d1c36" tvg-name="Rakuten Documentaries" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ie",Rakuten Documentaries
+https://rakuten-documentaries-13-ie.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="e575a991aab698aa" tvg-name="Rakuten Drama (Ireland)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ie",Rakuten Drama (Ireland)
+https://rakuten-drama-13-ie.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="c77083a7da54a06e" tvg-name="Rakuten Family (Ireland)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ie",Rakuten Family (Ireland)
+https://rakuten-family-13-ie.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ed28d3c282ca19b3" tvg-name="Rakuten Stories" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ie",Rakuten Stories
+https://rakuten-spotlight-13-ie.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="caf807eec81cfb04" tvg-name="Reuters Now" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ie",Reuters Now
+https://reuters-reutersnow-1-gb.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="969081987a461696" tvg-name="The Guardian" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ie",The Guardian
+https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="cfb997b70964606f" tvg-name="Young Hollywood" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ie",Young Hollywood
+https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8

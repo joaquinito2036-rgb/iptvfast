@@ -1,0 +1,35 @@
+#EXTM3U x-tvg-url="all.xml.gz"
+#EXTINF:-1 tvg-id="b3ad6b6c66170bff" tvg-name="Action Hollywood Movies" group-title="fetchtv" platform="fetchtv" country="au",Action Hollywood Movies
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-fetchtvau/playlist.m3u8
+#EXTINF:-1 tvg-id="4374d6f1fc789056" tvg-name="Fuel TV" group-title="fetchtv" platform="fetchtv" country="au",Fuel TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvauen-fetchtvau/playlist.m3u8
+#EXTINF:-1 tvg-id="31fab4bb934634be" tvg-name="Haunt TV" group-title="fetchtv" platform="fetchtv" country="au",Haunt TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01446-blueantmediacan-haunttvaustralia-fetchtvau/playlist.m3u8
+#EXTINF:-1 tvg-id="98f0d4c619e83b02" tvg-name="INFAST" group-title="fetchtv" platform="fetchtv" country="au",INFAST
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestyle-fetchtvau/playlist.m3u8
+#EXTINF:-1 tvg-id="29937732d7de942a" tvg-name="INTROUBLE" group-title="fetchtv" platform="fetchtv" country="au",INTROUBLE
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-introuble-fetchtvau/playlist.m3u8
+#EXTINF:-1 tvg-id="2473f5a5496c9080" tvg-name="INTROUBLE HD" group-title="fetchtv" platform="fetchtv" country="au",INTROUBLE HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-introublehd-fetchtvau/playlist.m3u8
+#EXTINF:-1 tvg-id="d0e41597d273d5e6" tvg-name="INWONDER" group-title="fetchtv" platform="fetchtv" country="au",INWONDER
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonder-fetchtvau/playlist.m3u8
+#EXTINF:-1 tvg-id="362ac0a0d572a32f" tvg-name="INWONDER HD" group-title="fetchtv" platform="fetchtv" country="au",INWONDER HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonderhd-fetchtvau/playlist.m3u8
+#EXTINF:-1 tvg-id="941a5e33a5dd4553" tvg-name="MovieSphere" group-title="fetchtv" platform="fetchtv" country="au",MovieSphere
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviesphereaus-fetchtvau/playlist.m3u8
+#EXTINF:-1 tvg-id="374d019a2a54359e" tvg-name="Nature Time" group-title="fetchtv" platform="fetchtv" country="au",Nature Time
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenatureau-fetchtvau/playlist.m3u8
+#EXTINF:-1 tvg-id="244b123d0dc7c93e" tvg-name="Nosey (Geo)" group-title="fetchtv" platform="fetchtv" country="au",Nosey (Geo)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00560-noseymarathonve-nosey-fetchtvau/playlist.m3u8
+#EXTINF:-1 tvg-id="b5ee5c60fcd30771" tvg-name="Now 70s" group-title="fetchtv" platform="fetchtv" country="au",Now 70s
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-now70-fetchtv-fetchtvau/playlist.m3u8
+#EXTINF:-1 tvg-id="1a464e945f28ee49" tvg-name="Now 80s" group-title="fetchtv" platform="fetchtv" country="au",Now 80s
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-now80-fetchtv-fetchtvau/playlist.m3u8
+#EXTINF:-1 tvg-id="90b21d10ac500558" tvg-name="Now Rock" group-title="fetchtv" platform="fetchtv" country="au",Now Rock
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-now90-fetchtv-fetchtvau/playlist.m3u8
+#EXTINF:-1 tvg-id="733ffb9162ab1499" tvg-name="Outdoor Channel" group-title="fetchtv" platform="fetchtv" country="au",Outdoor Channel
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortv-fetchtvau/playlist.m3u8
+#EXTINF:-1 tvg-id="4284d06f960be811" tvg-name="The Wicked Tuna Channel" group-title="fetchtv" platform="fetchtv" country="au",The Wicked Tuna Channel
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-wickedtuna-fetchtvau/playlist.m3u8
+#EXTINF:-1 tvg-id="9798a2c9f39667b2" tvg-name="Ticker News" group-title="fetchtv" platform="fetchtv" country="au",Ticker News
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01486-tickernews-tickernewsfetchau-fetchtvau/playlist.m3u8

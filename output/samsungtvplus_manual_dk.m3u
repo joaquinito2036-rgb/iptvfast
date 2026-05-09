@@ -1,0 +1,41 @@
+#EXTM3U x-tvg-url="all.xml.gz"
+#EXTINF:-1 tvg-id="3f36c9530c313e3d" tvg-name="Africanews (Denmark)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="dk",Africanews (Denmark)
+https://rakuten-africanews-1-dk.samsung.wurl.com/manifesttv/playlist.m3u8
+#EXTINF:-1 tvg-id="9a8a18271db593be" tvg-name="AVF Family (Denmark)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="dk",AVF Family (Denmark)
+https://futuretoday-afv-family-1-dk.samsung.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="05b9f1497c14abab" tvg-name="Bloomberg Quicktake (Denmark)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="dk",Bloomberg Quicktake (Denmark)
+https://bloomberg-quicktake-1-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="48f41a3738e295b9" tvg-name="Bloomberg TV (Denmark)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="dk",Bloomberg TV (Denmark)
+https://bloomberg-bloomberg-1-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="36ffc53517440c37" tvg-name="Duck Tv (Denmark)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="dk",Duck Tv (Denmark)
+https://mmm-ducktv-4-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="f6c4c6891f98811a" tvg-name="EdgeSport" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="dk",EdgeSport
+https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="1bf80c1e98881f53" tvg-name="Estv" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="dk",Estv
+https://estv-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="c9ad5b7acd785ea5" tvg-name="Euronews (Denmark)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="dk",Euronews (Denmark)
+https://rakuten-euronews-1-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="1e57425a31534127" tvg-name="Insight TV" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="dk",Insight TV
+https://insighttv-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="bd01aeb06fed0abd" tvg-name="Mavtv" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="dk",Mavtv
+https://mavtv-mavtvglobal-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="3fb4a9329e6ceaee" tvg-name="MyTime Movie Network" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="dk",MyTime Movie Network
+https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="f89b0fd538c9fa70" tvg-name="Rakuten Action (Denmark)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="dk",Rakuten Action (Denmark)
+https://rakuten-action-10-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="9e90aafc0a21987a" tvg-name="Rakuten Comedy (Denmark)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="dk",Rakuten Comedy (Denmark)
+https://rakuten-comedy-10-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="4ab5f84bf7cbd840" tvg-name="Rakuten Documentaries (Denmark)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="dk",Rakuten Documentaries (Denmark)
+https://rakuten-documentaries-10-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="85d11d76a7da39ef" tvg-name="Rakuten Drama (Denmark)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="dk",Rakuten Drama (Denmark)
+https://rakuten-drama-10-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="9ca68a69925c6f23" tvg-name="Rakuten Family (Denmark)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="dk",Rakuten Family (Denmark)
+https://rakuten-family-10-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="2e7736315f2c5daa" tvg-name="Rakuten Spotlight (Denmark)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="dk",Rakuten Spotlight (Denmark)
+https://rakuten-spotlight-10-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="a30999faff0bdef7" tvg-name="Reuters" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="dk",Reuters
+https://reuters-reuters-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="969a104710267a4d" tvg-name="venntv" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="dk",venntv
+https://venntv-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="57094b9c46c12596" tvg-name="Young Hollywood" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="dk",Young Hollywood
+https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8

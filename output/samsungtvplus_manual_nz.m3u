@@ -1,0 +1,239 @@
+#EXTM3U x-tvg-url="all.xml.gz"
+#EXTINF:-1 tvg-id="9d2d44b8e639c7ca" tvg-name="8 Out of 10 Cats (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",8 Out of 10 Cats (NZ)
+https://amg00627-amg00627c37-samsung-nz-4295.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ce4c56be1eb1a9eb" tvg-name="Action Hollywood Movies (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Action Hollywood Movies (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="b1989c000abb6c33" tvg-name="Ausbiz TV (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Ausbiz TV (NZ)
+https://ausbiztv-ausbiz-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="6b2aaab3ef9deb06" tvg-name="Ax Men (US) Temp" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Ax Men (US) Temp
+https://d2lh33kbymwmlp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9zc7g27a4n839/v1/aenetworks_axmen_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="7e97f5558cf6ce33" tvg-name="Baywatch (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Baywatch (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-baywatch-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="7531949ed53a3f4e" tvg-name="Bloomberg Originals (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Bloomberg Originals (NZ)
+https://bloomberg-quicktake-4-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="0f3eeee0bce25435" tvg-name="Bloomberg TV (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Bloomberg TV (NZ)
+https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="78b3b069d58880b1" tvg-name="Bondi Vet (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Bondi Vet (NZ)
+https://wtfn-bondivet-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ca33f5e1996172b9" tvg-name="Breaking News by Lead Story (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Breaking News by Lead Story (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02703-leadstory-leadstory-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="cc2e1640d6e9a2fe" tvg-name="Bring It (US) Temp" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Bring It (US) Temp
+https://d19s1akyi84tn7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2hib8recdg2wx/playlist.m3u8
+#EXTINF:-1 tvg-id="809b5116083b71e4" tvg-name="Caillou (Australia)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Caillou (Australia)
+https://d3jm6503vvwy1p.cloudfront.net/Caillou_US.m3u8
+#EXTINF:-1 tvg-id="7d47afc06ee34bef" tvg-name="Conan O'Brien TV (Australia)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Conan O'Brien TV (Australia)
+https://d1di0xodeo3g8i.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="12769d3d8dfa74d3" tvg-name="Cricket Gold (Australia) Test stream via Stirr source" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Cricket Gold (Australia) Test stream via Stirr source
+https://d382r3rgbxdixq.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-CricketGold/418.m3u8
+#EXTINF:-1 tvg-id="7a797aa353b1f3cc" tvg-name="Cricket Gold (Australia) via plex source" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Cricket Gold (Australia) via plex source
+https://dltcbyrjz4q6b.cloudfront.net/scheduler/scheduleMaster/418.m3u8
+#EXTINF:-1 tvg-id="7e9db2bfc4f98a5e" tvg-name="DAZN Womens Sports (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",DAZN Womens Sports (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznwomensport-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="880be4588317b398" tvg-name="Deal or No Deal (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Deal or No Deal (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-dealornodeal-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="1b2d43863c16773a" tvg-name="Deal or No Deal (NZ) Alt" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Deal or No Deal (NZ) Alt
+https://amg00627-amg00627c21-samsung-nz-3876.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="b2021f2fb32f0c70" tvg-name="Dog the Bounty Hunter (US) Temp" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Dog the Bounty Hunter (US) Temp
+https://d1byedgxiy4prw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wpx9zt6n0ikix/DogTheBountyHunter_US.m3u8
+#EXTINF:-1 tvg-id="65fa0c5466ff9cfa" tvg-name="Don't Tell the Bride (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Don't Tell the Bride (NZ)
+https://amg00426-lds-amg00426c15-samsung-nz-3685.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="2dd9c4564dece0ad" tvg-name="Dr G Medical Examiner (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Dr G Medical Examiner (NZ)
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_nz_drgmedicalexaminer_002.m3u8
+#EXTINF:-1 tvg-id="c57dc5a5d8f68d3d" tvg-name="Drybar Comedy (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Drybar Comedy (NZ)
+https://drybar-drybarcomedy-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="6dc37d0b791952a9" tvg-name="Duck Dynasty (US) Temp" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Duck Dynasty (US) Temp
+https://d27ibzhjiawl1m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4rfei5g9dayw8-ssai-prd/playlist.m3u8
+#EXTINF:-1 tvg-id="57deec2cc94fbac6" tvg-name="Duck TV (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Duck TV (NZ)
+https://d2lqf4qmkxuiyv.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="5a122946920d9bd3" tvg-name="Dude Perfect (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Dude Perfect (NZ)
+https://kidoodle-tv-dudeperfect-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="1e5a47d1e1dc4be9" tvg-name="Dust Alien Nation (NZ) Not listed" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Dust Alien Nation (NZ) Not listed
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dustintlnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="0d8124f4c59511fe" tvg-name="Eggheads (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Eggheads (NZ)
+https://amg00654-itv-amg00654c18-samsung-nz-4373.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="d6e044790a5419d4" tvg-name="Entertainment Hub (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Entertainment Hub (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01447-samsungau-enthubnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="f5124f89ce8a7e78" tvg-name="EuroNews World (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",EuroNews World (NZ)
+https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="44f41086c3ab59a3" tvg-name="Evolution Earth (Substitute)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Evolution Earth (Substitute)
+https://d3em2dvvzq3oj4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-23j2wegjm8ftd/Evolution_Earth.m3u8
+#EXTINF:-1 tvg-id="d423a6c9e3aecc80" tvg-name="Fear Factor (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Fear Factor (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-fearfactor-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="ff2d03c355acd133" tvg-name="Fifa Plus (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Fifa Plus (NZ)
+https://d4d7299f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1uel9GSUZBUGx1c19ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="a50f7919485a8aea" tvg-name="Filmrise Unsolved Mysterys (US) Temp" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Filmrise Unsolved Mysterys (US) Temp
+https://d2srpl61ng5l7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c1yeqep17tx1z/master.m3u8
+#EXTINF:-1 tvg-id="6be4d4a8c24734ee" tvg-name="Fireplace TV 4K" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Fireplace TV 4K
+https://d27omhseb6pn06.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5dtvkvuar6h4t/playlist.m3u8
+#EXTINF:-1 tvg-id="95f72c3a6259c781" tvg-name="Four in a Bed (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Four in a Bed (NZ)
+https://all3media-four-in-a-bed-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="16cb13a6f2966c2f" tvg-name="France 24 (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",France 24 (NZ)
+https://amg00106-amg00106c1-samsung-nz-4151.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="68ece2e69ecb1c6b" tvg-name="Fuel TV (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Fuel TV (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvnz-samsungnz/playliist.m3u8
+#EXTINF:-1 tvg-id="6a1219b5050147e1" tvg-name="GB News (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",GB News (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="beeb4927aa6b03df" tvg-name="Ghost Hunters Channel (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Ghost Hunters Channel (NZ)
+https://amg00353-amg00353c30-samsung-nz-3439.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="6ea51b74d46ba718" tvg-name="Grace and Frankie (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Grace and Frankie (NZ)
+https://amg00353-amg00353c24-samsung-nz-2985.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-graceandfrankie-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="ef11cbfeaafa8dc3" tvg-name="Gusto TV (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Gusto TV (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="bae6c78e82fa3e0d" tvg-name="Hardcore Pawn (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Hardcore Pawn (NZ)
+https://amg00627-banijay-amg00627c8-samsung-nz-1828.playouts.now.amagi.tv/playlist/amg00627-banijayfast-hardcorepawn-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="9cc3be0e2f2aaa2e" tvg-name="Haunt TV (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Haunt TV (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01446-blueantmediacan-haunttvaus-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="aa57b1beca14d299" tvg-name="Highway Thru Hell (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Highway Thru Hell (NZ)
+https://amg00627-amg00627c15-samsung-nz-2900.playouts.now.amagi.tv/playlist/amg00627-banijayfast-highwaythruhell-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="22efb5ce0d8f524a" tvg-name="History and Warfare Now (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",History and Warfare Now (NZ)
+https://amg00376-magellan-amg00376c19-samsung-nz-1735.playouts.now.amagi.tv/playlist/amg00376-magellantv-historyandwarfarenowaunzin-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="ce0649b2d7ba5952" tvg-name="History Hit (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",History Hit (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="e0330ce4a1444135" tvg-name="Homeful Channel (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Homeful Channel (NZ)
+https://amg00090-blueantcanada-amg00090c4-samsung-nz-820.playouts.now.amagi.tv/playlist/amg00090-blueantfast-homefulworldwide-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="6d06eb46f5d13460" tvg-name="Homes under the Hammer (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Homes under the Hammer (NZ)
+https://all3media-homes-under-the-hammer-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="7dd921b99fa10efe" tvg-name="Horse and Country Free (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Horse and Country Free (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00810-horsecountrytvl-hncfreenz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="53f2f60c1ffdad34" tvg-name="Hot Ones (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Hot Ones (NZ)
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_nz_hotones_002.m3u8
+#EXTINF:-1 tvg-id="e549ed5d7e599d76" tvg-name="I Survived (US) Temp" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",I Survived (US) Temp
+https://d1ewp56x5c748d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h8q4vtuq45uml/v1/aenetworks_i_survived_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="acf7d4663e67afb0" tvg-name="Ice Road Truckers (US) Temp" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Ice Road Truckers (US) Temp
+https://d2kvsjfwnt7hv3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c8zmnfacbz0fp/v1/aenetworks_iceroadtruckers_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="12b96406c6681ead" tvg-name="INFAST (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",INFAST (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestyle-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="8ddcce95431afda2" tvg-name="Intervention (US) Temp" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Intervention (US) Temp
+https://d1fgpy58dwnjlq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9ovuuxeo5r512/playlist.m3u8
+#EXTINF:-1 tvg-id="3e58cfa948cca153" tvg-name="INTROUBLE (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",INTROUBLE (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-introublenz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="aa2bd8bd8e592890" tvg-name="INWILD (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",INWILD (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwildnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="e131d31756825a53" tvg-name="INWONDER (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",INWONDER (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwondernz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="205711ea75d135dc" tvg-name="ITV Choice Temp (AU) Geo  Not listed" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",ITV Choice Temp (AU) Geo  Not listed
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00654-itvstudios-itvchoice-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="6e3d4cde954fde6d" tvg-name="Kartoon Channel (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Kartoon Channel (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="3428d15904976f87" tvg-name="Kidoodle.tv (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Kidoodle.tv (NZ)
+https://kidoodle-tv-kidoodletv-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="9c9babd4b144b0fa" tvg-name="Life Downunder (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Life Downunder (NZ)
+https://wtfn-lifedownunder-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="30b41436a6d8ed01" tvg-name="Little Women L.A (US) Temp" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Little Women L.A (US) Temp
+https://d3uuxmvz9qi6a1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2322wi60v1e15/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD170000771
+#EXTINF:-1 tvg-id="1c1178715a98824a" tvg-name="Made in Hollywood (NZ) Not listed" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Made in Hollywood (NZ) Not listed
+https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="c9802081f2206308" tvg-name="Magellan TV Now (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Magellan TV Now (NZ)
+https://amg00376-magellan-amg00376c5-samsung-nz-1714.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="27c1338e1fa76279" tvg-name="Mav TV Motorsports Network (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Mav TV Motorsports Network (NZ)
+https://amg00378-mavtv-amg00378c2-samsung-nz-1791.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="54bff00aeca2a2f3" tvg-name="Mcleods Daughters (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Mcleods Daughters (NZ)
+https://amg00627-amg00627c5-samsung-nz-2807.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mcleodsdaughters-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="4255af102a47f6d7" tvg-name="Modern Marvels (US) Temp" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Modern Marvels (US) Temp
+https://d39yivx9sx3dvl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n0w8n4cenw1oz/v1/aenetworks_modernmarvels_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="79611bc4784ba25f" tvg-name="Motorsport.tv (Australia) Temp" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Motorsport.tv (Australia) Temp
+https://6a4334bc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdV9Nb3RvcnNwb3J0VFZfSExT/playlist.m3u8
+#EXTINF:-1 tvg-id="0d4117d9d45f046e" tvg-name="Motorvision.TV (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Motorvision.TV (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="b0c10ec55c7e28e5" tvg-name="Moviesphere (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Moviesphere (NZ)
+https://amg00353-amg00353c32-samsung-nz-3588.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="fa25633c5e5aa3a1" tvg-name="Mr Bean Animated (Australia) Geo" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Mr Bean Animated (Australia) Geo
+https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanuk-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="71228cf27a923748" tvg-name="Mtrsprt 1 (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Mtrsprt 1 (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="f51ab047898d2c92" tvg-name="Mythbusters (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Mythbusters (NZ)
+https://amg00627-banijay-amg00627c14-samsung-nz-2342.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mythbusters-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="6cb444faa671e91f" tvg-name="NatureTime (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",NatureTime (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenatureau-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="7d4ed6b674c5ff5c" tvg-name="Nosey (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Nosey (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00514-noseybaxterllc-noseyintlnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="c73199f8e3a7bc81" tvg-name="Now 70's (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Now 70's (NZ)
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="33da68523c0a7631" tvg-name="Now 80's (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Now 80's (NZ)
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="490b18d14d95dc90" tvg-name="Now 90's (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Now 90's (NZ)
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="22efb376d8fb7223" tvg-name="Outdoor Channel (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Outdoor Channel (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="935dfef12ec1e8b9" tvg-name="PBS Antique Road Trip (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",PBS Antique Road Trip (NZ)
+https://amg02333-pbs-amg02333c5-samsung-nz-2440.playouts.now.amagi.tv/PBSD-AntiquesRoadTripSF-samsung/playlist.m3u8
+#EXTINF:-1 tvg-id="cc81953e291afad7" tvg-name="PBS History (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",PBS History (NZ)
+https://amg02333-pbs-amg02333c1-samsung-nz-1254.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbshistory-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="92df83407043628a" tvg-name="PBS Kids (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",PBS Kids (NZ)
+https://pbs2-pull-secure.akamaized.net/pbs2/stream.m3u8
+#EXTINF:-1 tvg-id="6187ddbcfee89100" tvg-name="Pet Club TV (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Pet Club TV (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="46bee67e927421bc" tvg-name="PGA Tour (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",PGA Tour (NZ)
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_nz_pgatour_001.m3u8
+#EXTINF:-1 tvg-id="7a05fb1c9cf79f3c" tvg-name="Powernation (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Powernation (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01258-raycomsports-powernationnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="e42a161736deae10" tvg-name="Pulse TV (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Pulse TV (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="834b7278645c6ddc" tvg-name="RCM (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",RCM (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="0254f4064a13687d" tvg-name="Real Crime (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Real Crime (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realcrimebetanz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="b23521bc563bb6bf" tvg-name="Real Life (NZ) Not listed" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Real Life (NZ) Not listed
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-reallifenz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="54a733d2471d99c5" tvg-name="Real Stories (NZ) Not listed" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Real Stories (NZ) Not listed
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realstoriesnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="cf26bd799490c78d" tvg-name="Real Wild (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Real Wild (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="2d0dced2c0eccfcc" tvg-name="Red Bull TV (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Red Bull TV (NZ)
+https://d348r1iu8hx0nx.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="dc5dea34cb14295d" tvg-name="Ryan and Friends (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Ryan and Friends (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00286-pocketwatch-ryanandfriends-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="4888fcc91e032a1c" tvg-name="Sonic the Hedgehog (Substitute)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Sonic the Hedgehog (Substitute)
+https://d36joy6bh8xxe2.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="cde62301f1c68b39" tvg-name="Stingray Holidayscapes" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Stingray Holidayscapes
+https://d10cyxntpn0bwm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-udbgiwo3vva3o/master.m3u8
+#EXTINF:-1 tvg-id="e8217d159a895f33" tvg-name="Stingray Naturescape" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Stingray Naturescape
+https://1fdcca9feb9c4e75bda1c6b0339175fe.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_StingrayNaturescape/playlist.m3u8
+#EXTINF:-1 tvg-id="a798c5214b6d466a" tvg-name="Strawberry Shortcake (Substitute)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Strawberry Shortcake (Substitute)
+https://d3kuzudxjuzgkx.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="c27e7a255a8ee470" tvg-name="Surfer (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Surfer (NZ)
+https://amg13231-actve-amg13231c4-samsung-nz-3093.playouts.now.amagi.tv/playlist/amg13231-actvefast-surfer-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="45eb027e5032460d" tvg-name="Survivor (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Survivor (NZ)
+https://amg00627-amg00627c16-samsung-nz-2811.playouts.now.amagi.tv/playlist/amg00627-banijayfast-survivor-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="f0d51ec815563518" tvg-name="Tastemade (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Tastemade (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="a01a8074d2dcdf61" tvg-name="TeleTubbies (Australia)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",TeleTubbies (Australia)
+https://d1mxjtebmoshcc.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="33c9bd172fe52149" tvg-name="The Biggest Loser (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",The Biggest Loser (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-biggestloser-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="1b4cd1eaa29df5c7" tvg-name="The Chatshow Channel (NZ) Not listed" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",The Chatshow Channel (NZ) Not listed
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-thechatshow-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="d001d9c35637fbfc" tvg-name="The Design Network (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",The Design Network (NZ)
+https://thedesignnetwork-tdn-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="d1b5b23d8778460d" tvg-name="Tiny House Nation (US) Temp" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Tiny House Nation (US) Temp
+https://disyw7xcmhink.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-26mfabjsursqh/v1/aenetworks_tinyhousenation_1/samsungheadend_us/latest/main/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USAJ3400020KC
+#EXTINF:-1 tvg-id="5e89093a7744e4c1" tvg-name="Trace Sports Stars (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Trace Sports Stars (NZ)
+https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="886dc28338d6fe70" tvg-name="Trace Urban (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Trace Urban (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="e3c32662a13810bd" tvg-name="Travel XP (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Travel XP (NZ)
+https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="c7d910e25253e03c" tvg-name="True Crime Now (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",True Crime Now (NZ)
+https://amg00376-magellan-amg00376c12-samsung-nz-1727.playouts.now.amagi.tv/playlist/amg00376-magellantv-truecrimenowaunzin-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="ea8101c2f8cd9496" tvg-name="Vevo 2K (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Vevo 2K (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="ae7af0214286725a" tvg-name="Vevo 70's (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Vevo 70's (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo70saunz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="d408d17a6cd70d25" tvg-name="Vevo 80's (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Vevo 80's (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo80saunz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="f6fab90b01a6a0f4" tvg-name="Vevo 90's (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Vevo 90's (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo80saunz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="1ba407c12529aa47" tvg-name="Vevo Christmas (NZ) Unlisted" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Vevo Christmas (NZ) Unlisted
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevochristmasau-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="f72733a1d0e88b2c" tvg-name="Vevo Country (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Vevo Country (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevocountryau-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="fc2eb8b85c40a48a" tvg-name="Vevo Pop (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Vevo Pop (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopopau-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="c672a760646f12b5" tvg-name="Vevo Retro Rock (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Vevo Retro Rock (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevoretrorockau-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="f4dcf0ea7a96a8ee" tvg-name="Waterbear (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Waterbear (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="bdda4c47ff730910" tvg-name="Wipeout Xtra (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Wipeout Xtra (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-wipeoutxtranz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="6deddf16bbc47100" tvg-name="Wonder (NZ)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nz",Wonder (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8

@@ -1,0 +1,39 @@
+#EXTM3U x-tvg-url="all.xml.gz"
+#EXTINF:-1 tvg-id="9e0d213ea3518108" tvg-name="AfricaNews (Finland)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="fi",AfricaNews (Finland)
+https://rakuten-africanews-1-fi.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="19c781506728ef1d" tvg-name="AVF Family (Finland)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="fi",AVF Family (Finland)
+https://futuretoday-afv-family-1-fi.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="be863c08e91adf30" tvg-name="Bloomberg Quicktake (Finland)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="fi",Bloomberg Quicktake (Finland)
+https://bloomberg-quicktake-1-fi.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="200287f958cc2af7" tvg-name="Bloomberg TV (Finland)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="fi",Bloomberg TV (Finland)
+https://bloomberg-bloomberg-1-fi.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="7d612b2feb16d35b" tvg-name="Duck Tv (Finland)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="fi",Duck Tv (Finland)
+https://mmm-ducktv-4-fi.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="9afa6779fbbb5e0c" tvg-name="EdgeSport" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="fi",EdgeSport
+https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="96e655d8dedb5e7c" tvg-name="Estv" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="fi",Estv
+https://estv-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="c070702728887808" tvg-name="Euronews (Finland)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="fi",Euronews (Finland)
+https://rakuten-euronews-1-fi.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="d73aa7da2825c1fb" tvg-name="Insight TV" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="fi",Insight TV
+https://insighttv-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ea7ac468ac1fed0a" tvg-name="Mavtv (Finland)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="fi",Mavtv (Finland)
+https://mavtv-mavtvglobal-1-fi.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ba8bb8087bb24d41" tvg-name="MyTime Movie Network" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="fi",MyTime Movie Network
+https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="406f68583644c930" tvg-name="Rakuten Action (Finland)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="fi",Rakuten Action (Finland)
+https://rakuten-action-12-fi.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="8fee0f22cc0dec31" tvg-name="Rakuten Comedy (Finland)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="fi",Rakuten Comedy (Finland)
+https://rakuten-comedy-12-fi.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="c20e4c5d3c1d1fd4" tvg-name="Rakuten Documentaries (Finland)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="fi",Rakuten Documentaries (Finland)
+https://rakuten-documentaries-12-fi.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="56cfcfa2592dc9ba" tvg-name="Rakuten Drama (Finland)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="fi",Rakuten Drama (Finland)
+https://rakuten-drama-12-fi.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="b4da9b9bd987ab75" tvg-name="Rakuten Family (Finland)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="fi",Rakuten Family (Finland)
+https://rakuten-family-12-fi.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="7c24fd62251531a7" tvg-name="Rakuten Spotlight (Finland)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="fi",Rakuten Spotlight (Finland)
+https://rakuten-spotlight-12-fi.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="d1e1f2ed2834267f" tvg-name="Reuters" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="fi",Reuters
+https://reuters-reuters-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="3ae13b3178fcc17b" tvg-name="Young Hollywood" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="fi",Young Hollywood
+https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8

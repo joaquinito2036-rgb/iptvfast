@@ -1,0 +1,49 @@
+#EXTM3U x-tvg-url="all.xml.gz"
+#EXTINF:-1 tvg-id="25da3c48e7941d02" tvg-name="Come Dine with me" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="sg",Come Dine with me
+https://amg00654-itv-amg00654c2-samsung-sg-4584.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="b68372bafec82305" tvg-name="Deal or No Deal" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="sg",Deal or No Deal
+https://amg00627-amg00627c21-samsung-sg-5283.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="3c61c8ab768dc9b8" tvg-name="Don't Tell the Bride" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="sg",Don't Tell the Bride
+https://amg00426-lds-amg00426c15-samsung-sg-4615.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="d36ca7f1b8b64e69" tvg-name="Euronews World" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="sg",Euronews World
+https://amg00882-amg00882c2-samsung-sg-4543.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="8c2daac870359d26" tvg-name="Fear Factor" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="sg",Fear Factor
+https://amg00627-amg00627c2-samsung-sg-5296.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="1f25673a61f49826" tvg-name="France 24" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="sg",France 24
+https://amg00106-amg00106c1-samsung-sg-4551.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="e114dd9fc015971f" tvg-name="Hardcore Pawn" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="sg",Hardcore Pawn
+https://amg00627-amg00627c8-samsung-sg-5277.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="1dd3b80340078dae" tvg-name="Highway Thru Hell" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="sg",Highway Thru Hell
+https://amg00627-amg00627c15-samsung-sg-4560.playouts.now.amagi.tv/playlist/amg00627-banijayfast-highwaythruhell-samsungsg/playlist.m3u8
+#EXTINF:-1 tvg-id="9c4afa7727d1cad7" tvg-name="History Hit" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="sg",History Hit
+https://amg00426-lds-amg00426c2-samsung-sg-4624.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="096e02c9b0d17c4b" tvg-name="INFAST" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="sg",INFAST
+https://amg00861-amg00861c8-samsung-sg-4630.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="520bf09fa2c16777" tvg-name="INTRAVEL" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="sg",INTRAVEL
+https://amg00861-amg00861c22-samsung-sg-5412.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="fcbe0be7af8cb7a3" tvg-name="INWILD" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="sg",INWILD
+https://amg00861-amg00861c7-samsung-sg-4633.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="cd2fd625577f2971" tvg-name="Leadstory Breaking News" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="sg",Leadstory Breaking News
+https://amg02703-amg02703c17-samsung-sg-4547.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="0c3d18df3d1c63a5" tvg-name="Mr Bean Animated" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="sg",Mr Bean Animated
+https://amg00627-amg00627c23-samsung-sg-5280.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="dd3469813eaa0cea" tvg-name="Mythbusters" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="sg",Mythbusters
+https://amg00627-amg00627c14-samsung-sg-4557.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mythbusters-samsungsg/playlist.m3u8
+#EXTINF:-1 tvg-id="8f387f8f0ce9cd0d" tvg-name="Pulse TV" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="sg",Pulse TV
+https://amg01076-amg01076c8-samsung-sg-5640.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="1ef0d7a0b2fa13d7" tvg-name="Real Crime" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="sg",Real Crime
+https://amg00426-lds-amg00426c16-samsung-sg-4621.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="3ae8313045da8923" tvg-name="Real Wild" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="sg",Real Wild
+https://amg00426-lds-amg00426c1-samsung-sg-4627.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="1c70891c5d75c0bd" tvg-name="River Monsters" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="sg",River Monsters
+https://amg00654-itv-amg00654c12-samsung-sg-4581.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="709c214b0eaafb9a" tvg-name="Survivor" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="sg",Survivor
+https://amg00627-amg00627c16-samsung-sg-5301.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="422406a4edf4c4c0" tvg-name="The Biggest Loser" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="sg",The Biggest Loser
+https://amg00627-amg00627c4-samsung-sg-5274.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="07c3b36919533ad7" tvg-name="Trace Urban" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="sg",Trace Urban
+https://amg01131-amg01131c1-samsung-sg-5306.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="7794fcdb3b77319b" tvg-name="Wipeout Xtra" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="sg",Wipeout Xtra
+https://amg00627-amg00627c7-samsung-sg-5299.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="3fc0aebfee128d3f" tvg-name="Zee World" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="sg",Zee World
+https://amg17931-zee-amg17931c6-samsung-sg-5779.playouts.now.amagi.tv/playlist.m3u8

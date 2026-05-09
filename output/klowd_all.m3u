@@ -1,0 +1,163 @@
+#EXTM3U x-tvg-url="all.xml.gz"
+#EXTINF:-1 tvg-id="c9179f0f49f37f88" tvg-name="24 Hour Movies" group-title="klowd" platform="klowd" country="all",24 Hour Movies
+https://muxip-24hoursmovies-klowdtv.amagi.tv/hls/amagi_hls_data_klowdtvAA-muxip-24hoursmovies/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="df6704c5fc6e6437" tvg-name="911 Encore" group-title="klowd" platform="klowd" country="all",911 Encore
+https://amg00283-anthymtv-911network-ono-p7py5.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="48543fe90c33c43c" tvg-name="Action Hollywood (GEO USA)" group-title="klowd" platform="klowd" country="all",Action Hollywood (GEO USA)
+https://actionhollywood-klowdtv.amagi.tv/hls/amagi_hls_data_klowdtvAA-actionhollywood-klowdtv/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="ac04931279573620" tvg-name="Allied Esports" group-title="klowd" platform="klowd" country="all",Allied Esports
+https://muxip-alliedesports-klowdtv.amagi.tv/hls/amagi_hls_data_klowdtvAA-muxip-allied-e-sports/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="f9bcf58e0358d577" tvg-name="Aspire TV Life" group-title="klowd" platform="klowd" country="all",Aspire TV Life
+https://uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="7d2c9a6a1d0adbe0" tvg-name="AWE" group-title="klowd" platform="klowd" country="all",AWE
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/awe_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="8a75f9a2aedd6adc" tvg-name="Awe Plus" group-title="klowd" platform="klowd" country="all",Awe Plus
+https://b08f85ef072648ebbe197a5e5e436549.mediatailor.us-west-2.amazonaws.com/v1/master/d138761b0916ee5f222129c594a33677627df5e3/KlowdTV_AWE_Plus/fast/AWE_Encore/playlist.m3u8
+#EXTINF:-1 tvg-id="80c6e9d90bc883ed" tvg-name="Bein Sports Xtra  (GEO USA)" group-title="klowd" platform="klowd" country="all",Bein Sports Xtra  (GEO USA)
+https://beinxtra-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="b78c4d0ea4f99a09" tvg-name="Bein Xtra ESP (GEO USA)" group-title="klowd" platform="klowd" country="all",Bein Xtra ESP (GEO USA)
+https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ee1d41f33c7a64de" tvg-name="Beond TV (GEO)" group-title="klowd" platform="klowd" country="all",Beond TV (GEO)
+https://amg01681-beondtv-amg01681c1-klowdtv-us-648.playouts.now.amagi.tv/playlist/amg01681-beondtv-beondtv-klowdtvus/playlist.m3u8?
+#EXTINF:-1 tvg-id="04b0bb4e091d13a5" tvg-name="Billiard TV" group-title="klowd" platform="klowd" country="all",Billiard TV
+https://tripleb-billiardtv.amagi.tv/hls/amagi_hls_data_klowdtvAA-tripleb-billiardtv/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="2d537e722bb9de78" tvg-name="Campuslore (GEO USA)" group-title="klowd" platform="klowd" country="all",Campuslore (GEO USA)
+https://naviofequency-campusloresports.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="c88448ce1e51f48f" tvg-name="Carbon TV (GEO USA)" group-title="klowd" platform="klowd" country="all",Carbon TV (GEO USA)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01570-carbontv-carbontv-klowdtv/playlist.m3u8
+#EXTINF:-1 tvg-id="6c176e1947c681cf" tvg-name="Cine Sony" group-title="klowd" platform="klowd" country="all",Cine Sony
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="bc7cf4df43834ada" tvg-name="Circle TV (GEO USA)" group-title="klowd" platform="klowd" country="all",Circle TV (GEO USA)
+https://circle-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="56a368894675923d" tvg-name="CMC" group-title="klowd" platform="klowd" country="all",CMC
+https://cmc-kowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="69b4ee512a835b79" tvg-name="Cooking Panda" group-title="klowd" platform="klowd" country="all",Cooking Panda
+https://api-ott-cookingpanda.ottera.tv/loggingmediaurlpassthrough/a.m3u8?&version=12&id=901&partner=klowdtv&device_model=&device_width=1920&device_height=1080&yob=&gender=&us_privacy=1---&gdpr=&gdpr_consent=&device_language=&is_lat=
+#EXTINF:-1 tvg-id="42d56de712d08ba4" tvg-name="Court TV" group-title="klowd" platform="klowd" country="all",Court TV
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/courttv_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="a54a43a0cecb2c1c" tvg-name="Dark Corners" group-title="klowd" platform="klowd" country="all",Dark Corners
+https://d37s0md1fx4qof.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DarkCorners-KlowdTV/189.m3u8
+#EXTINF:-1 tvg-id="07a68f290a0faa1a" tvg-name="Dark Matter (GEO USA)" group-title="klowd" platform="klowd" country="all",Dark Matter (GEO USA)
+https://darkmatter-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="9a1887effd6439af" tvg-name="Demand Africa" group-title="klowd" platform="klowd" country="all",Demand Africa
+https://demandafrica-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="029fbd41a7fd6543" tvg-name="Edge Sports (GEO USA)" group-title="klowd" platform="klowd" country="all",Edge Sports (GEO USA)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-edgesports-klowdtv/playlist.m3u8
+#EXTINF:-1 tvg-id="9a0a6ee6dd7ce120" tvg-name="EESL" group-title="klowd" platform="klowd" country="all",EESL
+https://d1cc0p6j4uj4n9.cloudfront.net/ae41d4a8-9c92-4085-9f6d-b399a4073425/hls/e50df211-f64e-4da0-acee-419c8919d9ee.m3u8
+#EXTINF:-1 tvg-id="8f2b3a0846b5a0d8" tvg-name="ESTV" group-title="klowd" platform="klowd" country="all",ESTV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00303-televisionkorea-estv-klowdtv/playlist.m3u8
+#EXTINF:-1 tvg-id="c9a4e1a37542f17c" tvg-name="Euronews" group-title="klowd" platform="klowd" country="all",Euronews
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/euronews_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="bcfa1e69fb84809f" tvg-name="FantaWild (GEO USA)" group-title="klowd" platform="klowd" country="all",FantaWild (GEO USA)
+https://cinedigm-fantawild-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="86e8484f8f71c33a" tvg-name="Fednet (GEO USA)" group-title="klowd" platform="klowd" country="all",Fednet (GEO USA)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01622-federalnetworki-fednet-klowdtv/playlist.m3u8
+#EXTINF:-1 tvg-id="70035045e74d9418" tvg-name="Feva (GEO USA)" group-title="klowd" platform="klowd" country="all",Feva (GEO USA)
+https://feva-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="93aca27d65280e79" tvg-name="Fido TV" group-title="klowd" platform="klowd" country="all",Fido TV
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/fido_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="744c24f4abd6041b" tvg-name="FinTech TV" group-title="klowd" platform="klowd" country="all",FinTech TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02236-fintechtvpbc-fintech-klowdtv/playlist.m3u8
+#EXTINF:-1 tvg-id="b680a807a96623bc" tvg-name="Fite 247" group-title="klowd" platform="klowd" country="all",Fite 247
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/fite247_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="ab8c938166ad83ec" tvg-name="France 24" group-title="klowd" platform="klowd" country="all",France 24
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="5d6999c98cd903db" tvg-name="France 24 Espanol" group-title="klowd" platform="klowd" country="all",France 24 Espanol
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24sp_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="28ec6dd20e79bb7b" tvg-name="FTF For the Fans (GEO USA)" group-title="klowd" platform="klowd" country="all",FTF For the Fans (GEO USA)
+https://tripleb-ftf.amagi.tv/hls/amagi_hls_data_klowdtvAA-tripleb-for-the-fans/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="2df9492e216771ee" tvg-name="Fun Roads TV" group-title="klowd" platform="klowd" country="all",Fun Roads TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=978
+#EXTINF:-1 tvg-id="e1563596e2c3a3f7" tvg-name="Fuse Backstage (GEO USA)" group-title="klowd" platform="klowd" country="all",Fuse Backstage (GEO USA)
+https://fusexl-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="a17aeee3ac86e589" tvg-name="Gameshow Network" group-title="klowd" platform="klowd" country="all",Gameshow Network
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="6a707d6bebb90ce0" tvg-name="GO Traveller" group-title="klowd" platform="klowd" country="all",GO Traveller
+https://api-ott.gotraveler.com/loggingmediaurlpassthrough/a.m3u8?&version=12&id=677&partner=klowdtv&device_model=&device_width=1920&device_height=1080&yob=&gender=&us_privacy=1---&gdpr=&gdpr_consent=&device_language=&is_lat=
+#EXTINF:-1 tvg-id="4dace0dc80eba44f" tvg-name="Gusto TV (GEO USA)" group-title="klowd" platform="klowd" country="all",Gusto TV (GEO USA)
+https://gusto-klowd.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="fadf5345154c91d0" tvg-name="HappiTV" group-title="klowd" platform="klowd" country="all",HappiTV
+https://globecastna-happi-tv-klowdtv.amagi.tv/hls/amagi_hls_data_klowdtvAA-happi-tv-klowdtv/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="f94f3ded743c8811" tvg-name="HardKnocks" group-title="klowd" platform="klowd" country="all",HardKnocks
+https://muxip-hardknocks-klowdtv.amagi.tv/hls/amagi_hls_data_klowdtvAA-muxip-hardknocks/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="199642b622136f1e" tvg-name="Horror Machine (GEO USA)" group-title="klowd" platform="klowd" country="all",Horror Machine (GEO USA)
+https://naviofrequency-horrormachine-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="32f59d1824c965c6" tvg-name="HSN" group-title="klowd" platform="klowd" country="all",HSN
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/hsn_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="bb5c8145b56c4604" tvg-name="Infowars" group-title="klowd" platform="klowd" country="all",Infowars
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/infowars_source/chunks.m3u8
+#EXTINF:-1 tvg-id="aa4ba8087c78fdc4" tvg-name="Jovem Pan News" group-title="klowd" platform="klowd" country="all",Jovem Pan News
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01391-addigital-jovempan-klowdtv/playlist.m3u8
+#EXTINF:-1 tvg-id="581757a92e3207dd" tvg-name="Legend Films" group-title="klowd" platform="klowd" country="all",Legend Films
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5288
+#EXTINF:-1 tvg-id="929a100941c60f22" tvg-name="Level Up" group-title="klowd" platform="klowd" country="all",Level Up
+https://d37s0md1fx4qof.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/LevelUp-KlowdTV/195.m3u8
+#EXTINF:-1 tvg-id="5299557431a81784" tvg-name="Life Minute" group-title="klowd" platform="klowd" country="all",Life Minute
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01468-lifeminutetv-lifeminute-klowdtv/playlist.m3u8
+#EXTINF:-1 tvg-id="7d902d577c0f66f5" tvg-name="LoveNature (GEO USA)" group-title="klowd" platform="klowd" country="all",LoveNature (GEO USA)
+https://bamus-klowdtv.amagi.tv/hls/amagi_hls_data_klowdtvAA-bam-us-klowdtv/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="1cbef720ed000b0b" tvg-name="LSN (GEO USA)" group-title="klowd" platform="klowd" country="all",LSN (GEO USA)
+https://tripleb-lsn.amagi.tv/hls/amagi_hls_data_klowdtvAA-tripleb-lacrosse-sports-network/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="39eea567fd5cc81e" tvg-name="MOB TV" group-title="klowd" platform="klowd" country="all",MOB TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01324-infamousmedia-mobtv-klowdtv/playlist.m3u8
+#EXTINF:-1 tvg-id="f3e5681c12ef53e3" tvg-name="Motorvision.TV" group-title="klowd" platform="klowd" country="all",Motorvision.TV
+https://api-ott.motorvision.tv/loggingmediaurlpassthrough/a.m3u8?&version=12&id=1199&partner=klowdtv&device_model=&device_width=1920&device_height=1080&yob=&gender=&us_privacy=1---&gdpr=&gdpr_consent=&device_language=&is_lat=
+#EXTINF:-1 tvg-id="5388d4266ba4b2f2" tvg-name="NewsMax TV (GEO USA)" group-title="klowd" platform="klowd" country="all",NewsMax TV (GEO USA)
+https://newsmax-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="b9955404515f17c7" tvg-name="NewsNet" group-title="klowd" platform="klowd" country="all",NewsNet
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01756-newsnet-newsnet-klowdtv/playlist.m3u8
+#EXTINF:-1 tvg-id="2dff5dcd279366df" tvg-name="OAN" group-title="klowd" platform="klowd" country="all",OAN
+https://cdn.klowdtv.net/803B48A/oan_aws/OAN.m3u8
+#EXTINF:-1 tvg-id="17b63646f20a8544" tvg-name="OAN Plus" group-title="klowd" platform="klowd" country="all",OAN Plus
+https://67bf68ca230b4e82bd5ac42d46449483.mediatailor.us-west-2.amazonaws.com/v1/master/d138761b0916ee5f222129c594a33677627df5e3/KlowdTV_OAN_Plus/fast/OAN_Encore/playlist.m3u8
+#EXTINF:-1 tvg-id="cab3d691619de241" tvg-name="Pop TV" group-title="klowd" platform="klowd" country="all",Pop TV
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/pop_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="3a000d4f3340ac00" tvg-name="Popstar (GEO USA)" group-title="klowd" platform="klowd" country="all",Popstar (GEO USA)
+https://popstar-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="852e8eae8498af1b" tvg-name="Pursuit (GEO USA)" group-title="klowd" platform="klowd" country="all",Pursuit (GEO USA)
+https://pursuitup-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="e6f07f5ea7b1cff4" tvg-name="Quietude 4k (GEO USA)" group-title="klowd" platform="klowd" country="all",Quietude 4k (GEO USA)
+https://naviofrequency-quietude4k-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="c15a03bdb1f6aa63" tvg-name="QVC" group-title="klowd" platform="klowd" country="all",QVC
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/qvclive_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="37a51d40f7b98c9b" tvg-name="QVC 2" group-title="klowd" platform="klowd" country="all",QVC 2
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/qvcplus_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="5ca207e8a31c91bf" tvg-name="Salem News (GEO USA)" group-title="klowd" platform="klowd" country="all",Salem News (GEO USA)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00732-salemmediagroup-salemnews-klowdtv/playlist.m3u8
+#EXTINF:-1 tvg-id="5054111dcac9c0cf" tvg-name="Second Opinion Panel" group-title="klowd" platform="klowd" country="all",Second Opinion Panel
+https://d1cc0p6j4uj4n9.cloudfront.net/48b50d2d-c384-483d-a76c-8fbb9cf00138/hls/08120160-dacf-4164-8478-b74ac25f0026.m3u8
+#EXTINF:-1 tvg-id="f8507e5d656122b9" tvg-name="ShopLC (GEO USA)" group-title="klowd" platform="klowd" country="all",ShopLC (GEO USA)
+https://shoplc-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="24cbd3f04b27492c" tvg-name="Siteline (GEO USA)" group-title="klowd" platform="klowd" country="all",Siteline (GEO USA)
+https://naviofrequency-sightline-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="c2101059bc8c3532" tvg-name="Sony Movies Channel" group-title="klowd" platform="klowd" country="all",Sony Movies Channel
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="1dbeadb81d579bc8" tvg-name="Soreal (GEO USA)" group-title="klowd" platform="klowd" country="all",Soreal (GEO USA)
+https://cinedigm-soreal-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="28b677babb309fca" tvg-name="SportsGrid" group-title="klowd" platform="klowd" country="all",SportsGrid
+https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="b0bc4244586194f6" tvg-name="Sportsnews Highlights" group-title="klowd" platform="klowd" country="all",Sportsnews Highlights
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01756-newsnet-newsnet-klowdtv/playlist.m3u8
+#EXTINF:-1 tvg-id="9ce03218cc31f4b2" tvg-name="The Country Network" group-title="klowd" platform="klowd" country="all",The Country Network
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/countrytv_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="42d1e475a79c1201" tvg-name="The First" group-title="klowd" platform="klowd" country="all",The First
+https://redseat-thefirst-klowdtv.amagi.tv/hls/amagi_hls_data_klowdtvAA-redseat-thefirst-klowdtv/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="8422e61ee51a6630" tvg-name="Ticker News (GEO USA)" group-title="klowd" platform="klowd" country="all",Ticker News (GEO USA)
+https://tickernews-klowdtv.amagi.tv/hls/amagi_hls_data_klowdtvAA-tickernews-klowdtv/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="8f7f51b0f3a17a2e" tvg-name="Trace Latina" group-title="klowd" platform="klowd" country="all",Trace Latina
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8
+#EXTINF:-1 tvg-id="2182299071732d47" tvg-name="Trace Sports Stars" group-title="klowd" platform="klowd" country="all",Trace Sports Stars
+https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="aa504ced57c1dc30" tvg-name="Trace Urban" group-title="klowd" platform="klowd" country="all",Trace Urban
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-traceurban-klowdtv/playlist.m3u8
+#EXTINF:-1 tvg-id="e7551898862d746f" tvg-name="Unbeaten" group-title="klowd" platform="klowd" country="all",Unbeaten
+https://inverleigh-unbeaten-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="bda6e28dcaca33bc" tvg-name="Whacked out TV" group-title="klowd" platform="klowd" country="all",Whacked out TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5290
+#EXTINF:-1 tvg-id="cfa21dd451031312" tvg-name="Wild Earth" group-title="klowd" platform="klowd" country="all",Wild Earth
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-klowdtv/playlist.m3u8
+#EXTINF:-1 tvg-id="f76546e7bd64b208" tvg-name="WION (GEO USA)" group-title="klowd" platform="klowd" country="all",WION (GEO USA)
+https://wion-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="52cab89c1cc3baa6" tvg-name="Wired 2 Fish (GEO USA)" group-title="klowd" platform="klowd" country="all",Wired 2 Fish (GEO USA)
+https://wire2fish-klowdtv.amagi.tv/playlist.m3u8

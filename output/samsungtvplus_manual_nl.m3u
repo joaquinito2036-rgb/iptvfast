@@ -1,0 +1,103 @@
+#EXTM3U x-tvg-url="all.xml.gz"
+#EXTINF:-1 tvg-id="2a0aa6e2c29ab743" tvg-name="Are we there Yet? (Netherland) (Geo)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nl",Are we there Yet? (Netherland) (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyetnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="0d8258bf10ece740" tvg-name="Bloomberg Quicktake (Netherland)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nl",Bloomberg Quicktake (Netherland)
+http://bloomberg-quicktake-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="8e885e47b77317b6" tvg-name="Bloomberg TV+ (Netherland)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nl",Bloomberg TV+ (Netherland)
+https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="e1532e7bdbcd0cc8" tvg-name="Clubbing TV" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nl",Clubbing TV
+https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="20b1119e4f2d247f" tvg-name="DiscoverFilm (Netherlands)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nl",DiscoverFilm (Netherlands)
+https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="9b7de4ada2f128df" tvg-name="Docubox (Netherlands) Geo" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nl",Docubox (Netherlands) Geo
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00819-spiinternationa-docubox-english-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="66bf35d44513d89e" tvg-name="Euronews (Netherlands)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nl",Euronews (Netherlands)
+https://rakuten-euronews-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="2838e9f885aef124" tvg-name="Failarmy International (Netherlands)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nl",Failarmy International (Netherlands)
+https://failarmy-international-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="110c63099c56b371" tvg-name="Fashion TV (Netherlands)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nl",Fashion TV (Netherlands)
+https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="bd39d79e616f4488" tvg-name="Filmstream (Netherlands)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nl",Filmstream (Netherlands)
+https://spi-filmstream-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="45379e0834fe6c18" tvg-name="Fuel TV (Netherland)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nl",Fuel TV (Netherland)
+http://fueltv-fueltv-14-nl.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="501cc7c917b618ac" tvg-name="Go USA TV" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nl",Go USA TV
+https://brandusa-gousa-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="213d6e3cc3d9e45f" tvg-name="Hell's Kitchen (Netherland)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nl",Hell's Kitchen (Netherland)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00654-itvstudios-hellskitchennl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="3c28439053bd224b" tvg-name="Insight TV (Netherland) Geo" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nl",Insight TV (Netherland) Geo
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-insighttv-nl-samsungtv/playlist.m3u8
+#EXTINF:-1 tvg-id="ad99d080bf4b09e2" tvg-name="InTrouble (Netherland) Geo" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nl",InTrouble (Netherland) Geo
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-introuble-nl-samsungtv/playlist.m3u8
+#EXTINF:-1 tvg-id="85ebf4883b8e28eb" tvg-name="InWild (UK)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nl",InWild (UK)
+https://samsunguk-inwild-samsung-uk-7snt0.amagi.tv/playlist/samsunguk-inwild-samsung-uk/playlist.m3u8
+#EXTINF:-1 tvg-id="0045141c5c8c31ff" tvg-name="Inwonder (Netherland) Geo" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nl",Inwonder (Netherland) Geo
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-inwonder-nl-samsungtv/playlist.m3u8
+#EXTINF:-1 tvg-id="6dd44c2b95db0447" tvg-name="LOL! Network (Netherland)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nl",LOL! Network (Netherland)
+https://lol-lolnetwork-2-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="94d677fe4bfac6b2" tvg-name="Mav Tv Motorsports Network (Netherland)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nl",Mav Tv Motorsports Network (Netherland)
+https://mavtv-mavtvglobal-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="7ff43c464bf303fb" tvg-name="Mojitv (Netherland)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nl",Mojitv (Netherland)
+https://odmedia-mojitv-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="d9dc9540493f2287" tvg-name="Museum TV (Netherland) Geo" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nl",Museum TV (Netherland) Geo
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-eng-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="a289fc6368f2dc0c" tvg-name="MYZen Fit (Netherland) Geo" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nl",MYZen Fit (Netherland) Geo
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsungen-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="816a6888e30ded77" tvg-name="Oneworld TV (Netherland)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nl",Oneworld TV (Netherland)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01847-dutchessmediabv-oneworldtv-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="a9b77652ce8897fc" tvg-name="People are Awesome (Netherland)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nl",People are Awesome (Netherland)
+https://jukin-peopleareawesome-2-nl.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="09d7b46c0e7cde5d" tvg-name="Qwest Classical (UK) Geo" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nl",Qwest Classical (UK) Geo
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestclassic-uk-samsungtv/playlist.m3u8
+#EXTINF:-1 tvg-id="9651adab3e67aa6f" tvg-name="Qwest Jazz and Beyond (UK) Geo" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nl",Qwest Jazz and Beyond (UK) Geo
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8
+#EXTINF:-1 tvg-id="76665147d2e76f7a" tvg-name="Qwest Mix (UK) Geo" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nl",Qwest Mix (UK) Geo
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestmix-uk-samsungtv/playlist.m3u8
+#EXTINF:-1 tvg-id="eabc118d5bc9e6e4" tvg-name="Radical Docs (Netherland)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nl",Radical Docs (Netherland)
+https://quintus-radicaldocs-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="4b2cbaea599ef6cb" tvg-name="Rakuten Action (Netherland)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nl",Rakuten Action (Netherland)
+https://rakuten-action-8-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="83e2eb464b89f5bb" tvg-name="Rakuten Comedy (Netherland)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nl",Rakuten Comedy (Netherland)
+https://rakuten-comedy-8-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="7db261ffa2c1983a" tvg-name="Rakuten Documentaries (Netherland)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nl",Rakuten Documentaries (Netherland)
+https://rakuten-documentaries-8-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="074cfa9242b7debc" tvg-name="Rakuten Drama (Netherlands)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nl",Rakuten Drama (Netherlands)
+https://rakuten-drama-8-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="609378ddcc57143b" tvg-name="Rakuten Family (Netherlands)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nl",Rakuten Family (Netherlands)
+https://rakuten-family-8-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="81d8029e8d8eaa81" tvg-name="Rakuten Stories (Netherland)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nl",Rakuten Stories (Netherland)
+https://rakuten-spotlight-8-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="befcd3b2bed0ef8c" tvg-name="Realstories" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nl",Realstories
+https://realstories-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="3f7fddc0097f0931" tvg-name="Reuters Now (Netherland)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nl",Reuters Now (Netherland)
+https://reuters-reutersnow-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="401da93e8894db07" tvg-name="Sofy TV (Netherland)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nl",Sofy TV (Netherland)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00535-largofilmsltdli-sofytvnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="5638646bea954933" tvg-name="Stingray Karaoke (Netherland)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nl",Stingray Karaoke (Netherland)
+https://stingray-karaoke-4-nl.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="1cf8ade9be3fffbf" tvg-name="Strongman Champions League" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nl",Strongman Champions League
+https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="2a454a737b3f1d62" tvg-name="Tennis Channel (Netherland)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nl",Tennis Channel (Netherland)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="b0919b26fac6890a" tvg-name="The Boat Show (UK)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nl",The Boat Show (UK)
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/7058e85e-80c1-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 tvg-id="b4b828b981a0ec4c" tvg-name="The Guardian (Netherland)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nl",The Guardian (Netherland)
+https://rakuten-guardian-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="68e47c29e3f17b9b" tvg-name="The Pet Collective (Netherland)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nl",The Pet Collective (Netherland)
+https://the-pet-collective-international-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="c88cd2306eb1d6a1" tvg-name="Timeline" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nl",Timeline
+https://lds-timeline-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="99f13a403273aad8" tvg-name="Travelxp (Netherland)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nl",Travelxp (Netherland)
+https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="a9e17e270c5ffda9" tvg-name="Waterbear (Netherland)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nl",Waterbear (Netherland)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="15f4846ce34f8117" tvg-name="Wicked Tuna (Netherland)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nl",Wicked Tuna (Netherland)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-wickedtunanl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="ca4785cc1bb4c3d9" tvg-name="WildEarth (Netherland) (Geo)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nl",WildEarth (Netherland) (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="ff2d3a6f395a0499" tvg-name="Wonder" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nl",Wonder
+https://lds-wonder-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="d2a422593105450b" tvg-name="World Poker Tour (Netherland)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nl",World Poker Tour (Netherland)
+https://wpt-theworldpokertour-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="af363e217a49324c" tvg-name="Xplore (Netherland)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="nl",Xplore (Netherland)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8

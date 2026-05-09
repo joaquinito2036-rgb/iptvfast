@@ -1,0 +1,1187 @@
+#EXTM3U x-tvg-url="all.xml.gz"
+#EXTINF:-1 tvg-id="b41e925d82e3aa36" tvg-name="123 Go English -TCL (Geo)" group-title="tcl" platform="tcl" country="all",123 Go English -TCL (Geo)
+https://amg02051-soulpublishing-amg02051c17-tclideo-northamerica-527.playouts.now.amagi.tv/playlist/amg02051-admecyltd-123goenglish-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1 tvg-id="0220649ee196cdc3" tvg-name="Acelerados -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Acelerados -TCL (Geo)
+https://amg17288-offgrid-amg17288c6-tcl-us-5916.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="9570cba1276f5433" tvg-name="Action Hollywood Movies -TCL" group-title="tcl" platform="tcl" country="all",Action Hollywood Movies -TCL
+https://amg01076-lightning-amg01076c4-tcl-us-2469.playouts.now.amagi.tv/playlist/amg01076-lightning-actionhollywood-tclus/playlist.m3u8
+#EXTINF:-1 tvg-id="8cd56d5230270d53" tvg-name="Action Hollywood Movies -TCL" group-title="tcl" platform="tcl" country="all",Action Hollywood Movies -TCL
+https://amg01076-lightning-amg01076c9-tcl-us-2480.playouts.now.amagi.tv/playlist/amg01076-lightning-actionhollywood-tclus/playlist.m3u8
+#EXTINF:-1 tvg-id="7807740a45f97d08" tvg-name="Actualidad 360 -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Actualidad 360 -TCL (Geo)
+https://amg01821-amg01821c27-tcl-spain-5969.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="2e6792c45fb4f8db" tvg-name="Africa News English .AU -TCL" group-title="tcl" platform="tcl" country="all",Africa News English .AU -TCL
+https://euronews-africanews-english-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="79b97b6e59c9fc12" tvg-name="Africa News English .DE -TCL" group-title="tcl" platform="tcl" country="all",Africa News English .DE -TCL
+https://euronews-africanews-english-1-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="565d75a9aa5c9143" tvg-name="Africa News English .FR -TCL" group-title="tcl" platform="tcl" country="all",Africa News English .FR -TCL
+https://euronews-africanews-english-1-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="8f7bfdc74c175670" tvg-name="Africa News French .FR -TCL" group-title="tcl" platform="tcl" country="all",Africa News French .FR -TCL
+https://euronews-africanews-french-1-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="860ab1c4213e3649" tvg-name="Air and Space .AU -TCL" group-title="tcl" platform="tcl" country="all",Air and Space .AU -TCL
+https://wingspan-airandspace-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="1e9c685be0fee009" tvg-name="Air and Space .CA -TCL" group-title="tcl" platform="tcl" country="all",Air and Space .CA -TCL
+https://wingspan-airandspace-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="c900c3cc81f8269a" tvg-name="Air and Space .US -TCL" group-title="tcl" platform="tcl" country="all",Air and Space .US -TCL
+https://wingspan-airandspace-1-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="a8b6ab590d755a78" tvg-name="Air and Space .US alt -TCL" group-title="tcl" platform="tcl" country="all",Air and Space .US alt -TCL
+https://wingspan-airandspace-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="b0d55ed0ad9f65ff" tvg-name="Always Funny -TCL" group-title="tcl" platform="tcl" country="all",Always Funny -TCL
+https://linear-12.frequency.stream/dist/tcltv/12/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="eb4bd21ae91da4a3" tvg-name="Always Funny: Pranks & Fails -TCL" group-title="tcl" platform="tcl" country="all",Always Funny: Pranks & Fails -TCL
+https://linear-863.frequency.stream/dist/tcltv/863/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="3fe8c8fa8ada49b0" tvg-name="AnaCarolina .BR -TCL" group-title="tcl" platform="tcl" country="all",AnaCarolina .BR -TCL
+https://video-solutions-ag-anacarolina-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="30c92c2192e0b433" tvg-name="Are We There Yet -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Are We There Yet -TCL (Geo)
+https://amg00353-lionsgatestudios-amg00353c5-tclideo-na-2173.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-arewethereyet-tclideona/playlist.m3u8
+#EXTINF:-1 tvg-id="7d06e6b3ae78f410" tvg-name="Arirang Korea Kpop+ Spain -TCL" group-title="tcl" platform="tcl" country="all",Arirang Korea Kpop+ Spain -TCL
+https://amg02040-amg02040c6-tcl-spain-5098.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="63aaa1ab6fab3844" tvg-name="Artflix .AU -TCL" group-title="tcl" platform="tcl" country="all",Artflix .AU -TCL
+https://amogonetworx-artflix-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="23b7b4bba9d94756" tvg-name="Artflix .CA -TCL" group-title="tcl" platform="tcl" country="all",Artflix .CA -TCL
+https://amogonetworx-artflix-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="9bf0260a9de80db4" tvg-name="Artflix .DE -TCL" group-title="tcl" platform="tcl" country="all",Artflix .DE -TCL
+https://amogonetworx-artflix-2-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="e7cc72ab4b5c68d8" tvg-name="Artflix .MX -TCL" group-title="tcl" platform="tcl" country="all",Artflix .MX -TCL
+https://amogonetworx-artflix-3-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="355ff2702c961226" tvg-name="Artflix .SA -TCL" group-title="tcl" platform="tcl" country="all",Artflix .SA -TCL
+https://amogonetworx-artflix-1-sa.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="561d4d57525b10a7" tvg-name="Artflix .US -TCL" group-title="tcl" platform="tcl" country="all",Artflix .US -TCL
+https://amogonetworx-artflix-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="82f793d8cbb3d8e8" tvg-name="Awe -TCL" group-title="tcl" platform="tcl" country="all",Awe -TCL
+https://amg00450-amg00450c4-tcl-us-3992.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="585d8d2e3a4a7b83" tvg-name="Awe Plus -TCL" group-title="tcl" platform="tcl" country="all",Awe Plus -TCL
+https://aweencore-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="0f6721f736014292" tvg-name="Backstage -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Backstage -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00375-fusemedia-fusebackstage-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="74ce2820cb8ebc5c" tvg-name="Backstage -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Backstage -TCL (Geo)
+https://amg00375-fusemedia-amg00375c1-tclideo-northamerica-719.playouts.now.amagi.tv/playlist/amg00375-fusemediafast-backstage-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1 tvg-id="b0ac6c337095d05f" tvg-name="Balle Balle -TCL" group-title="tcl" platform="tcl" country="all",Balle Balle -TCL
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3406
+#EXTINF:-1 tvg-id="38784e41bb176487" tvg-name="Baywatch -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Baywatch -TCL (Geo)
+https://amg00145-fremantlemedia-amg00145c2-tclideo-northamerica-617.playouts.now.amagi.tv/playlist/amg00145-fremantlemediafast-baywatch-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1 tvg-id="864289e0af8fa3ff" tvg-name="Bein Sports Xtra -TCL" group-title="tcl" platform="tcl" country="all",Bein Sports Xtra -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="1be79f0b09c01823" tvg-name="Bein Xtra Espanol -TCL" group-title="tcl" platform="tcl" country="all",Bein Xtra Espanol -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="195debdb5a3b99ce" tvg-name="Beond TV -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Beond TV -TCL (Geo)
+https://amg01681-beondtv-amg01681c1-tclideo-northamerica-386.playouts.now.amagi.tv/playlist/amg01681-beondtv-beondtv-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1 tvg-id="ed8864b211e101cd" tvg-name="BET x Tyler Perry Comedy -TCL" group-title="tcl" platform="tcl" country="all",BET x Tyler Perry Comedy -TCL
+https://linear-867.frequency.stream/dist/tcltv/867/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="f42fe83a1e42e450" tvg-name="BET x Tyler Perry Drama -TCL" group-title="tcl" platform="tcl" country="all",BET x Tyler Perry Drama -TCL
+https://linear-866.frequency.stream/dist/tcltv/866/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="7a912488b9ee9681" tvg-name="Beyblade (Geo) -TCL" group-title="tcl" platform="tcl" country="all",Beyblade (Geo) -TCL
+https://amg01796-fastmedia-amg01796c6-tcl-us-4399.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="bba926c048840967" tvg-name="Beyblade -TCL German French Spanish (Geo)" group-title="tcl" platform="tcl" country="all",Beyblade -TCL German French Spanish (Geo)
+https://amg01796-fastmedia-amg01796c8-tcl-us-4400.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="072e17de77866b90" tvg-name="Beyond Paranormal .AU -TCL" group-title="tcl" platform="tcl" country="all",Beyond Paranormal .AU -TCL
+https://videoelephantlimited-beyondparanormal-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="bef27c06fb1b9ede" tvg-name="Beyond Paranormal .CA -TCL" group-title="tcl" platform="tcl" country="all",Beyond Paranormal .CA -TCL
+https://videoelephantlimited-beyondparanormal-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="fae6e5e04a1f95d0" tvg-name="Bigtjme .AU -TCL" group-title="tcl" platform="tcl" country="all",Bigtjme .AU -TCL
+https://amogonetworx-bigtjme-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="dfc50d85a89bf558" tvg-name="Bigtjme .CA -TCL" group-title="tcl" platform="tcl" country="all",Bigtjme .CA -TCL
+https://amogonetworx-bigtjme-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="8c5ae7e145aa10c3" tvg-name="Bigtjme .MX -TCL" group-title="tcl" platform="tcl" country="all",Bigtjme .MX -TCL
+https://amogonetworx-bigtjme-2-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="45c2aa5c29de51d6" tvg-name="Bigtjme .US -TCL" group-title="tcl" platform="tcl" country="all",Bigtjme .US -TCL
+https://amogonetworx-bigtjme-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="fbe4d8a49e03b71e" tvg-name="Bloomberg Originals -TCL" group-title="tcl" platform="tcl" country="all",Bloomberg Originals -TCL
+https://bloomberg-quicktake-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="885e9be5bc6ad1dc" tvg-name="Bloomberg Originals .BR -TCL" group-title="tcl" platform="tcl" country="all",Bloomberg Originals .BR -TCL
+https://bloomberg-quicktake-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ad86a897215eba38" tvg-name="Bloomberg Originals .CA -TCL" group-title="tcl" platform="tcl" country="all",Bloomberg Originals .CA -TCL
+https://bloomberg-bloombergoriginals-5-ca.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="733a0bb7c1161e21" tvg-name="Bloomberg Originals .DE -TCL" group-title="tcl" platform="tcl" country="all",Bloomberg Originals .DE -TCL
+https://bloomberg-quicktake-1-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="1d30293c001072a6" tvg-name="Bloomberg Originals .FR -TCL" group-title="tcl" platform="tcl" country="all",Bloomberg Originals .FR -TCL
+https://bloomberg-quicktake-1-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="dd25301deab890c2" tvg-name="Bloomberg Originals .MX -TCL" group-title="tcl" platform="tcl" country="all",Bloomberg Originals .MX -TCL
+https://bloomberg-quicktake-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="a50b1c868b7ad4ae" tvg-name="Bloomberg Originals alt .US -TCL" group-title="tcl" platform="tcl" country="all",Bloomberg Originals alt .US -TCL
+https://bloomberg-bloombergoriginals-6-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="294de04fa12b9057" tvg-name="Bloomberg TV -TCL" group-title="tcl" platform="tcl" country="all",Bloomberg TV -TCL
+https://bloomberg-bloombergtv-3-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="3117f9e4e22bfbfb" tvg-name="Bloomberg TV .BR -TCL" group-title="tcl" platform="tcl" country="all",Bloomberg TV .BR -TCL
+https://bloomberg-bloombergtv-3-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="f2c1297d63f59134" tvg-name="Bloomberg TV .CA -TCL" group-title="tcl" platform="tcl" country="all",Bloomberg TV .CA -TCL
+https://bloomberg-bloombergtv-13-ca.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="1d99fd309dd53db6" tvg-name="Bloomberg TV .DE -TCL" group-title="tcl" platform="tcl" country="all",Bloomberg TV .DE -TCL
+https://bloomberg-bloombergtv-3-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="37f2becd52f14dfd" tvg-name="Bloomberg TV .FR -TCL" group-title="tcl" platform="tcl" country="all",Bloomberg TV .FR -TCL
+https://bloomberg-bloombergtv-3-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="bc49e26977413c8b" tvg-name="Bloomberg TV .MX -TCL" group-title="tcl" platform="tcl" country="all",Bloomberg TV .MX -TCL
+https://bloomberg-bloombergtv-3-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="54bc24d12ba5aade" tvg-name="Bloomberg TV alt .US -TCL" group-title="tcl" platform="tcl" country="all",Bloomberg TV alt .US -TCL
+https://bloomberg-bloombergtv-12-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="2e01fccfbed6b02d" tvg-name="Bollywood HD Classic -TCL" group-title="tcl" platform="tcl" country="all",Bollywood HD Classic -TCL
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4154
+#EXTINF:-1 tvg-id="8d3fcc4784b33bd9" tvg-name="Bounce XL -TCL" group-title="tcl" platform="tcl" country="all",Bounce XL -TCL
+https://scripps-bouncexl-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="008b40e0eca8595b" tvg-name="Bounce XL alt -TCL" group-title="tcl" platform="tcl" country="all",Bounce XL alt -TCL
+https://scripps-bouncexl-2-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="dd052161eda00e54" tvg-name="Brat TV -TCL" group-title="tcl" platform="tcl" country="all",Brat TV -TCL
+https://tclAAAAAA-brat-tcl-2mpk7.amagi.tv/playlist/tclAAAAAA-brat-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="16e866e9d53ab748" tvg-name="Brat TV alt -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Brat TV alt -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-brattv-tcl-ideo/playlist.m3u8
+#EXTINF:-1 tvg-id="f3b14e6080e107ee" tvg-name="Brat TV other alt -TCL" group-title="tcl" platform="tcl" country="all",Brat TV other alt -TCL
+https://brat-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="62d9d53462974c5c" tvg-name="Buena Onda" group-title="tcl" platform="tcl" country="all",Buena Onda
+https://amg17288-offgrid-amg17288c3-tcl-us-5037.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="14f56e1d3d5d202e" tvg-name="Butaca TV -TCL" group-title="tcl" platform="tcl" country="all",Butaca TV -TCL
+https://linear-645.frequency.stream/dist/tcltv/645/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="83b4fff31211009c" tvg-name="Canel Cinema -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Canel Cinema -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelacinema-tcl-ideo/playlist.m3u8
+#EXTINF:-1 tvg-id="6ea8f6539bdd85e4" tvg-name="Canela Clasicos -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Canela Clasicos -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelaclasicos-tcl-ideo/playlist.m3u8
+#EXTINF:-1 tvg-id="fb650aa952d6195d" tvg-name="Canela Tele Novelas -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Canela Tele Novelas -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelatelenovelas-tcl-ideo/playlist.m3u8
+#EXTINF:-1 tvg-id="fb7e7444942af6b9" tvg-name="Canela TV -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Canela TV -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelatv-tcl-ideo/playlist.m3u8
+#EXTINF:-1 tvg-id="c132ccc5f4b8ccb9" tvg-name="Charlie .AU -TCL" group-title="tcl" platform="tcl" country="all",Charlie .AU -TCL
+https://amogonetworx-charlie-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="e967932f68150bff" tvg-name="Charlie .BR -TCL" group-title="tcl" platform="tcl" country="all",Charlie .BR -TCL
+https://amogonetworx-charlie-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="3b0d1e6e2e6c474c" tvg-name="Charlie .CA -TCL" group-title="tcl" platform="tcl" country="all",Charlie .CA -TCL
+https://amogonetworx-charlie-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="82739916925f0ccf" tvg-name="Charlie .DE -TCL" group-title="tcl" platform="tcl" country="all",Charlie .DE -TCL
+https://amogonetworx-charlie-1-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="2d8251a491f0ccd3" tvg-name="Charlie .FR -TCL" group-title="tcl" platform="tcl" country="all",Charlie .FR -TCL
+https://amogonetworx-charlie-1-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="8e8e415e90108fa9" tvg-name="Charlie .MX -TCL" group-title="tcl" platform="tcl" country="all",Charlie .MX -TCL
+https://amogonetworx-charlie-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="abb03bb958c1248d" tvg-name="Charlie .SA -TCL" group-title="tcl" platform="tcl" country="all",Charlie .SA -TCL
+https://amogonetworx-charlie-1-sa.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="8444fbe20c4bb2f3" tvg-name="Charlie .US -TCL" group-title="tcl" platform="tcl" country="all",Charlie .US -TCL
+https://amogonetworx-charlie-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="8b8f9f988b4e0f02" tvg-name="Cine Friki -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Cine Friki -TCL (Geo)
+https://amg00711-zylo-amg00711c1-tcl-us-4218.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinefriki-tclus/playlist.m3u8
+#EXTINF:-1 tvg-id="1f3e199aff8cf843" tvg-name="Cine Western -TCL" group-title="tcl" platform="tcl" country="all",Cine Western -TCL
+https://amg00711-zylo-amg00711c8-tcl-us-2606.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-tclus/playlist.m3u8
+#EXTINF:-1 tvg-id="d3a6a0e4dcb9774a" tvg-name="Cinelife -TCL" group-title="tcl" platform="tcl" country="all",Cinelife -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00308-magnoliapicture-cinelife-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="5cacea1d8c8fbe82" tvg-name="Cinenanar -TCL" group-title="tcl" platform="tcl" country="all",Cinenanar -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00520-tcl-cinenanar-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="c038891a0bb0542f" tvg-name="Cinesureno -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Cinesureno -TCL (Geo)
+https://tclAAAAAA-cinesureno-tcl-zegjq.amagi.tv/playlist/tclAAAAAA-cinesureno-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="123329b1f8e707bc" tvg-name="Circle TV -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Circle TV -TCL (Geo)
+https://amg00432-circletvfast-amg00432c1-tclideo-northamerica-412.playouts.now.amagi.tv/playlist/amg00432-circletv-circletv-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1 tvg-id="c0de0aad9b793f40" tvg-name="Comedy Dynamics -TCL" group-title="tcl" platform="tcl" country="all",Comedy Dynamics -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/tclAAAAAA-cinedigm-comedydynamics-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="a3a4e3f51f5bcc9c" tvg-name="Commune -TCL" group-title="tcl" platform="tcl" country="all",Commune -TCL
+https://bec-commune-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="19320331acc893aa" tvg-name="Conflict .CA -TCL" group-title="tcl" platform="tcl" country="all",Conflict .CA -TCL
+https://rightsboosterltd-conflict-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="81d3a5e4731b4164" tvg-name="Conflict .US -TCL" group-title="tcl" platform="tcl" country="all",Conflict .US -TCL
+https://rightsboosterltd-conflict-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="8456709ffb2a3110" tvg-name="Conflict .US alt -TCL" group-title="tcl" platform="tcl" country="all",Conflict .US alt -TCL
+https://rightsboosterltd-conflict-1-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="9e6f02952f694849" tvg-name="Cops .Au -TCL" group-title="tcl" platform="tcl" country="all",Cops .Au -TCL
+https://langleyproductions-cops-2-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ff0ad374e556ee2e" tvg-name="Cops .CA -TCL" group-title="tcl" platform="tcl" country="all",Cops .CA -TCL
+https://langleyproductions-cops-2-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5d5316f8f3f5d7f5" tvg-name="Cops .CA alt -TCL" group-title="tcl" platform="tcl" country="all",Cops .CA alt -TCL
+https://langley-productions-cops-1-ca.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5f48501f5c98fc91" tvg-name="Court TV -TCL" group-title="tcl" platform="tcl" country="all",Court TV -TCL
+https://scripps-courttv-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="b6b0bdcdec4f347f" tvg-name="Court TV alt -TCL" group-title="tcl" platform="tcl" country="all",Court TV alt -TCL
+https://scripps-courttv-1-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5f554a277054fc24" tvg-name="Craction TV -TCL" group-title="tcl" platform="tcl" country="all",Craction TV -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00520-tcl-cractionstv-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="832d084d7c3ce1f1" tvg-name="Craftsy TV -TCL" group-title="tcl" platform="tcl" country="all",Craftsy TV -TCL
+https://linear-492.frequency.stream/dist/tcltv/492/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="78ca491526305e1b" tvg-name="Crime and Punishment -TCL" group-title="tcl" platform="tcl" country="all",Crime and Punishment -TCL
+https://rightsboosterltd-crime-and-punishment-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="8e729cc9fbf501c8" tvg-name="Crime Files .AU -TCL" group-title="tcl" platform="tcl" country="all",Crime Files .AU -TCL
+https://videoelephant-limited-crimefiles-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="feb2543523e105c7" tvg-name="Crime Files .CA -TCL" group-title="tcl" platform="tcl" country="all",Crime Files .CA -TCL
+https://videoelephant-limited-crimefiles-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="bd31ea567752adbe" tvg-name="Crime Files .US -TCL" group-title="tcl" platform="tcl" country="all",Crime Files .US -TCL
+https://videoelephant-limited-crimefiles-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="4686403ae6ed9339" tvg-name="CW Forever -TCL" group-title="tcl" platform="tcl" country="all",CW Forever -TCL
+https://linear-850.frequency.stream/dist/tcltv/850/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="fe2bcf711c00d0d5" tvg-name="CW Gold -TCL" group-title="tcl" platform="tcl" country="all",CW Gold -TCL
+https://linear-851.frequency.stream/dist/tcltv/851/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="89a4194ec74463b9" tvg-name="Danger TV -TCL" group-title="tcl" platform="tcl" country="all",Danger TV -TCL
+https://dangertv-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="788e2b7838b6944b" tvg-name="Darkmatter -TCL" group-title="tcl" platform="tcl" country="all",Darkmatter -TCL
+https://tricoast-tv-dark-matter-01-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="04dae8e96261a126" tvg-name="Davinci -TCL" group-title="tcl" platform="tcl" country="all",Davinci -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00406-tinizinelimited-davincius-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="b8950857a36b2ed6" tvg-name="Davinci alt -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Davinci alt -TCL (Geo)
+https://amg00406-tinizine-amg00406c1-tclideo-northamerica-828.playouts.now.amagi.tv/playlist/amg00406-tinizinelimited-davincius-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1 tvg-id="ada90106fb09a4c9" tvg-name="Dazn Womens Football -TCL" group-title="tcl" platform="tcl" country="all",Dazn Womens Football -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznwomenfootball-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="8231db7c7431d364" tvg-name="Deal or No Deal -TCL" group-title="tcl" platform="tcl" country="all",Deal or No Deal -TCL
+https://amg00627-banijay-amg00627c3-tcl-us-3399.playouts.now.amagi.tv/playlist/amg00627-banijayfast-dealornodeal-tclus/playlist.m3u8
+#EXTINF:-1 tvg-id="92a9d8e8cc1ee66a" tvg-name="Deal or no Deal -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Deal or no Deal -TCL (Geo)
+https://amg00627-banijay-amg00627c2-tclideo-northamerica-643.playouts.now.amagi.tv/playlist/amg00627-banijayfast-dealornodeal-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1 tvg-id="d63b79bc8fd18fc9" tvg-name="Degrassi -TCL" group-title="tcl" platform="tcl" country="all",Degrassi -TCL
+https://dhx-degrassi-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="c737c407506c565b" tvg-name="Demand Africa -TCL" group-title="tcl" platform="tcl" country="all",Demand Africa -TCL
+https://demandafrica-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5e7956163f0b0c06" tvg-name="Dennis and Gnasher -TCL" group-title="tcl" platform="tcl" country="all",Dennis and Gnasher -TCL
+https://beanostudios-dennis-and-gnasher-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="4ecb680bda6e3340" tvg-name="Dennis and Gnasher .AU -TCL" group-title="tcl" platform="tcl" country="all",Dennis and Gnasher .AU -TCL
+https://beanostudios-dennis-and-gnasher-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="e38b36810569821f" tvg-name="Dennis and Gnasher .BR -TCL" group-title="tcl" platform="tcl" country="all",Dennis and Gnasher .BR -TCL
+https://beanostudios-dennis-and-gnasher-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="d305f2e1eda2e813" tvg-name="Dennis and Gnasher .CA -TCL" group-title="tcl" platform="tcl" country="all",Dennis and Gnasher .CA -TCL
+https://beanostudios-dennis-and-gnasher-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="8fe2eac0acc24cce" tvg-name="Dennis and Gnasher .DE -TCL" group-title="tcl" platform="tcl" country="all",Dennis and Gnasher .DE -TCL
+https://beanostudios-dennis-and-gnasher-1-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ec0ba7ed3ebbc2de" tvg-name="Dennis and Gnasher .FR -TCL" group-title="tcl" platform="tcl" country="all",Dennis and Gnasher .FR -TCL
+https://beanostudios-dennis-and-gnasher-1-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5c3d5ce7954c174d" tvg-name="Dennis and Gnasher .MX -TCL" group-title="tcl" platform="tcl" country="all",Dennis and Gnasher .MX -TCL
+https://beanostudios-dennis-and-gnasher-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="40d4a8de8409bd01" tvg-name="Dennis and Gnasher .SA -TCL" group-title="tcl" platform="tcl" country="all",Dennis and Gnasher .SA -TCL
+https://beanostudios-dennis-and-gnasher-1-sa.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="0118a2aea5ed868b" tvg-name="Dia TV -TCL" group-title="tcl" platform="tcl" country="all",Dia TV -TCL
+https://amg19706-diatv-amg19706c1-tcl-us-3718.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="7821f1650f22a996" tvg-name="Ditty TV -TCL" group-title="tcl" platform="tcl" country="all",Ditty TV -TCL
+https://memphisstudios-dittytv-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="e7f3cb0bac5e84de" tvg-name="Ditty TV .AU -TCL" group-title="tcl" platform="tcl" country="all",Ditty TV .AU -TCL
+https://memphisstudios-dittytv-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="abb180d7bc651202" tvg-name="Ditty TV .BR -TCL" group-title="tcl" platform="tcl" country="all",Ditty TV .BR -TCL
+https://memphisstudios-dittytv-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="c574dca7c0e81f44" tvg-name="Ditty TV .CA -TCL" group-title="tcl" platform="tcl" country="all",Ditty TV .CA -TCL
+https://memphisstudios-dittytv-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="32b2baa3593ba891" tvg-name="Ditty TV .DE -TCL" group-title="tcl" platform="tcl" country="all",Ditty TV .DE -TCL
+https://memphisstudios-dittytv-1-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="4bfcb62e4ef84beb" tvg-name="Ditty TV .Fr -TCL" group-title="tcl" platform="tcl" country="all",Ditty TV .Fr -TCL
+https://memphisstudios-dittytv-1-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="478d46af903d6374" tvg-name="Ditty TV .MX -TCL" group-title="tcl" platform="tcl" country="all",Ditty TV .MX -TCL
+https://memphisstudios-dittytv-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="dbda1c531aa5ebf8" tvg-name="Ditty TV .SA -TCL" group-title="tcl" platform="tcl" country="all",Ditty TV .SA -TCL
+https://memphisstudios-dittytv-1-sa.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="6f485c1a34613aa5" tvg-name="Docsville -TCL" group-title="tcl" platform="tcl" country="all",Docsville -TCL
+https://amg01076-lightning-amg01076c2-tcl-us-2470.playouts.now.amagi.tv/playlist/amg01076-lightning-docsville-tclus/playlist.m3u8
+#EXTINF:-1 tvg-id="8935bd90779a4e09" tvg-name="Docsville -TCL" group-title="tcl" platform="tcl" country="all",Docsville -TCL
+https://amg01076-lightning-amg01076c9-tcl-us-2480.playouts.now.amagi.tv/playlist/amg01076-lightning-docsville-tclus/playlist.m3u8
+#EXTINF:-1 tvg-id="76ed99b4844dbb84" tvg-name="Docu Plus -TCL" group-title="tcl" platform="tcl" country="all",Docu Plus -TCL
+https://amg02040-lguplus-amg02040c7-tcl-us-5113.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ed65024ae8ec89f1" tvg-name="Docu Plus Spain -TCL" group-title="tcl" platform="tcl" country="all",Docu Plus Spain -TCL
+https://amg02040-amg02040c7-tcl-spain-5114.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="4b22692c56049ba2" tvg-name="Dont tell the Bride -TCL" group-title="tcl" platform="tcl" country="all",Dont tell the Bride -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-dttb-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="f42393dfdedfe9ce" tvg-name="Dove Now -TCL" group-title="tcl" platform="tcl" country="all",Dove Now -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/tclAAAAAA-cinedigm-dovenow-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="e51f5fae7320323a" tvg-name="Dread TV -TCL" group-title="tcl" platform="tcl" country="all",Dread TV -TCL
+https://epicpictures-dreadtv-1-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="8dc153ca971a8d53" tvg-name="Drone TV -TCL" group-title="tcl" platform="tcl" country="all",Drone TV -TCL
+https://airvuz-dronetv-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="1530b82ed1d5e329" tvg-name="Drone TV .AU -TCL" group-title="tcl" platform="tcl" country="all",Drone TV .AU -TCL
+https://airvuz-dronetv-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="477640f1de76a717" tvg-name="Drone TV .BR -TCL" group-title="tcl" platform="tcl" country="all",Drone TV .BR -TCL
+https://airvuz-dronetv-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="8932944f51d3663c" tvg-name="Drone TV .CA -TCL" group-title="tcl" platform="tcl" country="all",Drone TV .CA -TCL
+https://airvuz-dronetv-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="d6dfaf28cf5df5a8" tvg-name="Drone TV .DE -TCL" group-title="tcl" platform="tcl" country="all",Drone TV .DE -TCL
+https://airvuz-dronetv-1-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="89e2f03623e52ad6" tvg-name="Drone TV .FR -TCL" group-title="tcl" platform="tcl" country="all",Drone TV .FR -TCL
+https://airvuz-dronetv-1-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="abeeefd76a2efb10" tvg-name="Drone TV .MX -TCL" group-title="tcl" platform="tcl" country="all",Drone TV .MX -TCL
+https://airvuz-dronetv-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="1450793d41c13914" tvg-name="Drool -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Drool -TCL (Geo)
+https://amg17448-amg17448c1-tcl-us-5052.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="99063dbbd21325ed" tvg-name="Emotional -TCL" group-title="tcl" platform="tcl" country="all",Emotional -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00520-tcl-emotional-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="10130f82eb05a22b" tvg-name="Escapes -TCL" group-title="tcl" platform="tcl" country="all",Escapes -TCL
+https://escapes-escapes-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="3e757d6521daf88f" tvg-name="Escapes .AU -TCL" group-title="tcl" platform="tcl" country="all",Escapes .AU -TCL
+https://escapes-escapes-2-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="2c79e8ca10af6f30" tvg-name="Escapes .BR -TCL" group-title="tcl" platform="tcl" country="all",Escapes .BR -TCL
+https://escapes-escapes-2-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="63d3e17fa0717e03" tvg-name="Escapes .CA -TCL" group-title="tcl" platform="tcl" country="all",Escapes .CA -TCL
+https://escapes-escapes-2-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="842e4551ed8ca917" tvg-name="Escapes .DE -TCL" group-title="tcl" platform="tcl" country="all",Escapes .DE -TCL
+https://escapes-escapes-2-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="3f1035987b995f07" tvg-name="Escapes .FR -TCL" group-title="tcl" platform="tcl" country="all",Escapes .FR -TCL
+https://escapes-escapes-2-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="850df84f70ddbd14" tvg-name="Escapes .MX -TCL" group-title="tcl" platform="tcl" country="all",Escapes .MX -TCL
+https://escapes-escapes-2-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="85c7ef6d58058a1e" tvg-name="Estrella Games -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Estrella Games -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-estrellagames-tcl-ideo/playlist.m3u8
+#EXTINF:-1 tvg-id="9f915e01e7f743dd" tvg-name="Estrella News -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Estrella News -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-estrellanews-tcl-ideo/playlist.m3u8
+#EXTINF:-1 tvg-id="ffb5a6351457448d" tvg-name="Estrella TV -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Estrella TV -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-estrellatv-tcl-ideo/playlist.m3u8
+#EXTINF:-1 tvg-id="1f792b6fc4effddc" tvg-name="Euronews French .FR -TCL" group-title="tcl" platform="tcl" country="all",Euronews French .FR -TCL
+https://euronews-euronews-french-3-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="307265a6eee8d366" tvg-name="Euronews German .DE -TCL" group-title="tcl" platform="tcl" country="all",Euronews German .DE -TCL
+https://euronews-euronews-german-4-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="7cfd991fa7412c1b" tvg-name="Euronews Portugese .BR -TCL" group-title="tcl" platform="tcl" country="all",Euronews Portugese .BR -TCL
+https://euronews-euronews-portugues-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="8490eff45002afcc" tvg-name="Euronews Spanish -TCL" group-title="tcl" platform="tcl" country="all",Euronews Spanish -TCL
+https://euronews-euronews-spanish-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ca0f7026df62cdbc" tvg-name="Euronews Spanish .MX -TCL" group-title="tcl" platform="tcl" country="all",Euronews Spanish .MX -TCL
+https://euronews-euronews-spanish-2-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="0460ea2ca6280d1f" tvg-name="Euronews World -TCL" group-title="tcl" platform="tcl" country="all",Euronews World -TCL
+https://euronews-euronews-world-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="f03f74539e8352b4" tvg-name="Euronews World .AU -TCL" group-title="tcl" platform="tcl" country="all",Euronews World .AU -TCL
+https://euronews-euronews-world-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="9e578bf946488520" tvg-name="Euronews World .DE -TCL" group-title="tcl" platform="tcl" country="all",Euronews World .DE -TCL
+https://euronews-euronews-world-1-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="abd4988a5f5950e0" tvg-name="Euronews World .FR -TCL" group-title="tcl" platform="tcl" country="all",Euronews World .FR -TCL
+https://euronews-euronews-world-1-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="c19582029344ced8" tvg-name="Euronews World .MX -TCL" group-title="tcl" platform="tcl" country="all",Euronews World .MX -TCL
+https://euronews-euronews-world-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="0e6f0b10b199e71f" tvg-name="Family Time -TCL" group-title="tcl" platform="tcl" country="all",Family Time -TCL
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3345
+#EXTINF:-1 tvg-id="623541c5244244f8" tvg-name="Family Time -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Family Time -TCL (Geo)
+https://amg09501-amg09501c3-tclideo-na-2402.playouts.now.amagi.tv/playlist/amg09501-quester-familytime-tclideona/playlist.m3u8
+#EXTINF:-1 tvg-id="2b7f4bc92d90bf27" tvg-name="Fashion TV -TCL" group-title="tcl" platform="tcl" country="all",Fashion TV -TCL
+https://fashiontv-fashiontv-5-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="0e22690cc8f20226" tvg-name="Fashion TV .AU -TCL" group-title="tcl" platform="tcl" country="all",Fashion TV .AU -TCL
+https://fashiontv-fashiontv-5-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="60af7963cdd9a8a3" tvg-name="Fashion TV .BR -TCL" group-title="tcl" platform="tcl" country="all",Fashion TV .BR -TCL
+https://fashiontv-fashiontv-5-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="26faa8eb9adfbf0c" tvg-name="Fashion TV .CA -TCL" group-title="tcl" platform="tcl" country="all",Fashion TV .CA -TCL
+https://fashiontv-fashiontv-5-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="c63b4cf1afcb6a2a" tvg-name="Fashion TV .DE -TCL" group-title="tcl" platform="tcl" country="all",Fashion TV .DE -TCL
+https://fashiontv-fashiontv-5-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="0f15bdaf89c7ccc8" tvg-name="Fashion TV .FR -TCL" group-title="tcl" platform="tcl" country="all",Fashion TV .FR -TCL
+https://fashiontv-fashiontv-5-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="b0272f9819a16845" tvg-name="Fashion TV .MX -TCL" group-title="tcl" platform="tcl" country="all",Fashion TV .MX -TCL
+https://fashiontv-fashiontv-5-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ef8480551951c643" tvg-name="Fear Factor -TCL" group-title="tcl" platform="tcl" country="all",Fear Factor -TCL
+https://amg00627-banijay-amg00627c2-tcl-us-3376.playouts.now.amagi.tv/playlist/amg00627-banijayfast-fearfactor-tclus/playlist.m3u8
+#EXTINF:-1 tvg-id="b8a59322474e9869" tvg-name="Fear Factor -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Fear Factor -TCL (Geo)
+https://amg00627-banijay-amg00627c5-tclideo-northamerica-639.playouts.now.amagi.tv/playlist/amg00627-banijayfast-fearfactor-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1 tvg-id="e95e7ff3589e8f35" tvg-name="Filmhub C10 not identified -TCL" group-title="tcl" platform="tcl" country="all",Filmhub C10 not identified -TCL
+https://amg01720-filmhub-amg01720c10-tcl-us-3911.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="cd8fe4446da7b112" tvg-name="Filmhub C7 not identified -TCL" group-title="tcl" platform="tcl" country="all",Filmhub C7 not identified -TCL
+https://amg01720-filmhub-amg01720c7-tcl-us-3960.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="3e5aa4f3ccdb104c" tvg-name="Filmhub C9 not identified -TCL" group-title="tcl" platform="tcl" country="all",Filmhub C9 not identified -TCL
+https://amg01720-filmhub-amg01720c9-tcl-us-3936.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="9ff83a33c41d221b" tvg-name="Filmzie -TCL" group-title="tcl" platform="tcl" country="all",Filmzie -TCL
+https://filmzie-filmzie-3-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="be8f8389275cd947" tvg-name="Finepoint -TCL" group-title="tcl" platform="tcl" country="all",Finepoint -TCL
+https://amg00450-amg00450c2-tcl-us-3993.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="9fef329b1bedb66b" tvg-name="Fitdance -TCL" group-title="tcl" platform="tcl" country="all",Fitdance -TCL
+https://amg17288-offgrid-amg17288c1-tcl-us-5004.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="d2270c2f485ee8ed" tvg-name="Flo Racing -TCL" group-title="tcl" platform="tcl" country="all",Flo Racing -TCL
+https://linear-554.frequency.stream/dist/tcltv/554/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="a2fe986bc42352cd" tvg-name="Food -TCL" group-title="tcl" platform="tcl" country="all",Food -TCL
+https://food-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="15b581dbd70222d6" tvg-name="Fox Sports -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Fox Sports -TCL (Geo)
+https://amg02855-foxsports-amg02855c1-tclideo-na-2100.playouts.now.amagi.tv/playlist/amg02855-foxnewsnetwork-foxsports-tclideona/playlist.m3u8
+#EXTINF:-1 tvg-id="92f676c59d60b852" tvg-name="Freemovies Plus -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Freemovies Plus -TCL (Geo)
+https://amg02042-ottstudio-amg02042c15-tcl-us-949.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-freemoviespluslite-tclus/playlist.m3u8
+#EXTINF:-1 tvg-id="7b083c673e9673bc" tvg-name="FreeTV Action -TCL (Geo)" group-title="tcl" platform="tcl" country="all",FreeTV Action -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcineeng-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="3e1016c86fe6d976" tvg-name="FreeTV Banda -TCL (Geo)" group-title="tcl" platform="tcl" country="all",FreeTV Banda -TCL (Geo)
+https://amg01024-amg01024c24-tcl-us-4431.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="29e8ffd601086691" tvg-name="FreeTV Clasico -TCL (Geo)" group-title="tcl" platform="tcl" country="all",FreeTV Clasico -TCL (Geo)
+https://amg01024-amg01024c29-tcl-us-4526.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="314d95ada85ed8d4" tvg-name="FreeTV Crime -TCL (Geo)" group-title="tcl" platform="tcl" country="all",FreeTV Crime -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-crimetimeengg-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="80fde397e7654495" tvg-name="FreeTV Crime .BR -TCL" group-title="tcl" platform="tcl" country="all",FreeTV Crime .BR -TCL
+https://oly-ftvcbr.otteravision.com/oly/ftvcbr/ftvcbr.m3u8
+#EXTINF:-1 tvg-id="d6bbfc52b1177b8a" tvg-name="FreeTV Drama -TCL (Geo)" group-title="tcl" platform="tcl" country="all",FreeTV Drama -TCL (Geo)
+https://amg01024-amg01024c16-tcl-us-4432.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="2e1622d5ec0939ed" tvg-name="FreeTV Drama .BR -TCL" group-title="tcl" platform="tcl" country="all",FreeTV Drama .BR -TCL
+https://oly-ftvdrbr.otteravision.com/oly/ftvdrbr/ftvdrbr.m3u8
+#EXTINF:-1 tvg-id="aaac59f09d7133d1" tvg-name="FreeTV Drama Vault -TCL (Geo)" group-title="tcl" platform="tcl" country="all",FreeTV Drama Vault -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flameandfireeng-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="a0917b8e12eb3cd6" tvg-name="FreeTV Estelar -TCL (Geo)" group-title="tcl" platform="tcl" country="all",FreeTV Estelar -TCL (Geo)
+https://amg01024-amg01024c20-tcl-us-4525.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="4e2e98f9bdbc003b" tvg-name="FreeTV Estelar -TCL (Geo)" group-title="tcl" platform="tcl" country="all",FreeTV Estelar -TCL (Geo)
+https://amg01024-amg01024c28-tcl-us-4520.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="c4ce72a2e72e8084" tvg-name="FreeTV Familia -TCL (Geo)" group-title="tcl" platform="tcl" country="all",FreeTV Familia -TCL (Geo)
+https://amg01024-amg01024c26-tcl-us-4438.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ec92a6ceabd90e5f" tvg-name="FreeTV Family -TCL (Geo)" group-title="tcl" platform="tcl" country="all",FreeTV Family -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-familytreeeng-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="c548d21263151aeb" tvg-name="FreeTV Hits -TCL (Geo)" group-title="tcl" platform="tcl" country="all",FreeTV Hits -TCL (Geo)
+https://amg01024-amg01024c25-tcl-us-4435.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="24c26b46114f0716" tvg-name="FreeTV Horror -TCL (Geo)" group-title="tcl" platform="tcl" country="all",FreeTV Horror -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrifyeng-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="1a639768e0575e69" tvg-name="FreeTV Live -TCL (Geo)" group-title="tcl" platform="tcl" country="all",FreeTV Live -TCL (Geo)
+https://amg01024-amg01024c17-tcl-us-4518.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="996c7b876acda56f" tvg-name="FreeTV Saber Mas -TCL (Geo)" group-title="tcl" platform="tcl" country="all",FreeTV Saber Mas -TCL (Geo)
+https://amg01024-amg01024c23-tcl-us-4517.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="d91180386e27ae50" tvg-name="FreeTV Sureno -TCL (Geo)" group-title="tcl" platform="tcl" country="all",FreeTV Sureno -TCL (Geo)
+https://amg01024-amg01024c21-tcl-us-4434.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="36aad5b9030797ae" tvg-name="FreeTV Terror -TCL (Geo)" group-title="tcl" platform="tcl" country="all",FreeTV Terror -TCL (Geo)
+https://amg01024-amg01024c22-tcl-us-4437.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="1ac5a20fb122bdea" tvg-name="Frequence Novelas -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Frequence Novelas -TCL (Geo)
+https://amg00711-zylo-amg00711c4-tcl-us-4217.playouts.now.amagi.tv/playlist/amg00711-zylofast-frequencenovelas-tclus/playlist.m3u8
+#EXTINF:-1 tvg-id="ed49cb406da1fffb" tvg-name="Fuel TV -TCL" group-title="tcl" platform="tcl" country="all",Fuel TV -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvus-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="6a4c05d0db8bb9f4" tvg-name="Fuel TV .AU -TCL" group-title="tcl" platform="tcl" country="all",Fuel TV .AU -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvaus-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="7f077c9a6c044bf8" tvg-name="Fuel TV .BR -TCL" group-title="tcl" platform="tcl" country="all",Fuel TV .BR -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbr-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="9d2909f10914d36f" tvg-name="Fuel TV .DE -TCL" group-title="tcl" platform="tcl" country="all",Fuel TV .DE -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeade-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="6c8adb5c5655a3f5" tvg-name="Fuel TV .FR -TCL" group-title="tcl" platform="tcl" country="all",Fuel TV .FR -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeafrance-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="4c6dd64b86b36576" tvg-name="Fuel TV .MX -TCL" group-title="tcl" platform="tcl" country="all",Fuel TV .MX -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvusmexico-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="a187a715b1b399fd" tvg-name="Funny or Die -TCL" group-title="tcl" platform="tcl" country="all",Funny or Die -TCL
+https://funny-or-die-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="372128e62d64ce06" tvg-name="Funny or Die .AU -TCL" group-title="tcl" platform="tcl" country="all",Funny or Die .AU -TCL
+https://funny-or-die-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="45277f9ec3ca999f" tvg-name="Funny or Die .BR -TCL" group-title="tcl" platform="tcl" country="all",Funny or Die .BR -TCL
+https://funny-or-die-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="72888c726af6ef97" tvg-name="Funny or Die .CA -TCL" group-title="tcl" platform="tcl" country="all",Funny or Die .CA -TCL
+https://funny-or-die-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="4c67bde35ecdc01d" tvg-name="Funny or Die .DE -TCL" group-title="tcl" platform="tcl" country="all",Funny or Die .DE -TCL
+https://funny-or-die-1-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5efa29d4c7227a28" tvg-name="Funny or Die .FR -TCL" group-title="tcl" platform="tcl" country="all",Funny or Die .FR -TCL
+https://funny-or-die-1-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="25ee2b17d448dfaa" tvg-name="Funny or Die .MX -TCL" group-title="tcl" platform="tcl" country="all",Funny or Die .MX -TCL
+https://funny-or-die-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="650b936ea0b3eafa" tvg-name="Funny or Die .SA -TCL" group-title="tcl" platform="tcl" country="all",Funny or Die .SA -TCL
+https://funny-or-die-1-sa.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="9554603542bb8476" tvg-name="Funny or Die alt -TCL" group-title="tcl" platform="tcl" country="all",Funny or Die alt -TCL
+https://funny-or-die-1-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="cf632057c9730c60" tvg-name="GB News -TCL" group-title="tcl" platform="tcl" country="all",GB News -TCL
+https://amg01076-lightning-amg01076c9-tcl-us-2480.playouts.now.amagi.tv/playlist/amg01076-lightning-gbnews-tclus/playlist.m3u8
+#EXTINF:-1 tvg-id="703a85f52cda3ec0" tvg-name="GB News -TCL" group-title="tcl" platform="tcl" country="all",GB News -TCL
+https://amg01076-lightning-amg01076c7-tcl-us-2467.playouts.now.amagi.tv/playlist/amg01076-lightning-gbnews-tclus/playlist.m3u8
+#EXTINF:-1 tvg-id="c0cd7eb2858105b6" tvg-name="Global Fashion Channel .CA -TCL" group-title="tcl" platform="tcl" country="all",Global Fashion Channel .CA -TCL
+https://gfcomnimedia-globalfashionchannel-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="3dca22c3b035f068" tvg-name="Global Fashion Channel .FR -TCL" group-title="tcl" platform="tcl" country="all",Global Fashion Channel .FR -TCL
+https://gfcomnimedia-globalfashionchannel-1-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="7ddb2425781e927a" tvg-name="Global Fashion Channel .MX -TCL" group-title="tcl" platform="tcl" country="all",Global Fashion Channel .MX -TCL
+https://gfcomnimedia-globalfashionchannel-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="b61fbd3baa95567d" tvg-name="Global Fashion Channnel -TCL" group-title="tcl" platform="tcl" country="all",Global Fashion Channnel -TCL
+https://gfcomnimedia-globalfashionchannel-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="7b8c451b0316c820" tvg-name="Global Fashion Channnel .AU -TCL" group-title="tcl" platform="tcl" country="all",Global Fashion Channnel .AU -TCL
+https://gfcomnimedia-globalfashionchannel-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="408ac198184e504a" tvg-name="Global Fashion Channnel .DE -TCL" group-title="tcl" platform="tcl" country="all",Global Fashion Channnel .DE -TCL
+https://gfcomnimedia-globalfashionchannel-1-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="53058ddee562b04a" tvg-name="Go Traveler -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Go Traveler -TCL (Geo)
+https://amg09501-amg09501c1-tclideo-na-2400.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-tclideona/playlist.m3u8
+#EXTINF:-1 tvg-id="e8775a856f97a97f" tvg-name="Go Usa .AU -TCL" group-title="tcl" platform="tcl" country="all",Go Usa .AU -TCL
+https://brandusa-gousa-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="50211a23251a7054" tvg-name="Go Usa .BR -TCL" group-title="tcl" platform="tcl" country="all",Go Usa .BR -TCL
+https://brandusa-gousa-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="7f9d9e58d6536e9d" tvg-name="Go Usa .DE -TCL" group-title="tcl" platform="tcl" country="all",Go Usa .DE -TCL
+https://brandusa-gousa-1-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="662e5610027b74f8" tvg-name="Go Usa .FR -TCL" group-title="tcl" platform="tcl" country="all",Go Usa .FR -TCL
+https://brandusa-gousa-1-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="cc00ba4275f0ca97" tvg-name="Go Usa .MX -TCL" group-title="tcl" platform="tcl" country="all",Go Usa .MX -TCL
+https://brandusa-gousa-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="781fdee2ade24a4e" tvg-name="Greatest Sports Legends Laughs .AU -TCL" group-title="tcl" platform="tcl" country="all",Greatest Sports Legends Laughs .AU -TCL
+https://srp-digital-greatestsportslegendslaughs-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="0a8a27470f74710a" tvg-name="Greatest Sports Legends Laughs .BR -TCL" group-title="tcl" platform="tcl" country="all",Greatest Sports Legends Laughs .BR -TCL
+https://srp-digital-greatestsportslegendslaughs-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="09a5b67cd9a47396" tvg-name="Greatest Sports Legends Laughs .FR -TCL" group-title="tcl" platform="tcl" country="all",Greatest Sports Legends Laughs .FR -TCL
+https://srp-digital-greatestsportslegendslaughs-1-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="8c886f825ba1ce45" tvg-name="Greatest Sports Legends Laughs .MX -TCL" group-title="tcl" platform="tcl" country="all",Greatest Sports Legends Laughs .MX -TCL
+https://srp-digital-greatestsportslegendslaughs-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="49490e57cf99a9cc" tvg-name="Greatest Sports Legends Laughs .US -TCL" group-title="tcl" platform="tcl" country="all",Greatest Sports Legends Laughs .US -TCL
+https://srp-digital-greatestsportslegendslaughs-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="a6f4eb8246d5e126" tvg-name="Grit Xtra -TCL" group-title="tcl" platform="tcl" country="all",Grit Xtra -TCL
+https://scripps-gritxtra-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="0695569281edc2d8" tvg-name="Grit Xtra alt -TCL" group-title="tcl" platform="tcl" country="all",Grit Xtra alt -TCL
+https://scripps-gritxtra-2-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="45f578a566b37762" tvg-name="Grjngo .AU -TCL" group-title="tcl" platform="tcl" country="all",Grjngo .AU -TCL
+https://amogonetworx-grjngo-3-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ecd4dc10c954c47d" tvg-name="Grjngo .BR -TCL" group-title="tcl" platform="tcl" country="all",Grjngo .BR -TCL
+https://amogonetworx-grjngo-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="3326ba9fd179e418" tvg-name="Grjngo .CA -TCL" group-title="tcl" platform="tcl" country="all",Grjngo .CA -TCL
+https://amogonetworx-grjngo-3-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="b30ee0f8e09e7554" tvg-name="Grjngo .DE -TCL" group-title="tcl" platform="tcl" country="all",Grjngo .DE -TCL
+https://amogonetworx-grjngo-4-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="f29395874e8ac3d7" tvg-name="Grjngo .MX -TCL" group-title="tcl" platform="tcl" country="all",Grjngo .MX -TCL
+https://amogonetworx-grjngo-2-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="c00e41d52427efea" tvg-name="Grjngo .US -TCL" group-title="tcl" platform="tcl" country="all",Grjngo .US -TCL
+https://amogonetworx-grjngo-3-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="8999b5052ed925e8" tvg-name="Grjngo Films de Western .FR -TCL" group-title="tcl" platform="tcl" country="all",Grjngo Films de Western .FR -TCL
+https://amogo-networx-grjngofilmsdewestern-1-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="7f82cb2941b7440a" tvg-name="Gusto -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Gusto -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustous-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="72f762fcfe54149a" tvg-name="Gusto TV -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Gusto TV -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-gustotv-tcl-ideo/playlist.m3u8
+#EXTINF:-1 tvg-id="da6a1f1f94cace51" tvg-name="H2O TV -TCL" group-title="tcl" platform="tcl" country="all",H2O TV -TCL
+https://linear-738.frequency.stream/dist/tcltv/738/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="c9d418d7347430a6" tvg-name="Hardcore Pawn -TCL" group-title="tcl" platform="tcl" country="all",Hardcore Pawn -TCL
+https://amg00627-banijay-amg00627c8-tcl-us-4129.playouts.now.amagi.tv/playlist/amg00627-banijayfast-hardcorepawn-tclus/playlist.m3u8
+#EXTINF:-1 tvg-id="ec01e6c9365d02d5" tvg-name="Hello Inspo -TCL" group-title="tcl" platform="tcl" country="all",Hello Inspo -TCL
+https://linear-542.frequency.stream/dist/tcltv/542/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="ea9c628984690d16" tvg-name="Highway Thru Hell -TCL" group-title="tcl" platform="tcl" country="all",Highway Thru Hell -TCL
+https://amg00627-banijay-amg00627c15-tcl-us-3378.playouts.now.amagi.tv/playlist/amg00627-banijayfast-highwaythruhell-tclus/playlist.m3u8
+#EXTINF:-1 tvg-id="a96d71b17eb842ae" tvg-name="Hipstr -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Hipstr -TCL (Geo)
+https://amg09501-amg09501c2-tclideo-na-2401.playouts.now.amagi.tv/playlist/amg09501-quester-hipstr-tclideona/playlist.m3u8
+#EXTINF:-1 tvg-id="87091779a634f8f8" tvg-name="Historia Y Vida -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Historia Y Vida -TCL (Geo)
+https://amg01821-lovetv-amg01821c22-tcl-us-4102.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="912a5e53ae178971" tvg-name="History and Warfare Now -TCL (Geo)" group-title="tcl" platform="tcl" country="all",History and Warfare Now -TCL (Geo)
+https://amg00376-magellan-amg00376c16-tclideo-northamerica-1370.playouts.now.amagi.tv/playlist/amg00376-magellantv-historyandwarfarenowmainus-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1 tvg-id="7cdab2092c07426f" tvg-name="Homicide -TCL" group-title="tcl" platform="tcl" country="all",Homicide -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01796-fastmediabackbo-homicide-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="03ec850a2e6c8f1f" tvg-name="HSN -TCL" group-title="tcl" platform="tcl" country="all",HSN -TCL
+https://qvchsn-hsn-2-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ae5fc2fe8466d360" tvg-name="Intouchplus -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Intouchplus -TCL (Geo)
+https://amg01540-apexmedia-amg01540c2-tclideo-northamerica-983.playouts.now.amagi.tv/playlist/amg01540-apexmediafast-intouchplus-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1 tvg-id="2fd7f3b39e33ac0e" tvg-name="ION -TCL" group-title="tcl" platform="tcl" country="all",ION -TCL
+https://scripps-ion-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="73f403e7b3b0020a" tvg-name="ION alt -TCL" group-title="tcl" platform="tcl" country="all",ION alt -TCL
+https://scripps-ion-2-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="d87e91e511d5e3f8" tvg-name="ION Mystery -TCL" group-title="tcl" platform="tcl" country="all",ION Mystery -TCL
+https://scripps-ionmystery-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="48c84e7866d75326" tvg-name="ION Mystery alt -TCL" group-title="tcl" platform="tcl" country="all",ION Mystery alt -TCL
+https://scripps-ionmystery-2-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="0fe268e824508b2e" tvg-name="ION Plus -TCL" group-title="tcl" platform="tcl" country="all",ION Plus -TCL
+https://ion-ion-plus-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="f823aedb4b8095de" tvg-name="Jelly Jammy World -TCL" group-title="tcl" platform="tcl" country="all",Jelly Jammy World -TCL
+https://amg01553-blueant-amg01553c1-tcl-us-3941.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="6cc7fee2339ddcfc" tvg-name="JP News -TCL (Geo)" group-title="tcl" platform="tcl" country="all",JP News -TCL (Geo)
+https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="e22a6f38f2c65ee3" tvg-name="Judge Faith TV -TCL" group-title="tcl" platform="tcl" country="all",Judge Faith TV -TCL
+https://linear-650.frequency.stream/dist/tcltv/650/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="872e1bfb6c9f7379" tvg-name="Just for Laughs Gags -TCL" group-title="tcl" platform="tcl" country="all",Just for Laughs Gags -TCL
+https://distributionsjustepourrire-justforlaughsgags-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="0dcd5ecd8adc2cb5" tvg-name="Just for Laughs Gags .AU -TCL" group-title="tcl" platform="tcl" country="all",Just for Laughs Gags .AU -TCL
+https://distributionsjustepourrire-justforlaughsgags-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="777eb8fe8367decb" tvg-name="Just for Laughs Gags .DE -TCL" group-title="tcl" platform="tcl" country="all",Just for Laughs Gags .DE -TCL
+https://distributionsjustepourrire-justforlaughsgags-1-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="731143da5208c4b9" tvg-name="Just for Laughs Gags .FR -TCL" group-title="tcl" platform="tcl" country="all",Just for Laughs Gags .FR -TCL
+https://distributionsjustepourrire-justforlaughsgags-1-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="c35627521ac3715c" tvg-name="Just for Laughs Gags .MX -TCL" group-title="tcl" platform="tcl" country="all",Just for Laughs Gags .MX -TCL
+https://distributionsjustepourrire-justforlaughsgags-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="822f5426de328284" tvg-name="Just for Laughs Gags .SA -TCL" group-title="tcl" platform="tcl" country="all",Just for Laughs Gags .SA -TCL
+https://distributionsjustepourrire-justforlaughsgags-1-sa.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="4d65900b8f717d13" tvg-name="Kanal D Drama -TCL" group-title="tcl" platform="tcl" country="all",Kanal D Drama -TCL
+https://amg01602-amg01602c2-tcl-us-4910.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="4253014dac5271a6" tvg-name="Kartoon -TCL" group-title="tcl" platform="tcl" country="all",Kartoon -TCL
+https://amg01076-lightning-amg01076c9-tcl-us-2480.playouts.now.amagi.tv/playlist/amg01076-lightning-kartoon-tclus/playlist.m3u8
+#EXTINF:-1 tvg-id="acf4662983a1e51c" tvg-name="Kids TV -TCL" group-title="tcl" platform="tcl" country="all",Kids TV -TCL
+https://jansonmedia-kidstv-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="39cd031170f1b6e6" tvg-name="Law and Crime -TCL" group-title="tcl" platform="tcl" country="all",Law and Crime -TCL
+https://tclAAAAAA-lawandcrime-tcl-tk7zp.amagi.tv/playlist/tclAAAAAA-lawandcrime-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="5472e59825759498" tvg-name="Law and Crime -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Law and Crime -TCL (Geo)
+https://lawandcrime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="3d84aef3b625760f" tvg-name="Le meilleur D'arthur -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Le meilleur D'arthur -TCL (Geo)
+https://amg02393-awpg-amg02393c2-tcl-us-2151.playouts.now.amagi.tv/playlist/amg02393-awpg-lemeilleurdarthur-tclus/playlist.m3u8
+#EXTINF:-1 tvg-id="12d2d65e17184d0c" tvg-name="Le meilleur de la tv Realite -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Le meilleur de la tv Realite -TCL (Geo)
+https://amg02393-awpg-amg02393c4-tcl-us-2153.playouts.now.amagi.tv/playlist/amg02393-awpg-lemeilleurdelatvrealite-tclus/playlist.m3u8
+#EXTINF:-1 tvg-id="885bc739a064fd01" tvg-name="Les Amours -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Les Amours -TCL (Geo)
+https://amg02393-awpg-amg02393c3-tcl-us-2152.playouts.now.amagi.tv/playlist/amg02393-awpg-leszamours-tclus/playlist.m3u8
+#EXTINF:-1 tvg-id="4c2117f16164bd89" tvg-name="Les secrets denos regions -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Les secrets denos regions -TCL (Geo)
+https://amg02393-awpg-amg02393c6-tcl-us-2188.playouts.now.amagi.tv/playlist/amg02393-awpg-lessecretsdenosregions-tclus/playlist.m3u8
+#EXTINF:-1 tvg-id="daed0c526dfe0a99" tvg-name="Lesanges -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Lesanges -TCL (Geo)
+https://amg02393-awpg-amg02393c5-tcl-us-2154.playouts.now.amagi.tv/playlist/amg02393-awpg-lesanges-tclus/playlist.m3u8
+#EXTINF:-1 tvg-id="0c607027496e9dfb" tvg-name="Love Quest -TCL" group-title="tcl" platform="tcl" country="all",Love Quest -TCL
+https://amg00627-banijay-amg00627c6-tcl-us-4287.playouts.now.amagi.tv/playlist/amg00627-banijayfast-lovequest-tclus/playlist.m3u8
+#EXTINF:-1 tvg-id="b648d0a51dd089ee" tvg-name="Love the Planet C10 not identified -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Love the Planet C10 not identified -TCL (Geo)
+https://amg01821-lovetv-amg01821c10-tcl-us-4052.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="89186c3ee864f4e9" tvg-name="Love the Planet C11 not identified -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Love the Planet C11 not identified -TCL (Geo)
+https://amg01821-lovetv-amg01821c11-tcl-us-4050.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="163eb78b38294ea0" tvg-name="Love the Planet Spanish -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Love the Planet Spanish -TCL (Geo)
+https://amg01821-lovetv-amg01821c26-tcl-us-4125.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="4122b56189ab2cd0" tvg-name="Lovenature Spanish -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Lovenature Spanish -TCL (Geo)
+https://amg01515-blueskyeus-amg01515c1-tclideo-northamerica-496.playouts.now.amagi.tv/playlist/amg01515-blueskyeentertainment-lovenaturespanish-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1 tvg-id="0f6b770e57e62ab8" tvg-name="Lovestories TV -TCL" group-title="tcl" platform="tcl" country="all",Lovestories TV -TCL
+https://lovestoriestv-lovestoriestv-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="0976a0f48ab05aa2" tvg-name="Lovestories TV .AU -TCL" group-title="tcl" platform="tcl" country="all",Lovestories TV .AU -TCL
+https://lovestoriestv-lovestoriestv-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="d1306764ed613656" tvg-name="Lovestories TV .BR -TCL" group-title="tcl" platform="tcl" country="all",Lovestories TV .BR -TCL
+https://lovestoriestv-lovestoriestv-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ecd314da2c6d8d90" tvg-name="Lovestories TV .CA -TCL" group-title="tcl" platform="tcl" country="all",Lovestories TV .CA -TCL
+https://lovestoriestv-lovestoriestv-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="76bf1a5af937d58e" tvg-name="Lovestories TV .DE -TCL" group-title="tcl" platform="tcl" country="all",Lovestories TV .DE -TCL
+https://lovestoriestv-lovestoriestv-1-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="82b696b21799d052" tvg-name="Lovestories TV .FR -TCL" group-title="tcl" platform="tcl" country="all",Lovestories TV .FR -TCL
+https://lovestoriestv-lovestoriestv-1-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="9459e4becd986f3e" tvg-name="Lovestories TV .MX -TCL" group-title="tcl" platform="tcl" country="all",Lovestories TV .MX -TCL
+https://lovestoriestv-lovestoriestv-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="3641c95c897d40c6" tvg-name="Lovestories TV .SA -TCL" group-title="tcl" platform="tcl" country="all",Lovestories TV .SA -TCL
+https://lovestoriestv-lovestoriestv-1-sa.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="b1746a500994e8e5" tvg-name="Lovewine -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Lovewine -TCL (Geo)
+https://amg01821-lovetv-amg01821c17-tcl-us-4042.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="656f1091077277f1" tvg-name="Lucha Plus -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Lucha Plus -TCL (Geo)
+https://amg17334-amg17334c1-tclideo-na-6734.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="41ed413f4150dba8" tvg-name="Made in Hollywood -TCL" group-title="tcl" platform="tcl" country="all",Made in Hollywood -TCL
+https://connection3-ent-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="f748234d811bcf10" tvg-name="Made in Hollywood .AU -TCL" group-title="tcl" platform="tcl" country="all",Made in Hollywood .AU -TCL
+https://connection3-ent-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="26f8b396fa7e51c7" tvg-name="Made in Hollywood .BR -TCL" group-title="tcl" platform="tcl" country="all",Made in Hollywood .BR -TCL
+https://connection3-ent-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="7443d49bcd6ceaf6" tvg-name="Made in Hollywood .CA -TCL" group-title="tcl" platform="tcl" country="all",Made in Hollywood .CA -TCL
+https://connection3-ent-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="9fdb88b4fef07b68" tvg-name="Made in Hollywood .DE -TCL" group-title="tcl" platform="tcl" country="all",Made in Hollywood .DE -TCL
+https://connection3-ent-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="1541a78b65b5e75a" tvg-name="Made in Hollywood .MX -TCL" group-title="tcl" platform="tcl" country="all",Made in Hollywood .MX -TCL
+https://connection3-ent-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="124e04f3d9fee868" tvg-name="Magellan TV Now -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Magellan TV Now -TCL (Geo)
+https://amg00376-magellan-amg00376c1-tclideo-northamerica-1371.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowmainus-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1 tvg-id="b74b4ce0e8582dee" tvg-name="Mansa Mix -TCL" group-title="tcl" platform="tcl" country="all",Mansa Mix -TCL
+https://mansa-mansamix-1-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="c0ac315670c18c6d" tvg-name="Manual Do Mundo -TCL" group-title="tcl" platform="tcl" country="all",Manual Do Mundo -TCL
+https://amg17288-offgrid-amg17288c2-tcl-us-5005.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="8c6c1c5d762ff69f" tvg-name="Masterchef Brazil -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Masterchef Brazil -TCL (Geo)
+https://amg00627-banijay-amg00627c9-tcl-us-3379.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="2a4f0a7c97d14734" tvg-name="Masterchef Mexico -TCL" group-title="tcl" platform="tcl" country="all",Masterchef Mexico -TCL
+https://amg00627-banijay-amg00627c10-tcl-us-4286.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ad54ab4b750ed134" tvg-name="Mav TV Brasil -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Mav TV Brasil -TCL (Geo)
+https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="11886accab3c7cfd" tvg-name="Mav TV Select -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Mav TV Select -TCL (Geo)
+https://amg00378-mavtv-amg00378c4-tcl-us-1327.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-mavtvselectdomestic-tclus/playlist.m3u8
+#EXTINF:-1 tvg-id="adc67efcf629ffb9" tvg-name="Mav TV Select N.A -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Mav TV Select N.A -TCL (Geo)
+https://amg00378-mavtv-amg00378c4-tclideo-na-2696.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-mavtvselectdomestic-tclideona/playlist.m3u8
+#EXTINF:-1 tvg-id="a2b8784edbb9abdc" tvg-name="Maverick Black Cinema -TCL" group-title="tcl" platform="tcl" country="all",Maverick Black Cinema -TCL
+https://maverick-maverick-black-cinema-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="e4c5c0fda124cb7c" tvg-name="Maverick Black Cinema .CA -TCL" group-title="tcl" platform="tcl" country="all",Maverick Black Cinema .CA -TCL
+https://maverick-maverick-black-cinema-2-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="53e040c0d9d41239" tvg-name="McLeods Daughter's -TCL (Geo)" group-title="tcl" platform="tcl" country="all",McLeods Daughter's -TCL (Geo)
+https://amg00627-banijay-amg00627c7-tclideo-northamerica-644.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mcleodsdaughters-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1 tvg-id="a927edd96900cf26" tvg-name="MHZ -TCL" group-title="tcl" platform="tcl" country="all",MHZ -TCL
+https://mhz-samsung-linear-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="3b192e2218e22b8c" tvg-name="MHZ .CA -TCL" group-title="tcl" platform="tcl" country="all",MHZ .CA -TCL
+https://mhz-samsung-linear-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="cd2936f69fac7609" tvg-name="Miramax Movies -TCL" group-title="tcl" platform="tcl" country="all",Miramax Movies -TCL
+https://linear-798.frequency.stream/dist/tcltv/798/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="c827b5edb40300a9" tvg-name="Mob TV -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Mob TV -TCL (Geo)
+https://amg01324-infamous-amg01324c1-tclideo-northamerica-400.playouts.now.amagi.tv/playlist/amg01324-infamousmedia-mobtv-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1 tvg-id="8c32639b83d87a80" tvg-name="Moconomy .AU -TCL" group-title="tcl" platform="tcl" country="all",Moconomy .AU -TCL
+https://amogonetworx-moconomy-2-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="9cb4f1f5c90bed33" tvg-name="Moconomy .CA -TCL" group-title="tcl" platform="tcl" country="all",Moconomy .CA -TCL
+https://amogonetworx-moconomy-2-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="d5dc16af83a6590d" tvg-name="Moconomy .DE -TCL" group-title="tcl" platform="tcl" country="all",Moconomy .DE -TCL
+https://amogonetworx-moconomy-3-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="9e4dfbf2d5d55461" tvg-name="Moconomy .MX -TCL" group-title="tcl" platform="tcl" country="all",Moconomy .MX -TCL
+https://amogonetworx-moconomy-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="b80f080280ba01eb" tvg-name="Moconomy .US -TCL" group-title="tcl" platform="tcl" country="all",Moconomy .US -TCL
+https://amogonetworx-moconomy-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="64d06e3883438343" tvg-name="MoreU -TCL" group-title="tcl" platform="tcl" country="all",MoreU -TCL
+https://bec-moreu-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="e38eaf565cd6efc9" tvg-name="Motorvision -TCL" group-title="tcl" platform="tcl" country="all",Motorvision -TCL
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3467
+#EXTINF:-1 tvg-id="eb32d2e54e5bf4c4" tvg-name="Movie Fone TV .FR -TCL" group-title="tcl" platform="tcl" country="all",Movie Fone TV .FR -TCL
+https://connection3-ent-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="7b2305737397e499" tvg-name="Movie Fone TV .SA -TCL" group-title="tcl" platform="tcl" country="all",Movie Fone TV .SA -TCL
+https://connection3-ent-sa.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="9e7634910bdcfced" tvg-name="MovieDome -TCL" group-title="tcl" platform="tcl" country="all",MovieDome -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedome-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="0fd5728c32395f55" tvg-name="MovieDome Family -TCL" group-title="tcl" platform="tcl" country="all",MovieDome Family -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomefamily-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="28a5b466bfd6a7f4" tvg-name="MovieDome UK -TCL" group-title="tcl" platform="tcl" country="all",MovieDome UK -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomeuk-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="bba2361f0df91b22" tvg-name="Moviesphere -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Moviesphere -TCL (Geo)
+https://amg00353-lionsgatestudios-amg00353c2-tclideo-na-2304.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-moviesphere-tclideona/playlist.m3u8
+#EXTINF:-1 tvg-id="4495d3f04455a466" tvg-name="Moviesphere -TCL c27 (Geo)" group-title="tcl" platform="tcl" country="all",Moviesphere -TCL c27 (Geo)
+https://amg00353-amg00353c27-tcl-us-6386.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="52f8419e20cee2a2" tvg-name="Moviesphere Spanish onscreen subs -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Moviesphere Spanish onscreen subs -TCL (Geo)
+https://amg00353-amg00353c29-tcl-us-6383.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="120c4554fe1bd889" tvg-name="Mr Bean -TCL" group-title="tcl" platform="tcl" country="all",Mr Bean -TCL
+https://amg00627-banijay-amg00627c40-tcl-us-5568.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="e367b46d397099e5" tvg-name="Mr Bean Animated .ES -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Mr Bean Animated .ES -TCL (Geo)
+https://amg00627-banijay-amg00627c30-tcl-us-4135.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-tclus/playlist.m3u8
+#EXTINF:-1 tvg-id="3a0ae2253c8c34e7" tvg-name="Mr Bean Animated .FR -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Mr Bean Animated .FR -TCL (Geo)
+https://amg00627-banijay-amg00627c31-tcl-us-4136.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-tclus/playlist.m3u8
+#EXTINF:-1 tvg-id="9cb0f47db4963dae" tvg-name="Mr Bean Animated .IT -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Mr Bean Animated .IT -TCL (Geo)
+https://amg00627-banijay-amg00627c29-tcl-us-4138.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-tclus/playlist.m3u8
+#EXTINF:-1 tvg-id="07a0fdf30842fc87" tvg-name="Mr Bean Animated .PT -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Mr Bean Animated .PT -TCL (Geo)
+https://amg00627-banijay-amg00627c35-tcl-us-4282.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanbr-tclus/playlist.m3u8
+#EXTINF:-1 tvg-id="e7e10a2d50d6836f" tvg-name="Mr Bean Animated .UK -TCL" group-title="tcl" platform="tcl" country="all",Mr Bean Animated .UK -TCL
+https://amg00627-banijay-amg00627c28-tcl-us-4134.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-tclus/playlist.m3u8
+#EXTINF:-1 tvg-id="2855944f1a17c09a" tvg-name="MTRSPRT 1 -TCL" group-title="tcl" platform="tcl" country="all",MTRSPRT 1 -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-tcl-ideo/playlist.m3u8
+#EXTINF:-1 tvg-id="6fb8c77fd2c8494c" tvg-name="MTRSPRT 1 -TCL alt" group-title="tcl" platform="tcl" country="all",MTRSPRT 1 -TCL alt
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="d845a0dcaceafdbd" tvg-name="Mythbusters -TCL" group-title="tcl" platform="tcl" country="all",Mythbusters -TCL
+https://amg00627-banijay-amg00627c14-tcl-us-4130.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mythbusters-tclus/playlist.m3u8
+#EXTINF:-1 tvg-id="e17dd25755644afa" tvg-name="Mytime Movie Network -TCL" group-title="tcl" platform="tcl" country="all",Mytime Movie Network -TCL
+https://mytime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="1fd5843b41068c6b" tvg-name="Mytime Movie Network c2 -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Mytime Movie Network c2 -TCL (Geo)
+https://amg00500-amg00500c2-tcl-us-3572.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="49315dc6a0e40851" tvg-name="Mytime Movie Network c6 English text and cc -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Mytime Movie Network c6 English text and cc -TCL (Geo)
+https://amg00500-amg00500c6-tcl-us-3597.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ac112265c5df0f32" tvg-name="Mytime Movie Network German -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Mytime Movie Network German -TCL (Geo)
+https://amg00500-amg00500c5-tcl-us-3590.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="fdd37d19d2988915" tvg-name="Mytime Movie Network Spanish c3 -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Mytime Movie Network Spanish c3 -TCL (Geo)
+https://amg00500-amg00500c3-tcl-us-3584.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="19840db8c829e99b" tvg-name="Mytime Movie Network Spanish c4 -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Mytime Movie Network Spanish c4 -TCL (Geo)
+https://amg00500-amg00500c4-tcl-us-3586.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="d69625b35bc59814" tvg-name="MyTime Movie Network Spanish c7 -TCL (Geo)" group-title="tcl" platform="tcl" country="all",MyTime Movie Network Spanish c7 -TCL (Geo)
+https://amg00500-amg00500c7-tcl-us-3617.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="e752ef36a63408d3" tvg-name="Myzen Free -TCL" group-title="tcl" platform="tcl" country="all",Myzen Free -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzentven-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="34bb7375e648d5af" tvg-name="Myzen TV -TCL" group-title="tcl" platform="tcl" country="all",Myzen TV -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzentv-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="5a271122727f58ca" tvg-name="Naruto -TCL" group-title="tcl" platform="tcl" country="all",Naruto -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00520-tcl-naruto-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="df5b6d54166aebbe" tvg-name="National Lampoon -TCL" group-title="tcl" platform="tcl" country="all",National Lampoon -TCL
+https://linear-758.frequency.stream/dist/tcltv/758/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="8518cd2ca4068738" tvg-name="Nature moments by Love Nature -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Nature moments by Love Nature -TCL (Geo)
+https://amg01576-amg01576c2-tcl-us-4894.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="357a950080afc554" tvg-name="Nature Time Spanish -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Nature Time Spanish -TCL (Geo)
+https://amg01515-amg01515c31-tcl-us-5836.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="d2cb085343dd5c6e" tvg-name="Natureleza Salvaje -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Natureleza Salvaje -TCL (Geo)
+https://amg00376-magellan-amg00376c21-tcl-us-3387.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="bae015eb0f0eb4c3" tvg-name="New Brasil -TCL (Geo)" group-title="tcl" platform="tcl" country="all",New Brasil -TCL (Geo)
+https://amg01391-sbtinfast-amg01391c5-tcl-us-5080.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ff3bacd7b89b0ad4" tvg-name="NewKid .CA -TCL" group-title="tcl" platform="tcl" country="all",NewKid .CA -TCL
+https://newidco-newkid-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="12f76522a40d12a3" tvg-name="NewKid .CA alt -TCL" group-title="tcl" platform="tcl" country="all",NewKid .CA alt -TCL
+https://newidco-newkid-1-ca.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="fcf376c5e4f64107" tvg-name="NewKid .US -TCL" group-title="tcl" platform="tcl" country="all",NewKid .US -TCL
+https://newidco-newkid-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="458fff45e3c78029" tvg-name="NewKid .US alt -TCL" group-title="tcl" platform="tcl" country="all",NewKid .US alt -TCL
+https://newidco-newkid-1-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="871a9ef8a11bd847" tvg-name="Newsnet -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Newsnet -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-newsnet-tcl-ideo/playlist.m3u8
+#EXTINF:-1 tvg-id="ed4fee41a61b34e9" tvg-name="Newsworld -TCL" group-title="tcl" platform="tcl" country="all",Newsworld -TCL
+https://amg01076-lightning-amg01076c3-tcl-us-2445.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-tclus/playlist.m3u8
+#EXTINF:-1 tvg-id="6230d7bbd5095836" tvg-name="NewsWorld -TCL" group-title="tcl" platform="tcl" country="all",NewsWorld -TCL
+https://amg01076-lightning-amg01076c5-tcl-us-2468.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-tclus/playlist.m3u8
+#EXTINF:-1 tvg-id="99fc8211ce027f61" tvg-name="Nolly Africa HD -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Nolly Africa HD -TCL (Geo)
+https://amg02784-amg02784c1-tcl-us-2728.playouts.now.amagi.tv/playlist/amg02784-nollyafricafast-nollyafricahd-tclus/playlist.m3u8
+#EXTINF:-1 tvg-id="7116663b914113ca" tvg-name="North Woods League -TCL" group-title="tcl" platform="tcl" country="all",North Woods League -TCL
+https://amg16842-amg16842c1-tcl-us-3434.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="a5b6267486dbc838" tvg-name="Nosey 3 .AU -TCL" group-title="tcl" platform="tcl" country="all",Nosey 3 .AU -TCL
+https://nosey-3-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5474787c2b50ec93" tvg-name="Nosey 3 .BR -TCL" group-title="tcl" platform="tcl" country="all",Nosey 3 .BR -TCL
+https://nosey-3-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="bc5c9fecc742c773" tvg-name="Nosey 3 .DE -TCL" group-title="tcl" platform="tcl" country="all",Nosey 3 .DE -TCL
+https://nosey-3-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="636fce4f22047c91" tvg-name="Nosey 3 .FR -TCL" group-title="tcl" platform="tcl" country="all",Nosey 3 .FR -TCL
+https://nosey-3-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="c848164abae2069a" tvg-name="Nosey 3 .MX -TCL" group-title="tcl" platform="tcl" country="all",Nosey 3 .MX -TCL
+https://nosey-3-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="52a52f342eb6ff45" tvg-name="Nosey 3 .SA -TCL" group-title="tcl" platform="tcl" country="all",Nosey 3 .SA -TCL
+https://nosey-3-sa.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="fad0515eb05f0239" tvg-name="Nosey Escandalos -TCL" group-title="tcl" platform="tcl" country="all",Nosey Escandalos -TCL
+https://nosey-3-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="fcd0ecd29822c5da" tvg-name="Nosey Escandalos .CA -TCL" group-title="tcl" platform="tcl" country="all",Nosey Escandalos .CA -TCL
+https://nosey-3-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="1db13516eca32686" tvg-name="Nosey Escandolas alt -TCL" group-title="tcl" platform="tcl" country="all",Nosey Escandolas alt -TCL
+https://nosey-3-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="53b8683e3f81eaf2" tvg-name="Now 70s -TCL" group-title="tcl" platform="tcl" country="all",Now 70s -TCL
+https://amg01076-lightning-amg01076c3-tcl-us-2445.playouts.now.amagi.tv/playlist/amg01076-lightning-now70s-tclus/playlist.m3u8
+#EXTINF:-1 tvg-id="8c1ae3088783d6ac" tvg-name="Now 70s -TCL" group-title="tcl" platform="tcl" country="all",Now 70s -TCL
+https://amg01076-lightning-amg01076c1-tcl-us-2471.playouts.now.amagi.tv/playlist/amg01076-lightning-now70s-tclus/playlist.m3u8
+#EXTINF:-1 tvg-id="7d5c81cd649bc596" tvg-name="Now 80s -TCL" group-title="tcl" platform="tcl" country="all",Now 80s -TCL
+https://amg01076-lightning-amg01076c9-tcl-us-2480.playouts.now.amagi.tv/playlist/amg01076-lightning-now80s-tclus/playlist.m3u8
+#EXTINF:-1 tvg-id="62a44b24f266963f" tvg-name="Now 80s -TCL" group-title="tcl" platform="tcl" country="all",Now 80s -TCL
+https://amg01076-lightning-amg01076c2-tcl-us-2470.playouts.now.amagi.tv/playlist/amg01076-lightning-now80s-tclus/playlist.m3u8
+#EXTINF:-1 tvg-id="80e673011ebd02b8" tvg-name="Now 90s -TCL" group-title="tcl" platform="tcl" country="all",Now 90s -TCL
+https://amg01076-lightning-amg01076c9-tcl-us-2480.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s-tclus/playlist.m3u8
+#EXTINF:-1 tvg-id="bf1074207620a652" tvg-name="Now 90s -TCL" group-title="tcl" platform="tcl" country="all",Now 90s -TCL
+https://amg01076-lightning-amg01076c3-tcl-us-2445.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s-tclus/playlist.m3u8
+#EXTINF:-1 tvg-id="076ab3e1a4728c49" tvg-name="Nuestravision -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Nuestravision -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01914-nuestravision-nuestravision-tcl-ideo/playlist.m3u8
+#EXTINF:-1 tvg-id="2a5c3df788bb14e5" tvg-name="OAN Plus -TCL" group-title="tcl" platform="tcl" country="all",OAN Plus -TCL
+https://oan-plus-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="77246f464f5d19b9" tvg-name="Ondemand China -TCL" group-title="tcl" platform="tcl" country="all",Ondemand China -TCL
+https://newidco-ondemandchina-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="89a920a3e79fcc61" tvg-name="Ondemand China .CA -TCL" group-title="tcl" platform="tcl" country="all",Ondemand China .CA -TCL
+https://newidco-ondemandchina-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="82c71ca5fe13d1f2" tvg-name="Ondemand China .CA alt -TCL" group-title="tcl" platform="tcl" country="all",Ondemand China .CA alt -TCL
+https://newidco-ondemandchina-1-ca.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="528ab431e07bb8e3" tvg-name="OnDemand China .US alt -TCL" group-title="tcl" platform="tcl" country="all",OnDemand China .US alt -TCL
+https://newidco-ondemandchina-1-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="c697c81945f7b7a1" tvg-name="One America News -TCL (Geo)" group-title="tcl" platform="tcl" country="all",One America News -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-oneamericanews-tcl-ideo/playlist.m3u8
+#EXTINF:-1 tvg-id="14572c3ecd640e00" tvg-name="Out TV Proud -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Out TV Proud -TCL (Geo)
+https://amg00375-fusemedia-amg00375c3-tclideo-northamerica-721.playouts.now.amagi.tv/playlist/amg00375-fusemediafast-outtvproud-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1 tvg-id="7520620af7447031" tvg-name="Outdoor Action TV -TCL" group-title="tcl" platform="tcl" country="all",Outdoor Action TV -TCL
+https://careco-outdoor-action-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="a3ba0ea6ac9757f1" tvg-name="OZ TV -TCL (Geo)" group-title="tcl" platform="tcl" country="all",OZ TV -TCL (Geo)
+https://amg13231-actve-amg13231c3-tclideo-na-5735.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="40e977894411da15" tvg-name="Pac 12 -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Pac 12 -TCL (Geo)
+https://amg00384-pac12fast-amg00384c1-tclideo-northamerica-409.playouts.now.amagi.tv/playlist/amg00384-pac12-pac12-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1 tvg-id="e2c482d780abbc7b" tvg-name="PBS Antiques Roadshow (AU) -TCL" group-title="tcl" platform="tcl" country="all",PBS Antiques Roadshow (AU) -TCL
+https://amg02333-pbs-amg02333c12-tcl-us-5682.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="c9493624295effc0" tvg-name="PBS Antiques Roadshow -TCL (Geo)" group-title="tcl" platform="tcl" country="all",PBS Antiques Roadshow -TCL (Geo)
+https://amg02333-pbs-amg02333c8-tcl-us-5691.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="07be8e3288c4e0ce" tvg-name="PBS Antiques Roadshow -TCL (Geo)" group-title="tcl" platform="tcl" country="all",PBS Antiques Roadshow -TCL (Geo)
+https://amg02333-pbs-amg02333c4-tcl-us-5692.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="80fb30a86dfadd8c" tvg-name="PBS Food -TCL (Geo)" group-title="tcl" platform="tcl" country="all",PBS Food -TCL (Geo)
+https://amg02333-pbs-amg02333c7-tcl-us-5688.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="e742157bdeb0119b" tvg-name="PBS History -TCL" group-title="tcl" platform="tcl" country="all",PBS History -TCL
+https://amg02333-pbs-amg02333c3-tcl-us-5686.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="f09bf855dbda6c54" tvg-name="PBS Kids -TCL (Geo)" group-title="tcl" platform="tcl" country="all",PBS Kids -TCL (Geo)
+https://amg02333-pbs-amg02333c6-tcl-us-5687.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="686c143c4580e67f" tvg-name="PBS Nature -TCL (Geo)" group-title="tcl" platform="tcl" country="all",PBS Nature -TCL (Geo)
+https://amg02333-pbs-amg02333c11-tcl-us-5689.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5727938122688662" tvg-name="PBS Science (AU) -TCL" group-title="tcl" platform="tcl" country="all",PBS Science (AU) -TCL
+https://amg02333-pbs-amg02333c10-tcl-us-5683.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="66661a439be655a9" tvg-name="PBTV -TCL (Geo)" group-title="tcl" platform="tcl" country="all",PBTV -TCL (Geo)
+https://amg01444-amg01444c3-tcl-us-5674.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="cfdf46fe4c5fdab0" tvg-name="Pelimex -TCL" group-title="tcl" platform="tcl" country="all",Pelimex -TCL
+https://telecine-pelimex-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="d1181307906dbf1a" tvg-name="Pelimex .MX -TCL" group-title="tcl" platform="tcl" country="all",Pelimex .MX -TCL
+https://telecine-pelimex-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5781882838a68907" tvg-name="Petclub -TCL" group-title="tcl" platform="tcl" country="all",Petclub -TCL
+https://amg01076-lightning-amg01076c1-tcl-us-2471.playouts.now.amagi.tv/playlist/amg01076-lightning-petclub-tclus/playlist.m3u8
+#EXTINF:-1 tvg-id="1c3dc697903f5e81" tvg-name="PowerNation -TCL (Geo)" group-title="tcl" platform="tcl" country="all",PowerNation -TCL (Geo)
+https://amg01258-raycom-amg01258c3-tcl-us-908.playouts.now.amagi.tv/playlist/amg01258-raycomsportsfast-powernation-tclus/playlist.m3u8
+#EXTINF:-1 tvg-id="4bd6691614e264af" tvg-name="PowerNation Spanish -TCL (Geo)" group-title="tcl" platform="tcl" country="all",PowerNation Spanish -TCL (Geo)
+https://amg01258-raycom-amg01258c3-tclideo-na-2029.playouts.now.amagi.tv/playlist/amg01258-raycomsportsfast-powernationspanish-tclideona/playlist.m3u8
+#EXTINF:-1 tvg-id="953ffaaaab8a5305" tvg-name="Pulse -TCL" group-title="tcl" platform="tcl" country="all",Pulse -TCL
+https://amg01076-lightning-amg01076c9-tcl-us-2480.playouts.now.amagi.tv/playlist/amg01076-lightning-pulse-tclus/playlist.m3u8
+#EXTINF:-1 tvg-id="51e361ef8a61acce" tvg-name="Pulse -TCL" group-title="tcl" platform="tcl" country="all",Pulse -TCL
+https://amg01076-lightning-amg01076c8-tcl-us-2447.playouts.now.amagi.tv/playlist/amg01076-lightning-pulse-tclus/playlist.m3u8
+#EXTINF:-1 tvg-id="461829ee661acd3f" tvg-name="Pursuit UP -TCL" group-title="tcl" platform="tcl" country="all",Pursuit UP -TCL
+https://linear-205.frequency.stream/dist/tcltv/205/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="1c9d088aacabdedf" tvg-name="Quip -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Quip -TCL (Geo)
+https://amg00145-fremantlemedia-amg00145c3-tclideo-northamerica-620.playouts.now.amagi.tv/playlist/amg00145-fremantlemediafast-quip-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1 tvg-id="315157b05f2c7a1e" tvg-name="quiveutgagnerdesmillions -TCL (Geo)" group-title="tcl" platform="tcl" country="all",quiveutgagnerdesmillions -TCL (Geo)
+https://amg02393-awpg-amg02393c1-tcl-us-2150.playouts.now.amagi.tv/playlist/amg02393-awpg-quiveutgagnerdesmillions-tclus/playlist.m3u8
+#EXTINF:-1 tvg-id="bb5f12934e291528" tvg-name="QVC -TCL" group-title="tcl" platform="tcl" country="all",QVC -TCL
+https://qvchsn-qvc-2-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="48f60f8623d02c81" tvg-name="QVC -TCL (Geo)" group-title="tcl" platform="tcl" country="all",QVC -TCL (Geo)
+https://amg01717-qvc-amg01717c1-tclideo-na-2936.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="aa8bc2c7fd2bc69d" tvg-name="Qwest Jazz -TCL" group-title="tcl" platform="tcl" country="all",Qwest Jazz -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwest-jazz-tcl-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="c746e1cb351c0ce5" tvg-name="Racing America -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Racing America -TCL (Geo)
+https://racingamerica-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="0747fa213d79bf6d" tvg-name="RCN Mas+ -TCL" group-title="tcl" platform="tcl" country="all",RCN Mas+ -TCL
+https://rcntv-rcnmas-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="7a52a6d16e54f53b" tvg-name="RCN Mas+ .CA -TCL" group-title="tcl" platform="tcl" country="all",RCN Mas+ .CA -TCL
+https://rcntv-rcnmas-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="99782b5b6c03c6a0" tvg-name="RCN Mas+ .MX -TCL" group-title="tcl" platform="tcl" country="all",RCN Mas+ .MX -TCL
+https://rcntv-rcnmas-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="a20a7ac5db53ba21" tvg-name="Real Americas Voice -TCL" group-title="tcl" platform="tcl" country="all",Real Americas Voice -TCL
+https://p1media-realamericasvoice-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="752cf2d2d4f96799" tvg-name="Real Crime -TCL" group-title="tcl" platform="tcl" country="all",Real Crime -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realcrime-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="084a4aba8a497f04" tvg-name="Real Life -TCL" group-title="tcl" platform="tcl" country="all",Real Life -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-reallife-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="f783494b2580c898" tvg-name="Real Nosey -TCL" group-title="tcl" platform="tcl" country="all",Real Nosey -TCL
+https://nosey-realnosey-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="04c22cc6f2701c62" tvg-name="Real Nosey .AU -TCL" group-title="tcl" platform="tcl" country="all",Real Nosey .AU -TCL
+https://nosey-realnosey-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="12b7122519fa487e" tvg-name="Real Nosey .BR -TCL" group-title="tcl" platform="tcl" country="all",Real Nosey .BR -TCL
+https://nosey-realnosey-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="7953203fbaea515b" tvg-name="Real Nosey .CA -TCL" group-title="tcl" platform="tcl" country="all",Real Nosey .CA -TCL
+https://nosey-realnosey-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="01e26c3735790e88" tvg-name="Real Nosey .DE -TCL" group-title="tcl" platform="tcl" country="all",Real Nosey .DE -TCL
+https://nosey-realnosey-1-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="309a3947cc85e3de" tvg-name="Real Nosey .FR -TCL" group-title="tcl" platform="tcl" country="all",Real Nosey .FR -TCL
+https://nosey-realnosey-1-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5bb11fd482911478" tvg-name="Real Nosey .SA -TCL" group-title="tcl" platform="tcl" country="all",Real Nosey .SA -TCL
+https://nosey-realnosey-1-sa.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="fe4924772ceffc98" tvg-name="Real Nosey alt -TCL" group-title="tcl" platform="tcl" country="all",Real Nosey alt -TCL
+https://nosey-realnosey-1-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="298e9804845b0543" tvg-name="Real Stories -TCL" group-title="tcl" platform="tcl" country="all",Real Stories -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realstories-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="e5b450ef3c9b06b9" tvg-name="Real Wild -TCL" group-title="tcl" platform="tcl" country="all",Real Wild -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="8b364680a3c50c12" tvg-name="Reuters -TCL" group-title="tcl" platform="tcl" country="all",Reuters -TCL
+https://amg00453-reuters-amg00453c1-tcl-us-3947.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="cc24d376292f21e3" tvg-name="ROI .AU -TCL" group-title="tcl" platform="tcl" country="all",ROI .AU -TCL
+https://rise-financial-roi-tv-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="b3b395b994761166" tvg-name="ROI .BR -TCL" group-title="tcl" platform="tcl" country="all",ROI .BR -TCL
+https://rise-financial-roi-tv-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="0064166dc460d233" tvg-name="ROI .CA -TCL" group-title="tcl" platform="tcl" country="all",ROI .CA -TCL
+https://rise-financial-roi-tv-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="e97644d29d022c10" tvg-name="ROI .DE -TCL" group-title="tcl" platform="tcl" country="all",ROI .DE -TCL
+https://rise-financial-roi-tv-1-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="be56f3ec1327255e" tvg-name="ROI .FR -TCL" group-title="tcl" platform="tcl" country="all",ROI .FR -TCL
+https://rise-financial-roi-tv-1-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="af844d23cb478ebf" tvg-name="ROI .MX -TCL" group-title="tcl" platform="tcl" country="all",ROI .MX -TCL
+https://rise-financial-roi-tv-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="969c62039827f3a5" tvg-name="ROI .SA -TCL" group-title="tcl" platform="tcl" country="all",ROI .SA -TCL
+https://rise-financial-roi-tv-1-sa.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="d7e572fa9e364a8a" tvg-name="ROI .US -TCL" group-title="tcl" platform="tcl" country="all",ROI .US -TCL
+https://rise-financial-roi-tv-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="fa429128903b0825" tvg-name="Royal World .DE -TCL" group-title="tcl" platform="tcl" country="all",Royal World .DE -TCL
+https://amogonetworx-royalworld-2-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="593944cdf8a6deb2" tvg-name="Royal World .MX -TCL" group-title="tcl" platform="tcl" country="all",Royal World .MX -TCL
+https://amogonetworx-royalworld-3-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="c62a8181db073e03" tvg-name="Royalworld Nobility Destinys .AU -TCL" group-title="tcl" platform="tcl" country="all",Royalworld Nobility Destinys .AU -TCL
+https://amogo-networx-royalworldnobilitydynasties-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="d8d73babd0c56bd0" tvg-name="Royalworld Nobility Destinys .CA -TCL" group-title="tcl" platform="tcl" country="all",Royalworld Nobility Destinys .CA -TCL
+https://amogo-networx-royalworldnobilitydynasties-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="4edd7eb01f60cb0c" tvg-name="Royalworld Nobility Destinys .US -TCL" group-title="tcl" platform="tcl" country="all",Royalworld Nobility Destinys .US -TCL
+https://amogo-networx-royalworldnobilitydynasties-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="4c8ac21a7d44bca7" tvg-name="Sabor Arte 2 -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Sabor Arte 2 -TCL (Geo)
+https://amg01391-sbtinfast-amg01391c6-tcl-us-5081.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="804fc9d7fda03165" tvg-name="Saborear TV -TCL" group-title="tcl" platform="tcl" country="all",Saborear TV -TCL
+https://linear-649.frequency.stream/dist/tcltv/649/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="c203e7e8c2e32d69" tvg-name="Screamin -TCL" group-title="tcl" platform="tcl" country="all",Screamin -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00520-tcl-screamin-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="291b2adb8bf08062" tvg-name="Scripps News -TCL" group-title="tcl" platform="tcl" country="all",Scripps News -TCL
+https://scripps-newsy-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ec14a343def9263a" tvg-name="Scripps News alt -TCL" group-title="tcl" platform="tcl" country="all",Scripps News alt -TCL
+https://scripps-newsy-2-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="6ad288ac9dc769d8" tvg-name="Sensical 2 UP -TCL" group-title="tcl" platform="tcl" country="all",Sensical 2 UP -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00722-commonsensemedi-sensical2up-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="4c2b51cfab3b1e4a" tvg-name="Sensical 5 UP -TCL" group-title="tcl" platform="tcl" country="all",Sensical 5 UP -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00722-commonsensemedi-sensical5up-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="90405b7f3161c9d4" tvg-name="Sensical 8 UP -TCL" group-title="tcl" platform="tcl" country="all",Sensical 8 UP -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00722-commonsensemedi-sensical8up-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="729bba6caebf3738" tvg-name="Shades of Black -TCL" group-title="tcl" platform="tcl" country="all",Shades of Black -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00375-fusemedia-fusebeat-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="b49556948ea0a743" tvg-name="Shades of Black -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Shades of Black -TCL (Geo)
+https://amg00375-fusemedia-amg00375c2-tclideo-northamerica-720.playouts.now.amagi.tv/playlist/amg00375-fusemediafast-shadesofblack-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1 tvg-id="ec535e686f744fb5" tvg-name="So Real -TCL" group-title="tcl" platform="tcl" country="all",So Real -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/tclAAAAAA-cinedigm-soreal-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="1ac4b399c0ce0dfe" tvg-name="Sony Canal Compentencias -TCL" group-title="tcl" platform="tcl" country="all",Sony Canal Compentencias -TCL
+https://spt-competencias-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="cab316949515d8f9" tvg-name="Sony Canal Competencias .MX -TCL" group-title="tcl" platform="tcl" country="all",Sony Canal Competencias .MX -TCL
+https://spt-sonyonecompetencias-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="267de8d22e20c7fc" tvg-name="Sony Canal Novelas -TCL" group-title="tcl" platform="tcl" country="all",Sony Canal Novelas -TCL
+https://spt-novelas-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="6743664b775d8412" tvg-name="Sony Kal Hindi -TCL" group-title="tcl" platform="tcl" country="all",Sony Kal Hindi -TCL
+https://sony-sonykal-gn-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="18a3119a7cc649b8" tvg-name="Sony One Cinema .BR -TCL" group-title="tcl" platform="tcl" country="all",Sony One Cinema .BR -TCL
+https://spt-sonyoneclassicas-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="0dbec433fb9394e5" tvg-name="Sony One Emoções .BR -TCL" group-title="tcl" platform="tcl" country="all",Sony One Emoções .BR -TCL
+https://spt-sonyoneemocoes-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="998f49ad6d593c7f" tvg-name="Sony One Novelas .MX -TCL" group-title="tcl" platform="tcl" country="all",Sony One Novelas .MX -TCL
+https://spt-sonyonenovelas-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="e85f1780a99bd624" tvg-name="Sony One Shark Tank Brasil -TCL" group-title="tcl" platform="tcl" country="all",Sony One Shark Tank Brasil -TCL
+https://spt-sonyonesharktankbrasil-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="6c382f375d619f3d" tvg-name="Sony One Sharktank .MX -TCL" group-title="tcl" platform="tcl" country="all",Sony One Sharktank .MX -TCL
+https://spt-sonyonesharktank-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="af5a764599d4ccc1" tvg-name="Soul Cinema -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Soul Cinema -TCL (Geo)
+https://amg01785-soulofthesouthfast-amg01785c1-tclideo-northamerica-692.playouts.now.amagi.tv/playlist/amg01785-soulofthesouth-soulcinema-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1 tvg-id="b7c694288a0b4a69" tvg-name="Space Science Now -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Space Science Now -TCL (Geo)
+https://amg00376-magellan-amg00376c13-tclideo-northamerica-1369.playouts.now.amagi.tv/playlist/amg00376-magellantv-spacesciencenowmainus-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1 tvg-id="d0323f1464dc9395" tvg-name="Spark Light Love -TCL" group-title="tcl" platform="tcl" country="all",Spark Light Love -TCL
+https://candlelightmedia-sparklightlove-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="0dbd7389f2a7a995" tvg-name="Spark Light Love .BR -TCL" group-title="tcl" platform="tcl" country="all",Spark Light Love .BR -TCL
+https://candlelightmedia-sparklightlove-3-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="92560fadf6b5dc42" tvg-name="Spark Light Love .MX -TCL" group-title="tcl" platform="tcl" country="all",Spark Light Love .MX -TCL
+https://candlelightmedia-sparklightlove-2-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="80de1021ac988427" tvg-name="Sparkle Movies .AU -TCL" group-title="tcl" platform="tcl" country="all",Sparkle Movies .AU -TCL
+https://candlelightmedia-sparklemovies-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ae7d5e56b5d0a794" tvg-name="Sports Grid (Geo) -TCL" group-title="tcl" platform="tcl" country="all",Sports Grid (Geo) -TCL
+https://amg00315-amg00315c1-tcl-us-3349.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="eff3a274076117d5" tvg-name="Sports Grid -TCL" group-title="tcl" platform="tcl" country="all",Sports Grid -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00315-sportsgrid-sportsgrid-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="db9ef5bf11ddea4c" tvg-name="Sports Grid Network -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Sports Grid Network -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-sportsgridnetwork-tcl-ideo/playlist.m3u8
+#EXTINF:-1 tvg-id="682a7033dcf26220" tvg-name="Sports News Highlights -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Sports News Highlights -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-sportsnewshighlights-tcl-ideo/playlist.m3u8
+#EXTINF:-1 tvg-id="048fa799f5398dec" tvg-name="Star Cinema -TCL" group-title="tcl" platform="tcl" country="all",Star Cinema -TCL
+https://edge-fast.evrideo.tv/4e160454-ffee-4efc-beb6-a141b0343f51_0_HLS/manifest.m3u8
+#EXTINF:-1 tvg-id="f294b421b748bd29" tvg-name="Startalk TV -TCL" group-title="tcl" platform="tcl" country="all",Startalk TV -TCL
+https://linear-770.frequency.stream/dist/tcltv/770/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="1dc51eb94b59e24c" tvg-name="Stash Black Stories -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Stash Black Stories -TCL (Geo)
+https://amg01720-filmhub-amg01720c1-tcl-us-3937.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="d3e82a5ffd3b1895" tvg-name="Stash Screams and Scares -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Stash Screams and Scares -TCL (Geo)
+https://amg01720-filmhub-amg01720c6-tcl-us-3958.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5e8308fdd422eb43" tvg-name="Stash The Classics -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Stash The Classics -TCL (Geo)
+https://amg01720-filmhub-amg01720c2-tcl-us-3959.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="7dd2bbd1fe999050" tvg-name="Storie Criminali Italian -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Storie Criminali Italian -TCL (Geo)
+https://amg01821-lovetv-amg01821c21-tcl-us-4060.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="6a73d7c0c44a7b73" tvg-name="Strongman Champions League .AU -TCL" group-title="tcl" platform="tcl" country="all",Strongman Champions League .AU -TCL
+https://rightsboosterltd-scl-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="32e814056e736a98" tvg-name="Strongman Champions League .CA -TCL" group-title="tcl" platform="tcl" country="all",Strongman Champions League .CA -TCL
+https://rightsboosterltd-scl-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="71b29b59fa0e15ce" tvg-name="Strongman Champions League .US -TCL" group-title="tcl" platform="tcl" country="all",Strongman Champions League .US -TCL
+https://rightsboosterltd-scl-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="d135189c52108780" tvg-name="Strongman Champions League .US alt -TCL" group-title="tcl" platform="tcl" country="all",Strongman Champions League .US alt -TCL
+https://rightsboosterltd-scl-1-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="3909f9ad7f444d7d" tvg-name="Super Simple Songs -TCL" group-title="tcl" platform="tcl" country="all",Super Simple Songs -TCL
+https://janson-supersimplesongs-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="39a17981ea571302" tvg-name="T2 -TCL (Geo)" group-title="tcl" platform="tcl" country="all",T2 -TCL (Geo)
+https://amg01444-amg01444c2-tcl-us-5673.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="c52cf06165dfe3c4" tvg-name="Tastemade 16 INTL -TCL alt" group-title="tcl" platform="tcl" country="all",Tastemade 16 INTL -TCL alt
+https://tastemade-tastemadees16intl-tcl-p49s8.amagi.tv/playlist/tastemade-tastemadees16intl-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="e107b5280ee7aba7" tvg-name="Tastemade Freetv16 -TCL alt" group-title="tcl" platform="tcl" country="all",Tastemade Freetv16 -TCL alt
+https://tastemade-tastemadefreetv16-tcl-mmaw8.amagi.tv/playlist/tastemade-tastemadefreetv16-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="4d396e9b0ce8a7d7" tvg-name="Tastemade Germany -TCL" group-title="tcl" platform="tcl" country="all",Tastemade Germany -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmgermany-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="655f9f5cb02813c6" tvg-name="Tastemade Home -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Tastemade Home -TCL (Geo)
+https://amg00047-tastemade-amg00047c2-tcl-us-5026.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="49e6c58bb26e4143" tvg-name="TBN -TCL" group-title="tcl" platform="tcl" country="all",TBN -TCL
+https://amg01700-tbn-amg01700c1-tcl-us-3154.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="64ecb36e6a74083c" tvg-name="Ted -TCL" group-title="tcl" platform="tcl" country="all",Ted -TCL
+https://tedconferences-ted-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="7b34ff5a7d41bd81" tvg-name="The Biggest Loser -TCL" group-title="tcl" platform="tcl" country="all",The Biggest Loser -TCL
+https://amg00627-banijay-amg00627c4-tcl-us-4128.playouts.now.amagi.tv/playlist/amg00627-banijayfast-thebiggestloser-tclus/playlist.m3u8
+#EXTINF:-1 tvg-id="1c14a1090010d944" tvg-name="The Biggest Loser -TCL (Geo)" group-title="tcl" platform="tcl" country="all",The Biggest Loser -TCL (Geo)
+https://amg00627-banijay-amg00627c3-tclideo-northamerica-641.playouts.now.amagi.tv/playlist/amg00627-banijayfast-thebiggestloser-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1 tvg-id="7110d58c58ddc671" tvg-name="The Boat Show .BR -TCL" group-title="tcl" platform="tcl" country="all",The Boat Show .BR -TCL
+https://vitor-theboatshow-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="c0ec7cb137fdaff9" tvg-name="The Boat Show .US -TCL" group-title="tcl" platform="tcl" country="all",The Boat Show .US -TCL
+https://vitor-theboatshow-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5e62f0f4d7094451" tvg-name="The Design Network alt -TCL" group-title="tcl" platform="tcl" country="all",The Design Network alt -TCL
+https://amg00441-amg00441c1-tcl-us-6397.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="9647a81ffa713b8e" tvg-name="The Homestyle Channel .AU -TCL" group-title="tcl" platform="tcl" country="all",The Homestyle Channel .AU -TCL
+https://pitch5-thehomestylechannel-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="54e40aa177a3ed93" tvg-name="The Homestyle Channel .BR -TCL" group-title="tcl" platform="tcl" country="all",The Homestyle Channel .BR -TCL
+https://pitch5-thehomestylechannel-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="8174cc6262b6e7bb" tvg-name="The Homestyle Channel .CA -TCL" group-title="tcl" platform="tcl" country="all",The Homestyle Channel .CA -TCL
+https://pitch5-thehomestylechannel-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5762515c8698d8a7" tvg-name="The Homestyle Channel .DE -TCL" group-title="tcl" platform="tcl" country="all",The Homestyle Channel .DE -TCL
+https://pitch5-thehomestylechannel-1-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="b9f6b65e629c9e5b" tvg-name="The Homestyle Channel .FR -TCL" group-title="tcl" platform="tcl" country="all",The Homestyle Channel .FR -TCL
+https://pitch5-thehomestylechannel-1-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="fa1b8ebd0fa44941" tvg-name="The Homestyle Channel .MX -TCL" group-title="tcl" platform="tcl" country="all",The Homestyle Channel .MX -TCL
+https://pitch5-thehomestylechannel-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="b0971ce14e3823a2" tvg-name="The Homestyle Channel .US -TCL" group-title="tcl" platform="tcl" country="all",The Homestyle Channel .US -TCL
+https://pitch5-thehomestylechannel-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="c5d6d095ebdc1269" tvg-name="The Red Green Show -TCL" group-title="tcl" platform="tcl" country="all",The Red Green Show -TCL
+https://answermedia-theredgreenshow-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="3135026956bf77db" tvg-name="The Red Green Show .CA -TCL" group-title="tcl" platform="tcl" country="all",The Red Green Show .CA -TCL
+https://answermedia-theredgreenshow-2-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="22cf38658b4c51ea" tvg-name="Timeline -TCL" group-title="tcl" platform="tcl" country="all",Timeline -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timeline-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="7db891a628c5f63d" tvg-name="Today's Home Owner -TCL" group-title="tcl" platform="tcl" country="all",Today's Home Owner -TCL
+https://janson-todayshomeowner-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="10481d7a5efad5dd" tvg-name="Todo Novelas -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Todo Novelas -TCL (Geo)
+https://amg00711-zylo-amg00711c3-tcl-us-4226.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="3326f37ed5190126" tvg-name="Top True Crime -TCL" group-title="tcl" platform="tcl" country="all",Top True Crime -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00520-tcl-toptruecrime-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="b9cfcdc6c61d1d0c" tvg-name="Trace Brazuca -TCL" group-title="tcl" platform="tcl" country="all",Trace Brazuca -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00520-tcl-tracebrazuca-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="b8f8a1ce97c3a181" tvg-name="Trace Latina -TCL" group-title="tcl" platform="tcl" country="all",Trace Latina -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00520-tcl-tracelatina-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="5c9400636295b8e9" tvg-name="Trace Latina -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Trace Latina -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatina-tcl-ideo/playlist.m3u8
+#EXTINF:-1 tvg-id="c6203a497338deec" tvg-name="Trace Sports Stars -TCL" group-title="tcl" platform="tcl" country="all",Trace Sports Stars -TCL
+https://trace-sportstars-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="8fbfa0322e5ec9ad" tvg-name="Trace UK -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Trace UK -TCL (Geo)
+https://amg01131-tracetv-amg01131c5-tcl-us-4190.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="220eb15d13f13d4f" tvg-name="Trace Urban -TCL" group-title="tcl" platform="tcl" country="all",Trace Urban -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00520-tcl-traceurban-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="39944eb0e079f0cf" tvg-name="Trace Urban -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Trace Urban -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-traceurban-tcl-ideo/playlist.m3u8
+#EXTINF:-1 tvg-id="103c6c3d25a3d9b4" tvg-name="Trailers from Hell -TCL" group-title="tcl" platform="tcl" country="all",Trailers from Hell -TCL
+https://bec-trailersfromhell-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="77d69f8ee6ddab5a" tvg-name="Travel Escapes -TCL" group-title="tcl" platform="tcl" country="all",Travel Escapes -TCL
+https://videoelephantlimited-travelescapes-1-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="b4f3b3eef69f8e7f" tvg-name="Travel Escapes .AU -TCL" group-title="tcl" platform="tcl" country="all",Travel Escapes .AU -TCL
+https://videoelephantlimited-travelescapes-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="e9c43304be98a625" tvg-name="Travel Escapes .CA -TCL" group-title="tcl" platform="tcl" country="all",Travel Escapes .CA -TCL
+https://videoelephantlimited-travelescapes-1-ca.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="409f3834128220a5" tvg-name="Travel XP .BR -TCL" group-title="tcl" platform="tcl" country="all",Travel XP .BR -TCL
+https://mediaworldwidelimited-travelxp-6-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="a891d4f497efb803" tvg-name="Travel XP .CA -TCL" group-title="tcl" platform="tcl" country="all",Travel XP .CA -TCL
+https://travelxp-travelxp-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="026f00f5b0d0bf34" tvg-name="Travel XP .DE -TCL" group-title="tcl" platform="tcl" country="all",Travel XP .DE -TCL
+https://travelxp-travelxp-2-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="3cdb68a96f348193" tvg-name="Travel XP .US -TCL" group-title="tcl" platform="tcl" country="all",Travel XP .US -TCL
+https://travelxp-travelxp-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5f644f0a50bdc2dd" tvg-name="Tru Blu -TCL" group-title="tcl" platform="tcl" country="all",Tru Blu -TCL
+https://trublufactual-trublu-1-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="a5161037116cffd8" tvg-name="True Crime Now C8 not fully identified -TCL (Geo)" group-title="tcl" platform="tcl" country="all",True Crime Now C8 not fully identified -TCL (Geo)
+https://amg00376-magellan-amg00376c8-tcl-us-3385.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="21f5a1e74d9c12cb" tvg-name="True Crime Now C9 not fully identified -TCL (Geo)" group-title="tcl" platform="tcl" country="all",True Crime Now C9 not fully identified -TCL (Geo)
+https://amg00376-magellan-amg00376c9-tcl-us-3386.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="9d50e349d1fc951f" tvg-name="TV Manjaro (Oterra Check)" group-title="tcl" platform="tcl" country="all",TV Manjaro (Oterra Check)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3347
+#EXTINF:-1 tvg-id="9a74645f93e8345e" tvg-name="TV Zyn -TCL check" group-title="tcl" platform="tcl" country="all",TV Zyn -TCL check
+https://amg01391-sbtinfast-amg01391c2-tcl-us-3712.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="4b20115a9c0504e4" tvg-name="Unbeaten -TCL" group-title="tcl" platform="tcl" country="all",Unbeaten -TCL
+https://unbeaten-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="541200f30a273f1d" tvg-name="United Fight Alliance -AU -TCL" group-title="tcl" platform="tcl" country="all",United Fight Alliance -AU -TCL
+https://brawlcall-unitedfightalliance-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="e09c6b40d8d8ad19" tvg-name="United Fight Alliance -SA -TCL" group-title="tcl" platform="tcl" country="all",United Fight Alliance -SA -TCL
+https://brawlcall-unitedfightalliance-1-sa.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="4b7836db4b35c8aa" tvg-name="United Fight Alliance .CA -TCL" group-title="tcl" platform="tcl" country="all",United Fight Alliance .CA -TCL
+https://brawlcall-unitedfightalliance-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="1169f794be4e8640" tvg-name="United Fight Alliance .US -TCL" group-title="tcl" platform="tcl" country="all",United Fight Alliance .US -TCL
+https://brawlcall-unitedfightalliance-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="65c49d0bab3c2ccb" tvg-name="Univers Cine -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Univers Cine -TCL (Geo)
+https://amg01259-amg01259c1-tcl-us-3600.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="c73fe6f35723132a" tvg-name="Watch Mojo .AU -TCL" group-title="tcl" platform="tcl" country="all",Watch Mojo .AU -TCL
+https://watchmojo-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="879baf8309dacd3a" tvg-name="Watch Mojo .BR -TCL" group-title="tcl" platform="tcl" country="all",Watch Mojo .BR -TCL
+https://watchmojo-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="31e091627f3dc5da" tvg-name="Watch Mojo .CA -TCL" group-title="tcl" platform="tcl" country="all",Watch Mojo .CA -TCL
+https://watchmojo-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="c2ebbe99208c2906" tvg-name="Watch Mojo .DE -TCL" group-title="tcl" platform="tcl" country="all",Watch Mojo .DE -TCL
+https://watchmojo-1-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="d3c5a83b400f7ff4" tvg-name="Watch Mojo .FR -TCL" group-title="tcl" platform="tcl" country="all",Watch Mojo .FR -TCL
+https://watchmojo-1-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="f9d8360295b5678c" tvg-name="Watch Mojo .MX -TCL" group-title="tcl" platform="tcl" country="all",Watch Mojo .MX -TCL
+https://watchmojo-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="6e93ff8926e28519" tvg-name="Watch Mojo .US -TCL" group-title="tcl" platform="tcl" country="all",Watch Mojo .US -TCL
+https://watchmojo-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="73e227fa8cfbb9f6" tvg-name="Watch Mojo .US alt -TCL" group-title="tcl" platform="tcl" country="all",Watch Mojo .US alt -TCL
+https://watchmojo-1-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="09fb972ea7586ac0" tvg-name="Weather Nation -TCL" group-title="tcl" platform="tcl" country="all",Weather Nation -TCL
+https://weathernation-weathernation-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="15d4be2263fa8f09" tvg-name="Wedo Big Stories c41 not identified -TCL" group-title="tcl" platform="tcl" country="all",Wedo Big Stories c41 not identified -TCL
+https://amg00735-amg00735c41-tcl-us-4255.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="dc1aed079173b34b" tvg-name="Wedo Big Stories German subtitles -TCL" group-title="tcl" platform="tcl" country="all",Wedo Big Stories German subtitles -TCL
+https://amg00735-amg00735c11-tcl-us-3653.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="e67ae987478aae0b" tvg-name="Wedo Big Stories Italian subtitles -TCL" group-title="tcl" platform="tcl" country="all",Wedo Big Stories Italian subtitles -TCL
+https://amg00735-amg00735c1-tcl-us-3654.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="b3a4e5f36d04fbf5" tvg-name="Wedo Big Stories Spanish subtitles -TCL" group-title="tcl" platform="tcl" country="all",Wedo Big Stories Spanish subtitles -TCL
+https://amg00735-amg00735c33-tcl-us-3668.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="6e082ef1ff8faf2d" tvg-name="Wedo Movies -TCL" group-title="tcl" platform="tcl" country="all",Wedo Movies -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-watch4movies-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="2e0c32481289ecca" tvg-name="Wedo Movies -TCL" group-title="tcl" platform="tcl" country="all",Wedo Movies -TCL
+https://amg00735-amg00735c21-tcl-us-3624.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="471a698cf145605d" tvg-name="WeDO Movies -TCL" group-title="tcl" platform="tcl" country="all",WeDO Movies -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-w4freemovies-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="db4a1801baa71398" tvg-name="Wedo Movies French subtitles -TCL" group-title="tcl" platform="tcl" country="all",Wedo Movies French subtitles -TCL
+https://amg00735-amg00735c8-tcl-us-3626.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="aa0cfc0469e282e0" tvg-name="Wedo Movies German -TCL" group-title="tcl" platform="tcl" country="all",Wedo Movies German -TCL
+https://amg00735-amg00735c10-tcl-us-3625.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="59b65ff843548a0d" tvg-name="Wedo TV Amor Spanish -TCL" group-title="tcl" platform="tcl" country="all",Wedo TV Amor Spanish -TCL
+https://amg00735-amg00735c15-tcl-us-3623.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="595a4550f685d884" tvg-name="Wedo TV Movies Norwegien subtitles -TCL" group-title="tcl" platform="tcl" country="all",Wedo TV Movies Norwegien subtitles -TCL
+https://amg00735-amg00735c28-tcl-us-3649.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="e439fefd6b326ef2" tvg-name="Wedo TV Movies Swedish subtitles -TCL" group-title="tcl" platform="tcl" country="all",Wedo TV Movies Swedish subtitles -TCL
+https://amg00735-amg00735c29-tcl-us-3650.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="f6b5dc64db98a34b" tvg-name="Wedotv Sports -TCL" group-title="tcl" platform="tcl" country="all",Wedotv Sports -TCL
+https://amg00735-amg00735c7-tcl-us-3621.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="cf9a1a8bfbd6ab28" tvg-name="WhePlay Plus -TCL (Geo)" group-title="tcl" platform="tcl" country="all",WhePlay Plus -TCL (Geo)
+https://amg17288-offgrid-amg17288c5-tcl-us-5917.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="09dcd6f8e2d85e3a" tvg-name="Wipe Out Xtra -TCL" group-title="tcl" platform="tcl" country="all",Wipe Out Xtra -TCL
+https://amg00627-banijay-amg00627c7-tcl-us-4127.playouts.now.amagi.tv/playlist/amg00627-banijayfast-wipeoutxtra-tclus/playlist.m3u8
+#EXTINF:-1 tvg-id="0fd55e46a17f75ec" tvg-name="Wipeout Xtra -TCL (Geo)" group-title="tcl" platform="tcl" country="all",Wipeout Xtra -TCL (Geo)
+https://amg00627-banijay-amg00627c4-tclideo-northamerica-640.playouts.now.amagi.tv/playlist/amg00627-banijayfast-wipeoutxtra-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1 tvg-id="f85c37250e1b2851" tvg-name="Witz .US -TCL" group-title="tcl" platform="tcl" country="all",Witz .US -TCL
+https://bec-witz-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="cf399f10fd79b9c0" tvg-name="Witz .US alt -TCL" group-title="tcl" platform="tcl" country="all",Witz .US alt -TCL
+https://bec-witz-1-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="55486f325c7778da" tvg-name="Women's Sport Network" group-title="tcl" platform="tcl" country="all",Women's Sport Network
+https://faststudios-womensnetwork-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="90aee9729b99d54d" tvg-name="Wonder -TCL" group-title="tcl" platform="tcl" country="all",Wonder -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wonder-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="7e6d224c1c44e6a0" tvg-name="XITE 60's and 70's Groove -TCL (Geo)" group-title="tcl" platform="tcl" country="all",XITE 60's and 70's Groove -TCL (Geo)
+https://amg01243-xite-amg01243c16-tcl-us-6476.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="e257490ba3806e76" tvg-name="XITE 80s Flashback -TCL (Geo)" group-title="tcl" platform="tcl" country="all",XITE 80s Flashback -TCL (Geo)
+https://amg01243-xite-amg01243c2-tcl-us-6487.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="a0411c44f5c40998" tvg-name="XITE 90s Throwback -TCL (Geo)" group-title="tcl" platform="tcl" country="all",XITE 90s Throwback -TCL (Geo)
+https://amg01243-xite-amg01243c3-tcl-us-6486.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="4fd14e22205d5477" tvg-name="XITE Celebrates -TCL (Geo)" group-title="tcl" platform="tcl" country="all",XITE Celebrates -TCL (Geo)
+https://amg01243-xite-amg01243c1-tcl-us-6480.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="a25b469a6ea8d148" tvg-name="XITE Christian Hits -TCL (Geo)" group-title="tcl" platform="tcl" country="all",XITE Christian Hits -TCL (Geo)
+https://amg01243-xite-amg01243c25-tcl-us-6509.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="3e84b82508cff52b" tvg-name="XITE Classic Country -TCL (Geo)" group-title="tcl" platform="tcl" country="all",XITE Classic Country -TCL (Geo)
+https://amg01243-xite-amg01243c5-tcl-us-6488.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="f299e99b93980a4c" tvg-name="XITE Country Today -TCL (Geo)" group-title="tcl" platform="tcl" country="all",XITE Country Today -TCL (Geo)
+https://amg01243-xite-amg01243c4-tcl-us-6489.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="080c29ccc4c78ac4" tvg-name="XITE Hip-Hop Evolution -TCL (Geo)" group-title="tcl" platform="tcl" country="all",XITE Hip-Hop Evolution -TCL (Geo)
+https://amg01243-xite-amg01243c7-tcl-us-6479.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="90a8d6ad30d58cd5" tvg-name="XITE Hits c10 -TCL (Geo)" group-title="tcl" platform="tcl" country="all",XITE Hits c10 -TCL (Geo)
+https://amg01243-xite-amg01243c10-tcl-us-6490.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="6cd4505ef16028cc" tvg-name="XITE Hits c22 -TCL (Geo)" group-title="tcl" platform="tcl" country="all",XITE Hits c22 -TCL (Geo)
+https://amg01243-xite-amg01243c22-tcl-us-6474.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="e4339d09af29d726" tvg-name="XITE Hits c23 -TCL (Geo)" group-title="tcl" platform="tcl" country="all",XITE Hits c23 -TCL (Geo)
+https://amg01243-xite-amg01243c23-tcl-us-6475.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="faf270d03f27d133" tvg-name="XITE Just Chill -TCL (Geo)" group-title="tcl" platform="tcl" country="all",XITE Just Chill -TCL (Geo)
+https://amg01243-xite-amg01243c9-tcl-us-6482.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="d9cf619737444fba" tvg-name="XITE Nuevo Latino -TCL (Geo)" group-title="tcl" platform="tcl" country="all",XITE Nuevo Latino -TCL (Geo)
+https://amg01243-xite-amg01243c12-tcl-us-6481.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="2f8843712a263985" tvg-name="XITE R&B Classic Jams -TCL (Geo)" group-title="tcl" platform="tcl" country="all",XITE R&B Classic Jams -TCL (Geo)
+https://amg01243-xite-amg01243c6-tcl-us-6484.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="76c9c1d16dfe7633" tvg-name="XITE R&B Feels -TCL (Geo)" group-title="tcl" platform="tcl" country="all",XITE R&B Feels -TCL (Geo)
+https://amg01243-xite-amg01243c13-tcl-us-6478.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="05c4022a2c2972dc" tvg-name="XITE Rap Game -TCL (Geo)" group-title="tcl" platform="tcl" country="all",XITE Rap Game -TCL (Geo)
+https://amg01243-xite-amg01243c8-tcl-us-6477.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="92deb1e2ce45654c" tvg-name="XITE Reggae Vibes -TCL (Geo)" group-title="tcl" platform="tcl" country="all",XITE Reggae Vibes -TCL (Geo)
+https://amg01243-xite-amg01243c26-tcl-us-6510.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="8c4be2e28b225a34" tvg-name="XITE Rock X Metal -TCL (Geo)" group-title="tcl" platform="tcl" country="all",XITE Rock X Metal -TCL (Geo)
+https://amg01243-xite-amg01243c21-tcl-us-6483.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="92aa29e43112815e" tvg-name="XITE Siempre Latino -TCL (Geo)" group-title="tcl" platform="tcl" country="all",XITE Siempre Latino -TCL (Geo)
+https://amg01243-xite-amg01243c14-tcl-us-6485.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="e3fce5b95e19a4e8" tvg-name="Xploration Station -TCL" group-title="tcl" platform="tcl" country="all",Xploration Station -TCL
+https://srpdigital-xplorationstation-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="6122f9c88dbcf66b" tvg-name="Xploration Station .AU -TCL" group-title="tcl" platform="tcl" country="all",Xploration Station .AU -TCL
+https://srpdigital-xplorationstation-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="528653659f7f0a65" tvg-name="Xploration Station .BR -TCL" group-title="tcl" platform="tcl" country="all",Xploration Station .BR -TCL
+https://srpdigital-xplorationstation-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="c63e5f1cbe4e81b8" tvg-name="Xploration Station .CA -TCL" group-title="tcl" platform="tcl" country="all",Xploration Station .CA -TCL
+https://srpdigital-xplorationstation-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="e0054b09ffb79fc1" tvg-name="Xploration Station .FR -TCL" group-title="tcl" platform="tcl" country="all",Xploration Station .FR -TCL
+https://srpdigital-xplorationstation-1-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="9efe2a152e70b15b" tvg-name="Xploration Station .MX -TCL" group-title="tcl" platform="tcl" country="all",Xploration Station .MX -TCL
+https://srpdigital-xplorationstation-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="24393dd8fc677b70" tvg-name="Yaquelaverite -TCL" group-title="tcl" platform="tcl" country="all",Yaquelaverite -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01796-fastmediabackbo-yaquelaverite-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="23e8ccefecb45317" tvg-name="Young Hollywood -TCL" group-title="tcl" platform="tcl" country="all",Young Hollywood -TCL
+https://younghollywood-tcl.amagi.tv/playlist.m3u8

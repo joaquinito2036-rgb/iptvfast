@@ -1,0 +1,59 @@
+#EXTM3U x-tvg-url="all.xml.gz"
+#EXTINF:-1 tvg-id="e7dd92f9f0529d55" tvg-name="Asiancrush" group-title="cineverse" platform="cineverse" country="all",Asiancrush
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-id="6c63202b7522f04d" tvg-name="California Music Channel" group-title="cineverse" platform="cineverse" country="all",California Music Channel
+https://cmc-cmctv-cineverse.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-cineverse/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="9102a45b3f41046a" tvg-name="Circle Country (Geo)" group-title="cineverse" platform="cineverse" country="all",Circle Country (Geo)
+https://amg00432-circletvfast-amg00432c1-cineverse-us-1112.playouts.now.amagi.tv/playlist/amg00432-circletv-circletv-cineverseus/playlist.m3u8
+#EXTINF:-1 tvg-id="de5ac569b3d780b0" tvg-name="Comedy Dynamics" group-title="cineverse" platform="cineverse" country="all",Comedy Dynamics
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-id="f11f086cb960cb9b" tvg-name="Crime Hunters" group-title="cineverse" platform="cineverse" country="all",Crime Hunters
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-crimehunters-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-id="157622d8f98601cb" tvg-name="Dove Channel" group-title="cineverse" platform="cineverse" country="all",Dove Channel
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-dove-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-id="fa6e0db7c4feb84b" tvg-name="Entrepreneur TV (Geo)" group-title="cineverse" platform="cineverse" country="all",Entrepreneur TV (Geo)
+https://amg01201-amg01201c31-cineverse-us-2915.playouts.now.amagi.tv/playlist/amg01201-cinedigmentertainment-entrepreneurtv-cineverseus/playlist.m3u8
+#EXTINF:-1 tvg-id="18acd8f19436e805" tvg-name="INFAMOUS TV (Geo)" group-title="cineverse" platform="cineverse" country="all",INFAMOUS TV (Geo)
+https://amg01324-infamous-amg01324c1-cineverse-us-1102.playouts.now.amagi.tv/playlist/amg01324-infamousmedia-infamoustv-cineverseus/playlist.m3u8
+#EXTINF:-1 tvg-id="3b9302b003368820" tvg-name="INFAST (Geo)" group-title="cineverse" platform="cineverse" country="all",INFAST (Geo)
+https://amg00861-terncloud-amg00861c5-cineverse-us-963.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-lifestyleushd-cineverseus/playlist.m3u8
+#EXTINF:-1 tvg-id="84c6690f7b556940" tvg-name="INTROUBLE (Geo)" group-title="cineverse" platform="cineverse" country="all",INTROUBLE (Geo)
+https://amg00861-terncloud-amg00861c6-cineverse-us-964.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-introublehd-cineverseus/playlist.m3u8
+#EXTINF:-1 tvg-id="b4327bf468715df3" tvg-name="INWONDER (Geo)" group-title="cineverse" platform="cineverse" country="all",INWONDER (Geo)
+https://amg00861-terncloud-amg00861c4-cineverse-us-962.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-inwonderushd-cineverseus/playlist.m3u8
+#EXTINF:-1 tvg-id="d32a2325eb6d5fc2" tvg-name="Judge Nosey" group-title="cineverse" platform="cineverse" country="all",Judge Nosey
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00514-noseybaxterllc-realnosey-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-id="64dd1e5411670a2e" tvg-name="LNTN (Geo)" group-title="cineverse" platform="cineverse" country="all",LNTN (Geo)
+https://amg00779-latv-amg00779c1-cineverse-us-1746.playouts.now.amagi.tv/playlist/amg00779-latvnetworkllc-latv-cineverseus/playlist.m3u8
+#EXTINF:-1 tvg-id="d3c473915a560613" tvg-name="Lonestar" group-title="cineverse" platform="cineverse" country="all",Lonestar
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-lonestar-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-id="403f1aa654ee0d97" tvg-name="Meateater" group-title="cineverse" platform="cineverse" country="all",Meateater
+https://amg01201-amg01201c35-cineverse-us-3139.playouts.now.amagi.tv/playlist/amg01201-cinedigmentertainment-meateater-cineverseus/playlist.m3u8
+#EXTINF:-1 tvg-id="50a4efc96b7164aa" tvg-name="Midnight Pulp" group-title="cineverse" platform="cineverse" country="all",Midnight Pulp
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-midnightpulp-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-id="71669d12221daae5" tvg-name="Nolly Africa (Geo)" group-title="cineverse" platform="cineverse" country="all",Nolly Africa (Geo)
+https://amg02784-nollyafricafast-amg02784c1-cineverse-us-1124.playouts.now.amagi.tv/playlist/amg02784-nollyafricafast-nollyafricahd-cineverseus/playlist.m3u8
+#EXTINF:-1 tvg-id="10d241fa92ed13e7" tvg-name="Nosey" group-title="cineverse" platform="cineverse" country="all",Nosey
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00514-noseybaxterllc-nosey-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-id="223fcb7511afb117" tvg-name="Qwest Jazz" group-title="cineverse" platform="cineverse" country="all",Qwest Jazz
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-id="4f49d6f6b00a3352" tvg-name="Realmadrid TV" group-title="cineverse" platform="cineverse" country="all",Realmadrid TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-id="26a71fed93788d44" tvg-name="Screambox TV" group-title="cineverse" platform="cineverse" country="all",Screambox TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bloodydisgus-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-id="f0d70871053d1850" tvg-name="So... Real" group-title="cineverse" platform="cineverse" country="all",So... Real
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-soreal-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-id="6f608dbed3f99c05" tvg-name="Tastemade Food and More (Geo)" group-title="cineverse" platform="cineverse" country="all",Tastemade Food and More (Geo)
+https://amg00047-tastemade-amg00047c4-cineverse-us-1361.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadefreetv16-cineverseus/playlist.m3u8
+#EXTINF:-1 tvg-id="e351a19652487c16" tvg-name="Tastemade Home (Geo)" group-title="cineverse" platform="cineverse" country="all",Tastemade Home (Geo)
+https://amg00047-tastemade-amg00047c2-cineverse-us-1357.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadehome-cineverseus/playlist.m3u8
+#EXTINF:-1 tvg-id="017da26e1986b8b1" tvg-name="Tastemade Travel (Geo)" group-title="cineverse" platform="cineverse" country="all",Tastemade Travel (Geo)
+https://amg00047-tastemade-amg00047c3-cineverse-us-1360.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadetravel-cineverseus/playlist.m3u8
+#EXTINF:-1 tvg-id="9acab9caf13ff1f2" tvg-name="The Bob Ross Channel" group-title="cineverse" platform="cineverse" country="all",The Bob Ross Channel
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bobross-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-id="4f50da5e212c79ac" tvg-name="The Dog Whisperer with Cesar Millan (Geo)" group-title="cineverse" platform="cineverse" country="all",The Dog Whisperer with Cesar Millan (Geo)
+https://amg01201-amg01201c30-cineverse-us-3100.playouts.now.amagi.tv/playlist/amg01201-cinedigmentertainment-dogwhispererwithcesarmilan-cineverseus/playlist.m3u8
+#EXTINF:-1 tvg-id="ce880a113c2feb7d" tvg-name="The Film Detective" group-title="cineverse" platform="cineverse" country="all",The Film Detective
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-filmdetective-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-id="89d19ecdaddc3c2e" tvg-name="Young Hollywood (Geo)" group-title="cineverse" platform="cineverse" country="all",Young Hollywood (Geo)
+https://amg00143-younghollywoodfast-amg00143c1-cineverse-us-946.playouts.now.amagi.tv/playlist/amg00143-younghollywoodfast-younghollywood-cineverseus/playlist.m3u8

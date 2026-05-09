@@ -1,0 +1,153 @@
+#EXTM3U x-tvg-url="all.xml.gz"
+#EXTINF:-1 tvg-id="f2e7cad7df54d6e5" tvg-name="Are We There Yet? (Sweden) (Geo)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Are We There Yet? (Sweden) (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyetse-samsungse/playlist.m3u8
+#EXTINF:-1 tvg-id="f95df65daa2eb101" tvg-name="Artflix (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Artflix (Sweden)
+https://amogonetworx-artflix-1-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="c3e12cc8ed0ed0e3" tvg-name="Avatar (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Avatar (Sweden)
+https://i.mjh.nz/PlutoTV/61c180a38bb1830008e402fa-alt.m3u8#EXTINF:-1,Staccs TV (Sweden)
+#EXTINF:-1 tvg-id="5b30223e8c0a91aa" tvg-name="Bigtjme (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Bigtjme (Sweden)
+https://amogonetworx-bigtjme-1-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="26e4c4c390cca885" tvg-name="Bite (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Bite (Sweden)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01478-parademediagrou-bitese-samsungse/playlist.m3u8
+#EXTINF:-1 tvg-id="0caa124385758a56" tvg-name="Bloomberg Originals (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Bloomberg Originals (Sweden)
+https://bloomberg-quicktake-1-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="0f7601e92ab846d4" tvg-name="Bloomberg TV+ (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Bloomberg TV+ (Sweden)
+https://bloomberg-bloombergtv-3-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="4c61d5770c632d9c" tvg-name="Catfish (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Catfish (Sweden)
+https://i.mjh.nz/PlutoTV/61780d4267bf4d00077ddd73-alt.m3u8
+#EXTINF:-1 tvg-id="067aa86efc7a70c9" tvg-name="Clubbing TV (UK)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Clubbing TV (UK)
+https://dxzxd6q1e7dy5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ClubbingTV-GB-prod/playlist.m3u8
+#EXTINF:-1 tvg-id="257be391910db995" tvg-name="Don't Tell the Bride (Geo)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Don't Tell the Bride (Geo)
+https://lds-donttellbride-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="c82b682eb324c7df" tvg-name="Euronews English (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Euronews English (Sweden)
+https://rakuten-euronews-1-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="747af62efd916d80" tvg-name="Failarmy International (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Failarmy International (Sweden)
+https://failarmy-international-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="103f26ae72dca843" tvg-name="Fashion TV (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Fashion TV (Sweden)
+https://fashiontv-fashiontv-5-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="6d4411623055f566" tvg-name="Filmstream (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Filmstream (Sweden)
+https://spi-filmstream-1-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="e1920db0459e1e9e" tvg-name="Fuse Beats (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Fuse Beats (Sweden)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00375-fusemedia-fusebeatse-samsungse/playlist.m3u8
+#EXTINF:-1 tvg-id="603122fe09acd9c1" tvg-name="GB News (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",GB News (Sweden)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsse-samsungse/playlist.m3u8
+#EXTINF:-1 tvg-id="1a90a26e8129ef50" tvg-name="Go Usa TV (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Go Usa TV (Sweden)
+https://brandusa-gousa-1-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="84bfa48df53bf5e6" tvg-name="Grjngo (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Grjngo (Sweden)
+https://amogonetworx-grjngo-3-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="978e165b756315a6" tvg-name="Gusto TV (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Gusto TV (Sweden)
+https://gustotv-gustotv-2-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="392aecf944f8c281" tvg-name="Hells Kitchen (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Hells Kitchen (Sweden)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00654-itvstudios-hellskitchen-samsungse/playlist.m3u8
+#EXTINF:-1 tvg-id="48a4d17ef1fd1139" tvg-name="History and Warfare Now (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",History and Warfare Now (Sweden)
+https://alliantcontent-historyandwarfarenow-3-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="a60f1e09e477e8df" tvg-name="Homes Under the Hammer (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Homes Under the Hammer (Sweden)
+https://all3media-homes-under-the-hammer-1-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="abf33f7f4e726bab" tvg-name="iCarly (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",iCarly (Sweden)
+https://i.mjh.nz/PlutoTV/61c185049e0bde0007820039-alt.m3u8
+#EXTINF:-1 tvg-id="55d6e1e2b0db2ec5" tvg-name="Just For Laughs Gags (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Just For Laughs Gags (Sweden)
+https://distributionsjustepourrire-justforlaughsgags-1-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="dfee9a4394777e5f" tvg-name="Love Magazine (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Love Magazine (Sweden)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazineuk-samsungse/playlist.m3u8
+#EXTINF:-1 tvg-id="d0afa0bcf7051904" tvg-name="Love Pets (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Love Pets (Sweden)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-lovepetsemea-samsungse/playlist.m3u8
+#EXTINF:-1 tvg-id="86a471b49410f307" tvg-name="Magellan tv (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Magellan tv (Sweden)
+https://magellantv-3-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="4503d85c601251b4" tvg-name="Mav TV Motorsports Network (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Mav TV Motorsports Network (Sweden)
+https://mavtv-mavtvglobal-1-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="16125437f6513bb7" tvg-name="Mechplus (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Mechplus (Sweden)
+https://mechtvltd-mechplus-1-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="4c2a9c24d882a7b0" tvg-name="Motorvision.tv" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Motorvision.tv
+https://i.mjh.nz/PlutoTV/61e82be5189ed10007b6a5f3-alt.m3u8
+#EXTINF:-1 tvg-id="13a377c570942104" tvg-name="Nature Time (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Nature Time (Sweden)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-naturetime-samsungse/playlist.m3u8
+#EXTINF:-1 tvg-id="437dc287eaec6f7d" tvg-name="Now 80s (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Now 80s (Sweden)
+https://lightning-now80s-samsungse.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="21a7a04dbfa9ea9f" tvg-name="Now 90s (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Now 90s (Sweden)
+https://lightning-now90s-samsungse.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5073ba8d9e5a2b1c" tvg-name="People are Awesome (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",People are Awesome (Sweden)
+https://jukin-peopleareawesome-2-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="bf9cce5c138877d1" tvg-name="playlist" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",playlist
+https://world-of-staccs-staccs-tv-1-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="31a4d756bc14e743" tvg-name="Pluto TV Action" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Pluto TV Action
+https://i.mjh.nz/PlutoTV/61c0b0688a80a4000703fbcb-alt.m3u8
+#EXTINF:-1 tvg-id="580f89753a64a406" tvg-name="Pluto TV Comedy (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Pluto TV Comedy (Sweden)
+https://i.mjh.nz/PlutoTV/61c0b550e0d3a700072b6a2a-alt.m3u8
+#EXTINF:-1 tvg-id="0e7c9401e64dda76" tvg-name="Pluto TV Crime (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Pluto TV Crime (Sweden)
+https://i.mjh.nz/PlutoTV/61c0b438244e50000758083b-alt.m3u8
+#EXTINF:-1 tvg-id="c4ef25a90facfec0" tvg-name="Pluto TV Film" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Pluto TV Film
+https://i.mjh.nz/PlutoTV/61c0afa0a09bbe00078f8378-alt.m3u8
+#EXTINF:-1 tvg-id="b08ad92b2a91366d" tvg-name="Qwest Jazz and Beyond" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Qwest Jazz and Beyond
+https://qwest-jazz-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="37e8d990923f008b" tvg-name="Radical Docs (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Radical Docs (Sweden)
+https://quintus-radicaldocs-1-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="37bfc48675faa132" tvg-name="Rakuten Action (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Rakuten Action (Sweden)
+https://rakuten-action-9-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="2d61ca47e9e88ed6" tvg-name="Rakuten Comedy (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Rakuten Comedy (Sweden)
+https://rakuten-comedy-9-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="40de5a6fb09dfbe7" tvg-name="Rakuten Documentaries (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Rakuten Documentaries (Sweden)
+https://rakuten-documentaries-9-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="56d0025646305561" tvg-name="Rakuten Drama (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Rakuten Drama (Sweden)
+https://rakuten-drama-9-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="d63d51f1f9d034fc" tvg-name="Rakuten Family (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Rakuten Family (Sweden)
+https://rakuten-family-9-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="a82e5d19d6c94731" tvg-name="Rakuten Gratisfilmer (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Rakuten Gratisfilmer (Sweden)
+https://rakuten-gratisfilmer-1-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="25bd3b76072e15c7" tvg-name="Rakuten Romance (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Rakuten Romance (Sweden)
+https://rakuten-romance-9-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="2f9b4935c9c39051" tvg-name="Rakuten Spotlight (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Rakuten Spotlight (Sweden)
+https://rakuten-spotlight-9-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="6a68c6b7aee8ce7e" tvg-name="Real Crime (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Real Crime (Sweden)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realcrimebeta-samsungse/playlist.m3u8
+#EXTINF:-1 tvg-id="b9856fb0ea40e793" tvg-name="Reuters Now (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Reuters Now (Sweden)
+https://reuters-reutersnow-2-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="bc4b80d282401590" tvg-name="Sofy.TV (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Sofy.TV (Sweden)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00535-largofilmsltdli-sofytvse-samsungse/playlist.m3u8
+#EXTINF:-1 tvg-id="9cd94f95a54388d9" tvg-name="Stingray Karaoke (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Stingray Karaoke (Sweden)
+https://stingray-karaoke-3-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="750b501e8d11b3ec" tvg-name="Strongman Champions League (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Strongman Champions League (Sweden)
+https://rightsboosterltd-scl-1-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="bc4cf2fca0a79368" tvg-name="SvampBob Fyrkant" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",SvampBob Fyrkant
+https://i.mjh.nz/PlutoTV/61c0ba0816e2fd00086cb6b1-alt.m3u8
+#EXTINF:-1 tvg-id="07c733728d02bcf5" tvg-name="Tastemade (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Tastemade (Sweden)
+https://tmint-aus-samsungswedan.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="dbe448b0c4f083a4" tvg-name="The Chat Show Channel (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",The Chat Show Channel (Sweden)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-thechatshow-samsungse/playlist.m3u8
+#EXTINF:-1 tvg-id="b131d6f232a8d123" tvg-name="The Guardian (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",The Guardian (Sweden)
+https://rakuten-guardian-1-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="e375d71a2562193d" tvg-name="The LOL! Network (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",The LOL! Network (Sweden)
+https://lol-lolnetwork-2-se.samsung.wurl.tv/pplaylist.m3u8
+#EXTINF:-1 tvg-id="7fed02b3543a7b7e" tvg-name="The Pet Collective International (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",The Pet Collective International (Sweden)
+https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="55e0186c47478939" tvg-name="The Wicked Tuna Channel (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",The Wicked Tuna Channel (Sweden)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-wickedtunase-samsungse/playlist.m3u8
+#EXTINF:-1 tvg-id="7708b65fb6dd1ad6" tvg-name="Ticker News (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Ticker News (Sweden)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01486-tickernews-tickernews-samsungse/playlist.m3u8
+#EXTINF:-1 tvg-id="a8b895a50b1d1220" tvg-name="Trace Urban (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Trace Urban (Sweden)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-traceurbanse-samsungse/playlist.m3u8
+#EXTINF:-1 tvg-id="ed7d5dd7d758a75b" tvg-name="Travelxp (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Travelxp (Sweden)
+https://travelxp-travelxp-1-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ea8112798fdcde1a" tvg-name="True Crime Now (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",True Crime Now (Sweden)
+https://alliantcontent-truecrimenow-4-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="697dfc0af25bed31" tvg-name="Waterbear (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Waterbear (Sweden)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungse/playlist.m3u8
+#EXTINF:-1 tvg-id="10ec84d6cbbd71a4" tvg-name="Wild Planet (UK)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Wild Planet (UK)
+https://amg00477-samsunguk-wilderplanet-samsunguk-samsunguk-yt0go.amagi.tv/playlist/amg00477-samsunguk-wilderplanet-samsunguk-samsunguk/playlist.m3u8
+#EXTINF:-1 tvg-id="a9bf15ce497d65c9" tvg-name="WildEarth (Sweden) (Geo)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",WildEarth (Sweden) (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungse/playlist.m3u8
+#EXTINF:-1 tvg-id="a697e66a4f1f62a1" tvg-name="World Of Love Island (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",World Of Love Island (Sweden)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00654-itvstudios-worldofloveisland-samsungse/playlist.m3u8
+#EXTINF:-1 tvg-id="a0592f3528dd355b" tvg-name="World Poker Tour (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",World Poker Tour (Sweden)
+https://wpt-theworldpokertour-1-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="0a8a35cc4c468d0e" tvg-name="Xplore (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Xplore (Sweden)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlse-samsungse/playlist.m3u8
+#EXTINF:-1 tvg-id="795f970eda4d3473" tvg-name="Youlook Docs Channel (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Youlook Docs Channel (Sweden)
+https://youlook-docs-channel-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ee7c9edf34c31122" tvg-name="Youlook Lifestyle Se (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Youlook Lifestyle Se (Sweden)
+https://youlook-lifestyle-se-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="c65b4f3667d6dba1" tvg-name="Youlook Motorsport Se (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Youlook Motorsport Se (Sweden)
+https://youlook-motorsport-se-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="87937f8838652034" tvg-name="Youlook Movies Series Se (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Youlook Movies Series Se (Sweden)
+https://youlook-movies-series-se-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="29b3526efa1addb6" tvg-name="Youlook Nordic Channel (Sweden)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="se",Youlook Nordic Channel (Sweden)
+https://youlook-nordic-channel-se.samsung.wurl.tv/playlist.m3u8

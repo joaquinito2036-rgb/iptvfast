@@ -1,0 +1,37 @@
+#EXTM3U x-tvg-url="all.xml.gz"
+#EXTINF:-1 tvg-id="b0aefaa6733bd932" tvg-name="Africanews (Portugal)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="pt",Africanews (Portugal)
+https://rakuten-africanews-1-pt.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="992fe6a238f049d3" tvg-name="AVF Family (Portugal)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="pt",AVF Family (Portugal)
+https://futuretoday-afv-family-1-pt.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="c7f9a6e62eb600fe" tvg-name="Bloomberg Quicktake (Portugal)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="pt",Bloomberg Quicktake (Portugal)
+https://bloomberg-quicktake-1-pt.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="8bc4963e6bbf611e" tvg-name="Bloomberg TV+ (Portugal)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="pt",Bloomberg TV+ (Portugal)
+https://bloomberg-bloomberg-1-pt.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="e1621f2d8e36f68b" tvg-name="Brat TV (Geo)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="pt",Brat TV (Geo)
+https://brat-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="7817e904642d5fd7" tvg-name="Edgesport" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="pt",Edgesport
+https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ed0b67d01d9217f5" tvg-name="Estv" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="pt",Estv
+https://estv-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="dad52b39460de6b6" tvg-name="Euronews (Portugal)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="pt",Euronews (Portugal)
+https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="f7dec440d8562ae8" tvg-name="Insight tv" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="pt",Insight tv
+https://insighttv-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="0a64a46316f92636" tvg-name="MyTime Movie Network" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="pt",MyTime Movie Network
+https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5a329bbbe625bf25" tvg-name="Qwest Classical" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="pt",Qwest Classical
+https://qwest-classic-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="2347709a77526cfd" tvg-name="Qwest Jazz and Beyond" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="pt",Qwest Jazz and Beyond
+https://qwest-jazz-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="27225a09e4f104ff" tvg-name="Qwest TV Mix" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="pt",Qwest TV Mix
+https://qwest-mix-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="a002c2fbdf27834b" tvg-name="Rakuten Documentaries (Portugal)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="pt",Rakuten Documentaries (Portugal)
+https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="a78a48ca0c099639" tvg-name="Rakuten Family (Portugal)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="pt",Rakuten Family (Portugal)
+https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="62d7e47e6fba1eab" tvg-name="Reuters (Portugal)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="pt",Reuters (Portugal)
+https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="2a3c631bb39af0b1" tvg-name="Venn TV" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="pt",Venn TV
+https://venntv-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="e87fe48aa53b6d8c" tvg-name="Young Hollywood	-" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="pt",Young Hollywood	-
+https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8

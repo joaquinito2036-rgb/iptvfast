@@ -1,0 +1,35 @@
+#EXTM3U x-tvg-url="all.xml.gz"
+#EXTINF:-1 tvg-id="98074f828b82c2bd" tvg-name="ALL STREAMS!! ON THIS SERVICE ARE CURRENTLY OFFLINE!!" group-title="freemoviesplus" platform="freemoviesplus" country="all",ALL STREAMS!! ON THIS SERVICE ARE CURRENTLY OFFLINE!!
+https://alliantcontent-truecrimenow-1-us.freemoviesplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="00b4be2ca4080363" tvg-name="Crime and Thrillers -US" group-title="freemoviesplus" platform="freemoviesplus" country="all",Crime and Thrillers -US
+https://topic-crimeandthrillers-1-us.freemoviesplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="960a8ab52cfdbc5c" tvg-name="Ditty TV -EU" group-title="freemoviesplus" platform="freemoviesplus" country="all",Ditty TV -EU
+https://memphisstudios-dittytv-1-eu.freemoviesplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="9948dcf82faf9c2f" tvg-name="Food -US" group-title="freemoviesplus" platform="freemoviesplus" country="all",Food -US
+https://food-us.freemoviesplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="3badd10acd0ae471" tvg-name="Glory Kick Boxing -EU" group-title="freemoviesplus" platform="freemoviesplus" country="all",Glory Kick Boxing -EU
+https://glorykickboxing-glorykickboxing-1-eu.freemoviesplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="81fb0d8a52c37266" tvg-name="Intipacha -EU" group-title="freemoviesplus" platform="freemoviesplus" country="all",Intipacha -EU
+https://bonudiemsa-intipacha-2-eu.freemoviesplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="29e624c99838ef02" tvg-name="Just for Laughs Gags -EU" group-title="freemoviesplus" platform="freemoviesplus" country="all",Just for Laughs Gags -EU
+https://distributionsjustepourrire-justforlaughsgags-1-eu.freemoviesplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="85499586ed57fa44" tvg-name="Nosey 2 -US" group-title="freemoviesplus" platform="freemoviesplus" country="all",Nosey 2 -US
+https://nosey-2-us.freemoviesplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="8605e5259b392144" tvg-name="Pecan -EU" group-title="freemoviesplus" platform="freemoviesplus" country="all",Pecan -EU
+https://bold-tv-corp-pecan-tv-1-eu.freemoviesplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="c381348ea8112453" tvg-name="Pelimex -EU" group-title="freemoviesplus" platform="freemoviesplus" country="all",Pelimex -EU
+https://telecine-pelimex-1-eu.freemoviesplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="75c8f28f6ff11840" tvg-name="Real Nosey -US" group-title="freemoviesplus" platform="freemoviesplus" country="all",Real Nosey -US
+https://nosey-realnosey-1-us.freemoviesplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="4fe68889416042ff" tvg-name="Space Science Now -US" group-title="freemoviesplus" platform="freemoviesplus" country="all",Space Science Now -US
+https://magellan-space-science-now-1-us.freemoviesplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="a6b78201768f42d6" tvg-name="Todays Homeowner -US" group-title="freemoviesplus" platform="freemoviesplus" country="all",Todays Homeowner -US
+https://janson-todayshomeowner-1-us.freemoviesplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="53ac00c85d656469" tvg-name="True Crime Now -US" group-title="freemoviesplus" platform="freemoviesplus" country="all",True Crime Now -US
+https://alliantcontent-truecrimenow-1-us.freemoviesplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="46b8b90d06b482a1" tvg-name="Vintage TV -US" group-title="freemoviesplus" platform="freemoviesplus" country="all",Vintage TV -US
+https://chestnut-vintagetv-1-us.freemoviesplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="98f63a670bf078cb" tvg-name="War and Military Now -US" group-title="freemoviesplus" platform="freemoviesplus" country="all",War and Military Now -US
+https://alliantcontent-warandmilitarynow-1-us.freemoviesplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="d6a9cf1b93674205" tvg-name="WatchMojo -EU" group-title="freemoviesplus" platform="freemoviesplus" country="all",WatchMojo -EU
+https://watchmojo-1-eu.freemoviesplus.wurl.tv/playlist.m3u8

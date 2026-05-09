@@ -1,0 +1,91 @@
+#EXTM3U x-tvg-url="all.xml.gz"
+#EXTINF:-1 tvg-id="ba5a19166539fa72" tvg-name="Billiards TV (EU)" group-title="zeasn" platform="zeasn" country="all",Billiards TV (EU)
+https://newidco-billiardstv-1-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="faffc7ee88734ba0" tvg-name="Bloomberg Originals (EU)" group-title="zeasn" platform="zeasn" country="all",Bloomberg Originals (EU)
+https://bloomberg-quicktake-1-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="c1c08c61207c0801" tvg-name="Bloomberg TV (EU)" group-title="zeasn" platform="zeasn" country="all",Bloomberg TV (EU)
+https://bloomberg-bloombergtv-3-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="6861ae1cb69f1001" tvg-name="Brat" group-title="zeasn" platform="zeasn" country="all",Brat
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00350-bratstudio-brattv-zeasn/playlist.m3u8
+#EXTINF:-1 tvg-id="b81423807d237362" tvg-name="Chile Film Sorrisi (EU)" group-title="zeasn" platform="zeasn" country="all",Chile Film Sorrisi (EU)
+https://chili-film-sorrisi-1-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="a0ff592ff6cb3e69" tvg-name="Chili Alta Tensione (EU)" group-title="zeasn" platform="zeasn" country="all",Chili Alta Tensione (EU)
+https://chili-chili-alta-tensione-1-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="d903d16bb0c90d8b" tvg-name="Chili Chilibounumore (EU)" group-title="zeasn" platform="zeasn" country="all",Chili Chilibounumore (EU)
+https://chili-chilibuonumore-1-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="654995946b1c031e" tvg-name="Chili Indimenticabli (EU)" group-title="zeasn" platform="zeasn" country="all",Chili Indimenticabli (EU)
+https://chili-chiliindimenticabili-1-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="b7488d440e340ee8" tvg-name="Chili Velvet (EU)" group-title="zeasn" platform="zeasn" country="all",Chili Velvet (EU)
+https://chili-chilivelvet-1-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="12bb1d6764f0ba90" tvg-name="Cinema Segretto (IT)" group-title="zeasn" platform="zeasn" country="all",Cinema Segretto (IT)
+https://minerva-cinemasegreto-1-it.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="68fe784249d71c3a" tvg-name="Craction TV" group-title="zeasn" platform="zeasn" country="all",Craction TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00609-palatinmediafil-cractiontv-zeasn/playlist.m3u8
+#EXTINF:-1 tvg-id="b006f2bbf1650d42" tvg-name="Drone TV (EU)" group-title="zeasn" platform="zeasn" country="all",Drone TV (EU)
+https://airvuz-dronetv-1-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="b048464819d17219" tvg-name="ETV (EU)" group-title="zeasn" platform="zeasn" country="all",ETV (EU)
+https://sasuprimetv-etv-1-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="7659bdfb69857c68" tvg-name="Euronews German (EU)" group-title="zeasn" platform="zeasn" country="all",Euronews German (EU)
+https://euronews-euronews-german-4-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5ea33dafcd69a78e" tvg-name="Euronews World (EU)" group-title="zeasn" platform="zeasn" country="all",Euronews World (EU)
+https://euronews-euronews-world-1-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="1e0d3914c3ad5ce7" tvg-name="Fashion TV (EU)" group-title="zeasn" platform="zeasn" country="all",Fashion TV (EU)
+https://fashiontv-fashiontv-5-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="fc2d3b7c87231626" tvg-name="Filmzie (EU)" group-title="zeasn" platform="zeasn" country="all",Filmzie (EU)
+https://filmzie-filmzie-1-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="61a3161ba87e06ed" tvg-name="Filmzie (US)" group-title="zeasn" platform="zeasn" country="all",Filmzie (US)
+https://filmzie-filmzie-3-us.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="db53c6928bab2406" tvg-name="Fullmoon (IT)" group-title="zeasn" platform="zeasn" country="all",Fullmoon (IT)
+https://minerva-fullmoon-1-it.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="49d0dac4fb666c50" tvg-name="Global Fashion Channel (EU)" group-title="zeasn" platform="zeasn" country="all",Global Fashion Channel (EU)
+https://gfcomnimedia-globalfashionchannel-1-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="f53564b8ba8fc019" tvg-name="Go USA (EU)" group-title="zeasn" platform="zeasn" country="all",Go USA (EU)
+https://brandusa-gousa-1-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="63b3a97c4f569684" tvg-name="Gusto (EU)" group-title="zeasn" platform="zeasn" country="all",Gusto (EU)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gusto-zeasn/playlist.m3u8
+#EXTINF:-1 tvg-id="c2d7a40e4f4aa2b4" tvg-name="Just for laughs Gags (EU)" group-title="zeasn" platform="zeasn" country="all",Just for laughs Gags (EU)
+https://distributionsjustepourrire-justforlaughsgags-1-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="a4ed991d25c62ec5" tvg-name="Just for Laughs TV (EU)" group-title="zeasn" platform="zeasn" country="all",Just for Laughs TV (EU)
+https://distributionsjustepourrire-justforlaughstv-1-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="8e1109a0647adc67" tvg-name="Moviedome Family" group-title="zeasn" platform="zeasn" country="all",Moviedome Family
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomefamily-zeasn/playlist.m3u8
+#EXTINF:-1 tvg-id="c2ff8fb7171c259c" tvg-name="New K Food (EU)" group-title="zeasn" platform="zeasn" country="all",New K Food (EU)
+https://newidco-newkfood-1-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="dab3d2f74fc14328" tvg-name="New Kid (EU)" group-title="zeasn" platform="zeasn" country="all",New Kid (EU)
+https://newidco-newkid-1-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="88e5d68c507b5270" tvg-name="Newsmax (EU)" group-title="zeasn" platform="zeasn" country="all",Newsmax (EU)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00217-newsmax-newsmax-zeasn/playlist.m3u8
+#EXTINF:-1 tvg-id="23832f9a58641d4e" tvg-name="Pelimex (EU)" group-title="zeasn" platform="zeasn" country="all",Pelimex (EU)
+https://telecine-pelimex-1-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="7fbe8610091a993b" tvg-name="Qwest Classic (Geo)" group-title="zeasn" platform="zeasn" country="all",Qwest Classic (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00447-qwest-qwestclassic-zeasn/playlist.m3u8
+#EXTINF:-1 tvg-id="9a964c9c977d6677" tvg-name="Qwest Jazz (Geo)" group-title="zeasn" platform="zeasn" country="all",Qwest Jazz (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00447-qwest-qwestjazz-zeasn/playlist.m3u8
+#EXTINF:-1 tvg-id="bda95a42a806d243" tvg-name="SBS (EU)" group-title="zeasn" platform="zeasn" country="all",SBS (EU)
+https://newidco-sbs-1-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ffd68a3ed7661b57" tvg-name="Sportsgrid" group-title="zeasn" platform="zeasn" country="all",Sportsgrid
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00315-sportsgrid-sportsgrid-zeasn/playlist.m3u8
+#EXTINF:-1 tvg-id="6483d74f1456aeb0" tvg-name="Tastemade Germany" group-title="zeasn" platform="zeasn" country="all",Tastemade Germany
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadegermany-zeasn/playlist.m3u8
+#EXTINF:-1 tvg-id="b821b2cd54bb5b60" tvg-name="TED Conferences (EU)" group-title="zeasn" platform="zeasn" country="all",TED Conferences (EU)
+https://tedconferences-ted-1-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="85b727156a5db7d4" tvg-name="The Red Green Show (EU)" group-title="zeasn" platform="zeasn" country="all",The Red Green Show (EU)
+https://answermedia-theredgreenshow-2-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="20fbd4f7d6397095" tvg-name="Trace Urban" group-title="zeasn" platform="zeasn" country="all",Trace Urban
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00398-zeasneuropebv-traceurban-zeasn/playlist.m3u8
+#EXTINF:-1 tvg-id="7425f5b4b180929a" tvg-name="Travel XP (EU)" group-title="zeasn" platform="zeasn" country="all",Travel XP (EU)
+https://travelxp-travelxp-1-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="4a3a6e3b1ddf5429" tvg-name="Travel XP (EU) alt1" group-title="zeasn" platform="zeasn" country="all",Travel XP (EU) alt1
+https://travelxp-travelxp-3-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ddb14fa3abef0b7c" tvg-name="Travel XP (EU) alt2" group-title="zeasn" platform="zeasn" country="all",Travel XP (EU) alt2
+https://travelxp-travelxp-4-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="50e7e2c6f07abe54" tvg-name="Travel XP (EU) alt3" group-title="zeasn" platform="zeasn" country="all",Travel XP (EU) alt3
+https://travelxp-travelxp-5-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="2f37d92343cb6ee7" tvg-name="W4 Movies" group-title="zeasn" platform="zeasn" country="all",W4 Movies
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-w4movies-zeasn-zeasn/playlist.m3u8
+#EXTINF:-1 tvg-id="925d075eac94e69c" tvg-name="Watch Mojo (EU)" group-title="zeasn" platform="zeasn" country="all",Watch Mojo (EU)
+https://watchmojo-1-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="fe9dd6f9357d0c6f" tvg-name="Wedo Movies" group-title="zeasn" platform="zeasn" country="all",Wedo Movies
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-watch4-zeasn-zeasn/playlist.m3u8
+#EXTINF:-1 tvg-id="22e1d2641ec0ea5c" tvg-name="YGTV (EU)" group-title="zeasn" platform="zeasn" country="all",YGTV (EU)
+https://newidco-ygtv-1-eu.zeasn.wurl.tv/playlist.m3u8

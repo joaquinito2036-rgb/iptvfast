@@ -1,0 +1,23 @@
+#EXTM3U x-tvg-url="all.xml.gz"
+#EXTINF:-1 tvg-id="c8b0f93722d6325c" tvg-name="AfricaNews" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="be",AfricaNews
+https://rakuten-africanews-2-be.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="5001dae3a6bf0963" tvg-name="AVF Family (Belgium)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="be",AVF Family (Belgium)
+https://futuretoday-afv-family-1-be.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="3630a20846a14e31" tvg-name="AVF Family alt url (Belgium)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="be",AVF Family alt url (Belgium)
+https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="802c4cc3565afa09" tvg-name="Bloomberg Quicktake (Belgium)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="be",Bloomberg Quicktake (Belgium)
+https://bloomberg-quicktake-1-be.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="a180d9f10086c0d3" tvg-name="Bloomberg TV (Belgium)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="be",Bloomberg TV (Belgium)
+https://bloomberg-bloomberg-1-be.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="e53fff3a329835d7" tvg-name="Duck TV (Belgium)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="be",Duck TV (Belgium)
+https://mmm-ducktv-4-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="005576b457183a8f" tvg-name="Euronews (Belgium)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="be",Euronews (Belgium)
+https://rakuten-euronews-2-be.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="fa905aec925c0ed3" tvg-name="Euronews alt url (Belgium)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="be",Euronews alt url (Belgium)
+https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="584d1840ba944a92" tvg-name="MavTV Global (Belgium)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="be",MavTV Global (Belgium)
+https://mavtv-mavtvglobal-1-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="d4125b717b870631" tvg-name="Rakuten Documentaries (Belgium)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="be",Rakuten Documentaries (Belgium)
+https://rakuten-documentaries-16-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5518c5125882750b" tvg-name="Rakuten Family (Belgium)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="be",Rakuten Family (Belgium)
+https://rakuten-family-16-be.samsung.wurl.tv/playlist.m3u8

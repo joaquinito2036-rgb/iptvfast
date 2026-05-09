@@ -1,0 +1,135 @@
+#EXTM3U x-tvg-url="all.xml.gz"
+#EXTINF:-1 tvg-id="76dacd90bd6ac22b" tvg-name="ACCDN" group-title="firetv" platform="firetv" country="all",ACCDN
+https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="9603a40640e0d332" tvg-name="BBC Earth (Geo)" group-title="firetv" platform="firetv" country="all",BBC Earth (Geo)
+https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="89b66499eba24471" tvg-name="BBC Top Gear (Geo)" group-title="firetv" platform="firetv" country="all",BBC Top Gear (Geo)
+https://amg00793-amg00793c5-firetv-us-4068.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="1fe352248bbad324" tvg-name="Beinsports Xtra" group-title="firetv" platform="firetv" country="all",Beinsports Xtra
+https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="a1066e5f4e1e8122" tvg-name="BYU TV (Geo)" group-title="firetv" platform="firetv" country="all",BYU TV (Geo)
+https://amg02604-byutv-amg02604c2-firetv-us-4981.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="22037648bdf40ed0" tvg-name="Creator TV (Geo)" group-title="firetv" platform="firetv" country="all",Creator TV (Geo)
+https://amg16070-amg16070c1-firetv-us-7978.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="732267ee172c168c" tvg-name="Dog TV (Geo)" group-title="firetv" platform="firetv" country="all",Dog TV (Geo)
+https://amg26269-dogtv-amg26269c2-firetv-us-6673.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="7f5aad9445ec1f71" tvg-name="DP WORLD Tour (Geo)" group-title="firetv" platform="firetv" country="all",DP WORLD Tour (Geo)
+https://amg12058-amg12058c6-firetv-us-5955.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="7378c26b204eed6d" tvg-name="Dungeons and Dragons Adventures (Geo)" group-title="firetv" platform="firetv" country="all",Dungeons and Dragons Adventures (Geo)
+https://amg00461-eone-amg00461c3-firetv-us-5211.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="cf4d4fe6dc54490c" tvg-name="Estrella Games (Geo)" group-title="firetv" platform="firetv" country="all",Estrella Games (Geo)
+https://amg00567-amg00567c1-firetv-us-4124.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ac712641ee23353c" tvg-name="FGTEEV (Geo)" group-title="firetv" platform="firetv" country="all",FGTEEV (Geo)
+https://amg00285-amg00285c3-firetv-us-6596.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="b4d9308a5879080a" tvg-name="Fuel TV (Geo)" group-title="firetv" platform="firetv" country="all",Fuel TV (Geo)
+https://amg01074-fueltv-amg01074c1-firetv-us-3150.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="8fbb3f1284d897df" tvg-name="Game & Fish (Geo)" group-title="firetv" platform="firetv" country="all",Game & Fish (Geo)
+https://amg00436-osg-amg00436c7-firetv-us-6715.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="72fb2dd4077e468d" tvg-name="Gusto" group-title="firetv" platform="firetv" country="all",Gusto
+https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="aa2911a3ab627530" tvg-name="Hagerty  (Geo)" group-title="firetv" platform="firetv" country="all",Hagerty  (Geo)
+https://amg01703-amg01703c1-firetv-us-7717.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="1d23037d92375a8e" tvg-name="INFAST (Geo)" group-title="firetv" platform="firetv" country="all",INFAST (Geo)
+https://amg00861-amg00861c5-firetv-us-4727.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="c3b6dbc2580996d1" tvg-name="Intouch Plus (Geo)" group-title="firetv" platform="firetv" country="all",Intouch Plus (Geo)
+https://amg01540-amg01540c2-firetv-us-6755.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="2c9dc2788176b39f" tvg-name="INTRAVEL (Geo)" group-title="firetv" platform="firetv" country="all",INTRAVEL (Geo)
+https://amg00861-amg00861c10-firetv-us-4726.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="1a424d44274175b8" tvg-name="INWILD (Geo)" group-title="firetv" platform="firetv" country="all",INWILD (Geo)
+https://amg00861-amg00861c7-firetv-us-4725.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="3a0d7c079e2aa9e4" tvg-name="INWONDER (Geo)" group-title="firetv" platform="firetv" country="all",INWONDER (Geo)
+https://amg00861-amg00861c4-firetv-us-4724.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="9b409c6a3fc8d0d7" tvg-name="Lucha Plus Wrestling (Geo)" group-title="firetv" platform="firetv" country="all",Lucha Plus Wrestling (Geo)
+https://amg17334-amg17334c1-firetv-us-6733.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="373358ca4473ba2e" tvg-name="MTRSPT 1 (Geo)" group-title="firetv" platform="firetv" country="all",MTRSPT 1 (Geo)
+https://amg02873-amg02873c1-firetv-us-7012.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="b94cb4689f40311d" tvg-name="Nascar (Geo)" group-title="firetv" platform="firetv" country="all",Nascar (Geo)
+https://amg00115-nascar-amg00115c1-firetv-us-8584.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="540fdc22a69269b3" tvg-name="Naturaleza Salvaje (Geo)" group-title="firetv" platform="firetv" country="all",Naturaleza Salvaje (Geo)
+https://amg00376-amg00376c21-firetv-us-3433.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="dd24358f4a4727cc" tvg-name="NBA Fast Channel (Geo)" group-title="firetv" platform="firetv" country="all",NBA Fast Channel (Geo)
+https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="4b2fbfc7cc28d8c7" tvg-name="NBC Boston News" group-title="firetv" platform="firetv" country="all",NBC Boston News
+https://nbcu-nbcbostonnews-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="2ced88a18ba10f29" tvg-name="NBC Chicago News" group-title="firetv" platform="firetv" country="all",NBC Chicago News
+https://nbcu-nbcchicagonews-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="f81afbe7665b665b" tvg-name="NBC Connecticut News" group-title="firetv" platform="firetv" country="all",NBC Connecticut News
+https://nbcu-nbcconnecticutnews-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="f74a123505a80dab" tvg-name="NBC Dallas Fortworth News" group-title="firetv" platform="firetv" country="all",NBC Dallas Fortworth News
+https://nbcu-nbcdallasfortworthnews-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="093259e4056a57b4" tvg-name="NBC Los Angeles News" group-title="firetv" platform="firetv" country="all",NBC Los Angeles News
+https://nbcu-nbclosangelesnews-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="b4556432985a8c0b" tvg-name="NBC New York News" group-title="firetv" platform="firetv" country="all",NBC New York News
+https://nbcu-nbcnewyorknews-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="411b74f9d2873954" tvg-name="NBC Philadelphia News" group-title="firetv" platform="firetv" country="all",NBC Philadelphia News
+https://nbcu-nbcphiladelphianews-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="a9724f687e238182" tvg-name="NBC San Diego News" group-title="firetv" platform="firetv" country="all",NBC San Diego News
+https://nbcu-nbcsandiegonews-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="f16b6c086f384cfb" tvg-name="NBC San Francisco News" group-title="firetv" platform="firetv" country="all",NBC San Francisco News
+https://nbcu-nbcsanfrancisconews-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="4b7914c2c7ef854a" tvg-name="NBC South Florida News" group-title="firetv" platform="firetv" country="all",NBC South Florida News
+https://nbcu-nbcsouthfloridanews-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="8e0e15294919a15c" tvg-name="NBC Washington News" group-title="firetv" platform="firetv" country="all",NBC Washington News
+https://nbcu-nbcwashingtonnews-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="22395f9deb1ffb45" tvg-name="NBCU Telemundo Florida" group-title="firetv" platform="firetv" country="all",NBCU Telemundo Florida
+https://nbcu-telemundoflorida-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ddf376a8cb315192" tvg-name="NBCU Telemundo North East" group-title="firetv" platform="firetv" country="all",NBCU Telemundo North East
+https://nbcu-telemundonortheast-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="7df231f4859bd4c5" tvg-name="NBCU Telemundo Texas" group-title="firetv" platform="firetv" country="all",NBCU Telemundo Texas
+https://nbcu-telemundotexas-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="45766ebfcaa232e5" tvg-name="NBCU Telemundo West" group-title="firetv" platform="firetv" country="all",NBCU Telemundo West
+https://nbcu-telemundowest-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="db3d436797b3eb33" tvg-name="NHL" group-title="firetv" platform="firetv" country="all",NHL
+https://nhl-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="2cf699f7e7dfb6d5" tvg-name="Outside TV" group-title="firetv" platform="firetv" country="all",Outside TV
+https://outsidetv-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="fc0ce47bd304f6ef" tvg-name="Pac 12 Insider" group-title="firetv" platform="firetv" country="all",Pac 12 Insider
+https://pac12-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5741c4125d85ab08" tvg-name="PBS Antiques Road Trip (Geo)" group-title="firetv" platform="firetv" country="all",PBS Antiques Road Trip (Geo)
+https://amg02333-pbs-amg02333c9-firetv-us-4249.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="006f5724ad6cd819" tvg-name="PBS Antiques Roadshow (Geo)" group-title="firetv" platform="firetv" country="all",PBS Antiques Roadshow (Geo)
+https://amg02333-pbs-amg02333c8-firetv-us-4239.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="0a29d51c613ffe3e" tvg-name="PBS Nature (Geo)" group-title="firetv" platform="firetv" country="all",PBS Nature (Geo)
+https://amg02333-pbs-amg02333c11-firetv-us-4242.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="3bb164e0e97480c6" tvg-name="PBS Retro (Geo)" group-title="firetv" platform="firetv" country="all",PBS Retro (Geo)
+https://amg02333-pbs-amg02333c6-firetv-us-4236.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="bf7dfba8610796c9" tvg-name="PBS Science (Geo)" group-title="firetv" platform="firetv" country="all",PBS Science (Geo)
+https://amg02333-pbs-amg02333c7-firetv-us-4238.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="b8d8a9e47f04f13e" tvg-name="Power Rangers (Geo)" group-title="firetv" platform="firetv" country="all",Power Rangers (Geo)
+https://amg00461-eone-amg00461c2-firetv-us-5210.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="4b5070587b692ea3" tvg-name="Sportsgrid" group-title="firetv" platform="firetv" country="all",Sportsgrid
+https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="93ba400b3b018ce0" tvg-name="T2 Tennis Channel (Geo)" group-title="firetv" platform="firetv" country="all",T2 Tennis Channel (Geo)
+https://ttc-tennischannelus-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="8e1c41837c172602" tvg-name="Tastemade Home (Geo)" group-title="firetv" platform="firetv" country="all",Tastemade Home (Geo)
+https://amg00047-amg00047c2-firetv-us-8254.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="f495137f45e476e9" tvg-name="Team USA" group-title="firetv" platform="firetv" country="all",Team USA
+https://amg01416-amg01416c4-firetv-us-4522.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="d649661b3f39a22e" tvg-name="The Design Network" group-title="firetv" platform="firetv" country="all",The Design Network
+https://amg00441-amg00441c1-firetv-us-5132.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="02695db5116ef34e" tvg-name="The Hill (Geo)" group-title="firetv" platform="firetv" country="all",The Hill (Geo)
+https://amg01312-cw-amg01312c15-firetv-us-3444.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ffa736562700eaff" tvg-name="Transformers (Geo)" group-title="firetv" platform="firetv" country="all",Transformers (Geo)
+https://amg00461-eone-amg00461c1-firetv-us-5209.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="18ecb968010bba63" tvg-name="True Crime Network+ (Geo)" group-title="firetv" platform="firetv" country="all",True Crime Network+ (Geo)
+https://amg00979-amg00979c1-firetv-us-3622.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="71668bde1cfe3554" tvg-name="TV Blossom" group-title="firetv" platform="firetv" country="all",TV Blossom
+https://amg00437-amg00437c3-firetv-us-5409.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="b16fff87c5bc61d3" tvg-name="TYT (Geo)" group-title="firetv" platform="firetv" country="all",TYT (Geo)
+https://amg01220-amg01220c1-firetv-us-5111.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="2330c054196a98a4" tvg-name="Vice News" group-title="firetv" platform="firetv" country="all",Vice News
+https://vicetv-vicefast2-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="291687d16aeb71d2" tvg-name="Vice TV" group-title="firetv" platform="firetv" country="all",Vice TV
+https://vicetv-vicefast1-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="a30130357ada8a51" tvg-name="Waypoint TV" group-title="firetv" platform="firetv" country="all",Waypoint TV
+https://waypoint-waypointtv-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="d0fe10d837d441ba" tvg-name="Willow Sports (Geo)" group-title="firetv" platform="firetv" country="all",Willow Sports (Geo)
+https://amg01269-amg01269c1-firetv-us-5377.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="d110e370cf579998" tvg-name="WPT (Geo)" group-title="firetv" platform="firetv" country="all",WPT (Geo)
+https://amg12058-amg12058c9-firetv-us-6066.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="dc5be386e8beae68" tvg-name="Xite Christian (Geo)" group-title="firetv" platform="firetv" country="all",Xite Christian (Geo)
+https://amg01243-xite-amg01243c25-firetv-us-7066.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="f8ebac041fb74428" tvg-name="Xite Reggae Vibes (Geo)" group-title="firetv" platform="firetv" country="all",Xite Reggae Vibes (Geo)
+https://amg01243-xite-amg01243c26-firetv-us-7067.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="4cecc16f6ccf193e" tvg-name="Yahoo Finance (Geo)" group-title="firetv" platform="firetv" country="all",Yahoo Finance (Geo)
+https://amg00119-amg00119c1-firetv-us-4205.playouts.now.amagi.tv/playlist.m3u8

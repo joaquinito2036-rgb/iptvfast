@@ -1,0 +1,171 @@
+#EXTM3U x-tvg-url="all.xml.gz"
+#EXTINF:-1 tvg-id="71e93d6c5330fd5d" tvg-name="123 GO! (Geo)" group-title="freetv" platform="freetv" country="all",123 GO! (Geo)
+https://amg02051-soulpublishing-amg02051c17-freetv-us-358.playouts.now.amagi.tv/playlist/amg02051-admecyltd-123goenglish-freetvus/playlist.m3u8
+#EXTINF:-1 tvg-id="838dc82b35ab6282" tvg-name="5 Minute Crafts (Geo)" group-title="freetv" platform="freetv" country="all",5 Minute Crafts (Geo)
+https://amg02051-soulpublishing-amg02051c7-freetv-us-303.playouts.now.amagi.tv/playlist/amg02051-amg02051c7-303/playlist.m3u8
+#EXTINF:-1 tvg-id="0d919970b6551e39" tvg-name="Adventures of Sonic the Hedgehog Channel" group-title="freetv" platform="freetv" country="all",Adventures of Sonic the Hedgehog Channel
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=3968
+#EXTINF:-1 tvg-id="41d1f313e386d724" tvg-name="Awe Plus (Geo)" group-title="freetv" platform="freetv" country="all",Awe Plus (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00450-herringnetwork-awe-freetv-freetv/playlist.m3u8
+#EXTINF:-1 tvg-id="c543db39cf294314" tvg-name="AXSTV Now" group-title="freetv" platform="freetv" country="all",AXSTV Now
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-axstvnow-frtv-freetv/playlist.m3u8
+#EXTINF:-1 tvg-id="833d71f932779876" tvg-name="Beond TV" group-title="freetv" platform="freetv" country="all",Beond TV
+https://d3ecnelhfrie8y.cloudfront.net/playlist/amg01681-amg01681c1-277/playlist.m3u8
+#EXTINF:-1 tvg-id="143e42d73876a948" tvg-name="Brat TV (Geo)" group-title="freetv" platform="freetv" country="all",Brat TV (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00350-bratstudio-brattv-frtv-freetv/playlist.m3u8
+#EXTINF:-1 tvg-id="76f596825820813a" tvg-name="Brightside (Geo)" group-title="freetv" platform="freetv" country="all",Brightside (Geo)
+https://amg02051-soulpublishing-amg02051c9-freetv-us-345.playouts.now.amagi.tv/playlist/amg02051-admecyltd-brightsideenglish-freetvus/playlist.m3u8
+#EXTINF:-1 tvg-id="ecdd9e5e960ec865" tvg-name="Canela Cinema" group-title="freetv" platform="freetv" country="all",Canela Cinema
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelacinema-freetv/playlist.m3u8
+#EXTINF:-1 tvg-id="a8369cb8d1836123" tvg-name="Canela Clasicos" group-title="freetv" platform="freetv" country="all",Canela Clasicos
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelaclasicos-freetv/playlist.m3u8
+#EXTINF:-1 tvg-id="0586d055ebca7b75" tvg-name="Canela Deportes" group-title="freetv" platform="freetv" country="all",Canela Deportes
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-caneladeportes-freetv/playlist.m3u8
+#EXTINF:-1 tvg-id="6d41c47845007c38" tvg-name="Canela.TV" group-title="freetv" platform="freetv" country="all",Canela.TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelatv-freetv/playlist.m3u8
+#EXTINF:-1 tvg-id="bdbafd6a4d53c8e1" tvg-name="Canelas Telenovelas" group-title="freetv" platform="freetv" country="all",Canelas Telenovelas
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelatelenovelas-freetv/playlist.m3u8
+#EXTINF:-1 tvg-id="881c8ac3939e6a75" tvg-name="Carol Burnett" group-title="freetv" platform="freetv" country="all",Carol Burnett
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00163-shoutfactory-carolburnett-freetv/playlist.m3u8
+#EXTINF:-1 tvg-id="c31e35e933b7458a" tvg-name="Chicken Soup for the Soul (Geo)" group-title="freetv" platform="freetv" country="all",Chicken Soup for the Soul (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-chickensoupfrtv-freetv/playlist.m3u8
+#EXTINF:-1 tvg-id="081f62b7f46e4fdc" tvg-name="Chiquilines" group-title="freetv" platform="freetv" country="all",Chiquilines
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="c7bf54415399d80e" tvg-name="Cine Pride" group-title="freetv" platform="freetv" country="all",Cine Pride
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=3954
+#EXTINF:-1 tvg-id="865955deec1a7ccf" tvg-name="Cine Real" group-title="freetv" platform="freetv" country="all",Cine Real
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinerealfreetv-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="dd9714472a3e1573" tvg-name="Cine Sureno" group-title="freetv" platform="freetv" country="all",Cine Sureno
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="4d6c85fb9941bea2" tvg-name="Crackle (Geo)" group-title="freetv" platform="freetv" country="all",Crackle (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-crackle-freetv-freetv/playlist.m3u8
+#EXTINF:-1 tvg-id="c7df791836a6dadd" tvg-name="Crackle Classics (Geo)" group-title="freetv" platform="freetv" country="all",Crackle Classics (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-ckclassics-frtv-freetv/playlist.m3u8
+#EXTINF:-1 tvg-id="172a0742f1d02f3a" tvg-name="Crimetime" group-title="freetv" platform="freetv" country="all",Crimetime
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-engcrimetime-freetv/playlist.m3u8
+#EXTINF:-1 tvg-id="254fea268aead58d" tvg-name="Da Vinci (Geo)" group-title="freetv" platform="freetv" country="all",Da Vinci (Geo)
+https://amg00406-tinizine-amg00406c1-freetv-us-434.playouts.now.amagi.tv/playlist/amg00406-tinizinelimited-davincius-freetvus/playlist.m3u8
+#EXTINF:-1 tvg-id="b559cc63044edc11" tvg-name="Destination Action" group-title="freetv" platform="freetv" country="all",Destination Action
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-engtopcineeng-freetv/playlist.m3u8
+#EXTINF:-1 tvg-id="7b19fc5259fc8f95" tvg-name="Docurama" group-title="freetv" platform="freetv" country="all",Docurama
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-docrumaa-freetv/playlist.m3u8
+#EXTINF:-1 tvg-id="2d4d2744a44b707c" tvg-name="Dove Channel" group-title="freetv" platform="freetv" country="all",Dove Channel
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-dovechanel-freetv/playlist.m3u8
+#EXTINF:-1 tvg-id="d1674f1318ca5cc9" tvg-name="Drama Vault" group-title="freetv" platform="freetv" country="all",Drama Vault
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-engflameandfire-freetv/playlist.m3u8
+#EXTINF:-1 tvg-id="a98f9ae503ff625d" tvg-name="Dungeon" group-title="freetv" platform="freetv" country="all",Dungeon
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=3958
+#EXTINF:-1 tvg-id="d270cfb8e71bd1b6" tvg-name="El Conflicto Spanish" group-title="freetv" platform="freetv" country="all",El Conflicto Spanish
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=3961
+#EXTINF:-1 tvg-id="4c7b6669c40991e4" tvg-name="Entrepreneur TV" group-title="freetv" platform="freetv" country="all",Entrepreneur TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=3963
+#EXTINF:-1 tvg-id="ba3f8b594bbc190e" tvg-name="ESTV (Geo)" group-title="freetv" platform="freetv" country="all",ESTV (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00303-televisionkorea-estv-freetv-freetv/playlist.m3u8
+#EXTINF:-1 tvg-id="7b1e208bca9a4ee2" tvg-name="Family Tree" group-title="freetv" platform="freetv" country="all",Family Tree
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-engfamilytree-freetv/playlist.m3u8
+#EXTINF:-1 tvg-id="2a20f5b140b46c31" tvg-name="Fight Network" group-title="freetv" platform="freetv" country="all",Fight Network
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-fightnwk-frtv-freetv/playlist.m3u8
+#EXTINF:-1 tvg-id="f8f8dbbae34877d1" tvg-name="Flash" group-title="freetv" platform="freetv" country="all",Flash
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="fd0f0288450f7174" tvg-name="FlixFling Now" group-title="freetv" platform="freetv" country="all",FlixFling Now
+https://d12yathgm1h4sj.cloudfront.net/playlist/amg00698-AMG00698C1-271/playlist.m3u8
+#EXTINF:-1 tvg-id="1893953c9fb45576" tvg-name="Fright Flix" group-title="freetv" platform="freetv" country="all",Fright Flix
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=3964
+#EXTINF:-1 tvg-id="6d7226782e97243e" tvg-name="Genial (Geo)" group-title="freetv" platform="freetv" country="all",Genial (Geo)
+https://amg02051-soulpublishing-amg02051c16-freetv-us-361.playouts.now.amagi.tv/playlist/amg02051-admecyltd-brightsidespanish-freetvus/playlist.m3u8
+#EXTINF:-1 tvg-id="ac459982da81b8f8" tvg-name="Gusto (Geo)" group-title="freetv" platform="freetv" country="all",Gusto (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gusto-freetv/playlist.m3u8
+#EXTINF:-1 tvg-id="afeb2830b0266213" tvg-name="Haunt TV (Geo)" group-title="freetv" platform="freetv" country="all",Haunt TV (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-haunttv-freetv/playlist.m3u8
+#EXTINF:-1 tvg-id="41954798c446d6a6" tvg-name="Homeful U.S (Geo)" group-title="freetv" platform="freetv" country="all",Homeful U.S (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-homefulusa-freetv/playlist.m3u8
+#EXTINF:-1 tvg-id="0caf29c94f725ee5" tvg-name="Hororfy Spanish" group-title="freetv" platform="freetv" country="all",Hororfy Spanish
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="3d1d4bca54c81f2b" tvg-name="Horrorfy" group-title="freetv" platform="freetv" country="all",Horrorfy
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-enghorrorfy-freetv/playlist.m3u8
+#EXTINF:-1 tvg-id="6ea94ce75601dd18" tvg-name="HSN" group-title="freetv" platform="freetv" country="all",HSN
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1usott/master.m3u8
+#EXTINF:-1 tvg-id="46aef7da9abdc8cb" tvg-name="Ideas En 5 Minutos (Geo)" group-title="freetv" platform="freetv" country="all",Ideas En 5 Minutos (Geo)
+https://amg02051-soulpublishing-amg02051c3-freetv-us-364.playouts.now.amagi.tv/playlist/amg02051-admecyltd-5minutecraftsspanish-freetvus/playlist.m3u8
+#EXTINF:-1 tvg-id="2e88dba8dd30043f" tvg-name="Impact Wrestling" group-title="freetv" platform="freetv" country="all",Impact Wrestling
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-impactres-frtv-freetv/playlist.m3u8
+#EXTINF:-1 tvg-id="4e9f8f7d820011e8" tvg-name="Indistry" group-title="freetv" platform="freetv" country="all",Indistry
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=3967
+#EXTINF:-1 tvg-id="1b00025e99495c94" tvg-name="Johnny Carson" group-title="freetv" platform="freetv" country="all",Johnny Carson
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00163-shoutfactory-johnnycarson-freetv/playlist.m3u8
+#EXTINF:-1 tvg-id="e179f273dbc8a26d" tvg-name="Judge Nosey (Geo)" group-title="freetv" platform="freetv" country="all",Judge Nosey (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00514-noseybaxterllc-realnosey-freetv/playlist.m3u8
+#EXTINF:-1 tvg-id="e07e61c952cd0a89" tvg-name="Juntos" group-title="freetv" platform="freetv" country="all",Juntos
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="c0f9dbe15b9f7a12" tvg-name="La La Life (Geo)" group-title="freetv" platform="freetv" country="all",La La Life (Geo)
+https://amg02051-soulpublishing-amg02051c8-freetv-us-363.playouts.now.amagi.tv/playlist/amg02051-admecyltd-lalalifeenglish-freetvus/playlist.m3u8
+#EXTINF:-1 tvg-id="40ea762bf14aafd4" tvg-name="Lonestar" group-title="freetv" platform="freetv" country="all",Lonestar
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-thelonestarchanel-freetv/playlist.m3u8
+#EXTINF:-1 tvg-id="61764821a99d5ff0" tvg-name="Lovenature (Geo)" group-title="freetv" platform="freetv" country="all",Lovenature (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-lovenature-freetv/playlist.m3u8
+#EXTINF:-1 tvg-id="98c7e38051cfffcd" tvg-name="Lovenature Spain (Geo)" group-title="freetv" platform="freetv" country="all",Lovenature Spain (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-lovenaturespn-freetv/playlist.m3u8
+#EXTINF:-1 tvg-id="fbbac3d1dffad41b" tvg-name="Lovenatureus Spanish (Geo)" group-title="freetv" platform="freetv" country="all",Lovenatureus Spanish (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-lovenatureusspa-freetv/playlist.m3u8
+#EXTINF:-1 tvg-id="74a85d3e2f865363" tvg-name="MMC" group-title="freetv" platform="freetv" country="all",MMC
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="3e0dc894596ce65e" tvg-name="Mst3k" group-title="freetv" platform="freetv" country="all",Mst3k
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00163-shoutfactory-mst3k-freetv/playlist.m3u8
+#EXTINF:-1 tvg-id="d29a521e4d15cd1f" tvg-name="Mystify" group-title="freetv" platform="freetv" country="all",Mystify
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-engmystify-freetv/playlist.m3u8
+#EXTINF:-1 tvg-id="289ab4651cc2f453" tvg-name="Mytime Movies U.S Spanish (Geo)" group-title="freetv" platform="freetv" country="all",Mytime Movies U.S Spanish (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimeussp-freetv/playlist.m3u8
+#EXTINF:-1 tvg-id="c1f6caa12bf59779" tvg-name="Mytime Movies UK (Geo)" group-title="freetv" platform="freetv" country="all",Mytime Movies UK (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimemovieuk-freetv/playlist.m3u8
+#EXTINF:-1 tvg-id="1f2be79544afd085" tvg-name="Newsnet" group-title="freetv" platform="freetv" country="all",Newsnet
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01756-newsnet-newsnet-freetv/playlist.m3u8
+#EXTINF:-1 tvg-id="b5f772bd9d8a25a1" tvg-name="Nosey (Geo)" group-title="freetv" platform="freetv" country="all",Nosey (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00514-noseybaxterllc-nosey-freetv/playlist.m3u8
+#EXTINF:-1 tvg-id="b5971d5b8722b8f6" tvg-name="OAN Plus (Geo)" group-title="freetv" platform="freetv" country="all",OAN Plus (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00450-herringnetwork-oan-freetv-freetv/playlist.m3u8
+#EXTINF:-1 tvg-id="33d6679f3817e431" tvg-name="Popcorn Flix (Geo)" group-title="freetv" platform="freetv" country="all",Popcorn Flix (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-popcornflixfrtv-freetv/playlist.m3u8
+#EXTINF:-1 tvg-id="91420390f9a60541" tvg-name="QVC" group-title="freetv" platform="freetv" country="all",QVC
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1usott/master.m3u8
+#EXTINF:-1 tvg-id="4b6383a984cadab2" tvg-name="Saber Mas" group-title="freetv" platform="freetv" country="all",Saber Mas
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="963a35505caf208f" tvg-name="Screambox TV" group-title="freetv" platform="freetv" country="all",Screambox TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bloodydisgusting-freetv/playlist.m3u8
+#EXTINF:-1 tvg-id="c0c45dd0ecc4835e" tvg-name="Shout TV" group-title="freetv" platform="freetv" country="all",Shout TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00163-shoutfactory-shoutfactorytv-freetv/playlist.m3u8
+#EXTINF:-1 tvg-id="2ee87ce1c57c2ad6" tvg-name="Slick Slime Sam (Geo)" group-title="freetv" platform="freetv" country="all",Slick Slime Sam (Geo)
+https://amg02051-soulpublishing-amg02051c12-freetv-us-365.playouts.now.amagi.tv/playlist/amg02051-admecyltd-slickslimesamenglish-freetvus/playlist.m3u8
+#EXTINF:-1 tvg-id="685e5df4e0363b1f" tvg-name="Sportsgrid (Geo)" group-title="freetv" platform="freetv" country="all",Sportsgrid (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00315-sportsgrid-sportsgrid-freetv/playlist.m3u8
+#EXTINF:-1 tvg-id="eb357dad0c925b80" tvg-name="Sportsnews Highlights" group-title="freetv" platform="freetv" country="all",Sportsnews Highlights
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01756-newsnet-sportsnewshignlights-freetv/playlist.m3u8
+#EXTINF:-1 tvg-id="742e89cb6ede1d74" tvg-name="Teen Vee (Geo)" group-title="freetv" platform="freetv" country="all",Teen Vee (Geo)
+https://amg02051-soulpublishing-amg02051c5-freetv-us-362.playouts.now.amagi.tv/playlist/amg02051-admecyltd-teenveeenglish-freetvus/playlist.m3u8
+#EXTINF:-1 tvg-id="089c1f8fe2af3b4b" tvg-name="The Film Detective" group-title="freetv" platform="freetv" country="all",The Film Detective
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-filmdetectivee-freetv/playlist.m3u8
+#EXTINF:-1 tvg-id="115038b78894f3a0" tvg-name="The Meateater" group-title="freetv" platform="freetv" country="all",The Meateater
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01786-themeateater-meateater-freetv/playlist.m3u8
+#EXTINF:-1 tvg-id="6f6db01ee9e546e4" tvg-name="The Palm Beaches TV" group-title="freetv" platform="freetv" country="all",The Palm Beaches TV
+https://live.feed.thepalmbeaches.tv/index.m3u8
+#EXTINF:-1 tvg-id="05e139aba31bbaab" tvg-name="TickerNews (Geo)" group-title="freetv" platform="freetv" country="all",TickerNews (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01486-tickernews-tickernews-freetv/playlist.m3u8
+#EXTINF:-1 tvg-id="0f9257eb8c776f6e" tvg-name="Top Cine" group-title="freetv" platform="freetv" country="all",Top Cine
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinefreetv-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="ed9dc42c6de93b70" tvg-name="Totalcrime (Geo)" group-title="freetv" platform="freetv" country="all",Totalcrime (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-totalcrime-freetv/playlist.m3u8
+#EXTINF:-1 tvg-id="7156d2ac4aa86e32" tvg-name="Trace Sports Stars" group-title="freetv" platform="freetv" country="all",Trace Sports Stars
+https://tracesportstars-freetv.amagi.tv/hls/amagi_hls_data_tracetvAA-trace-sportstars-freetv/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="096d4b0a47d5288e" tvg-name="Trace Urban" group-title="freetv" platform="freetv" country="all",Trace Urban
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-traceurban-freetv/playlist.m3u8
+#EXTINF:-1 tvg-id="8b57099429853354" tvg-name="TU Cine" group-title="freetv" platform="freetv" country="all",TU Cine
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucineusfreetv-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="7fb6e35aaced1338" tvg-name="Watch it .Kid" group-title="freetv" platform="freetv" country="all",Watch it .Kid
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=3970
+#EXTINF:-1 tvg-id="fd6b133749941de9" tvg-name="Watch It Scream" group-title="freetv" platform="freetv" country="all",Watch It Scream
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=3971
+#EXTINF:-1 tvg-id="b57250f7a23105b1" tvg-name="XFC TV" group-title="freetv" platform="freetv" country="all",XFC TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=3972
+#EXTINF:-1 tvg-id="f6ae7afbece20cc9" tvg-name="Young Hollywood (Geo)" group-title="freetv" platform="freetv" country="all",Young Hollywood (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00143-younghollywood-younghollywood-freetv/playlist.m3u8
+#EXTINF:-1 tvg-id="429e47a92d942cc7" tvg-name="Zas" group-title="freetv" platform="freetv" country="all",Zas
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=3973
