@@ -1,0 +1,295 @@
+# Fuentes IPTVFast
+# Puedes añadir/quitar fuentes sin tocar el código.
+
+epg:
+  url: "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+  days: 7
+
+matt_huisman_json_gz:
+  - platform: matt_all_tv
+    url: "https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/all/tv.json.gz"
+  - platform: matt_all_radio
+    url: "https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/all/radio.json.gz"
+  - platform: pbs
+    url: "https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PBS/.app.json.gz"
+  - platform: pbs_kids
+    url: "https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PBS/.kids_app.json.gz"
+  - platform: plex_matt
+    url: "https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/Plex/.channels.json.gz"
+  - platform: pluto_matt
+    url: "https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/.channels.json.gz"
+  - platform: roku_matt
+    url: "https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/Roku/.channels.json.gz"
+  - platform: samsungtvplus_matt
+    url: "https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/SamsungTVPlus/.channels.json.gz"
+
+m3u_sources:
+  - platform: 10play
+    country: au
+    url: "https://www.apsattv.com/10fast.m3u"
+  - platform: 9fast
+    country: au
+    url: "https://www.apsattv.com/9fast.m3u"
+  - platform: fetchtv
+    country: au
+    url: "https://www.apsattv.com/fetchtv.m3u"
+
+  - platform: movieark
+    country: br
+    url: "https://www.apsattv.com/moviearkbr.m3u"
+  - platform: redeitv
+    country: br
+    url: "https://www.apsattv.com/redeitv.m3u"
+  - platform: soultv
+    country: br
+    url: "https://www.apsattv.com/soultv.m3u"
+
+  - platform: distro
+    country: all
+    url: "https://www.apsattv.com/distro.m3u"
+  - platform: vizio
+    country: all
+    url: "https://www.apsattv.com/vizio.m3u"
+  - platform: vidaa
+    country: all
+    url: "https://www.apsattv.com/vidaa.m3u"
+  - platform: orka
+    country: all
+    url: "https://www.apsattv.com/orka.m3u"
+  - platform: kogantvplus
+    country: au
+    url: "https://www.apsattv.com/kogantvplus.m3u"
+  - platform: metax
+    country: all
+    url: "https://www.apsattv.com/metax.m3u"
+  - platform: freelivesports
+    country: all
+    url: "https://www.apsattv.com/freelivesports.m3u"
+  - platform: galxytv
+    country: all
+    url: "https://www.apsattv.com/galxytv.m3u"
+  - platform: localnow
+    country: us
+    url: "https://www.apsattv.com/localnow.m3u"
+  - platform: tclplus
+    country: all
+    url: "https://www.apsattv.com/tclplus.m3u"
+  - platform: hp
+    country: all
+    url: "https://www.apsattv.com/hp.m3u"
+  - platform: igocast
+    country: all
+    url: "https://www.apsattv.com/igocast.m3u"
+  - platform: rewardedtv
+    country: all
+    url: "https://www.apsattv.com/rewardedtv.m3u"
+  - platform: xumo
+    country: all
+    url: "https://www.apsattv.com/xumo.m3u"
+  - platform: cineverse
+    country: all
+    url: "https://www.apsattv.com/cineverse.m3u"
+
+  - platform: tubi
+    country: all
+    url: "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/tubi_all.m3u"
+  - platform: roku
+    country: all
+    url: "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/roku_all.m3u"
+
+  - platform: tablo
+    country: all
+    url: "https://www.apsattv.com/tablo.m3u"
+  - platform: firetv
+    country: all
+    url: "https://www.apsattv.com/firetv.m3u"
+  - platform: veely
+    country: all
+    url: "https://www.apsattv.com/veely.m3u"
+  - platform: tcl
+    country: all
+    url: "https://www.apsattv.com/tcl.m3u"
+
+  - platform: xiaomi
+    country: all
+    url: "https://www.apsattv.com/xiaomi.m3u"
+  - platform: tclbr
+    country: br
+    url: "https://www.apsattv.com/tclbr.m3u"
+  - platform: roku_apsattv
+    country: all
+    url: "https://www.apsattv.com/rok.m3u"
+  - platform: sportstv
+    country: all
+    url: "https://www.apsattv.com/sportstv.m3u"
+  - platform: freemoviesplus
+    country: all
+    url: "https://www.apsattv.com/freemoviesplus.m3u"
+
+  - platform: klowd
+    country: all
+    url: "https://www.apsattv.com/klowd.m3u"
+  - platform: freetv
+    country: all
+    url: "https://www.apsattv.com/freetv.m3u"
+  - platform: rakuten_jp
+    country: jp
+    url: "https://www.apsattv.com/rakuten-jp.m3u"
+  - platform: zeasn
+    country: all
+    url: "https://www.apsattv.com/zeasn.m3u"
+
+  # Samsung TV Plus manual, non-app regions
+  - platform: samsungtvplus_manual
+    country: nz
+    url: "https://www.apsattv.com/ssungnz.m3u"
+  - platform: samsungtvplus_manual
+    country: au
+    url: "https://www.apsattv.com/ssungaus.m3u"
+  - platform: samsungtvplus_manual
+    country: sg
+    url: "https://www.apsattv.com/ssungsg.m3u"
+  - platform: samsungtvplus_manual
+    country: ph
+    url: "https://www.apsattv.com/ssungph.m3u"
+  - platform: samsungtvplus_manual
+    country: th
+    url: "https://www.apsattv.com/ssungth.m3u"
+  - platform: samsungtvplus_manual
+    country: br
+    url: "https://www.apsattv.com/ssungbra.m3u"
+  - platform: samsungtvplus_manual
+    country: mx
+    url: "https://www.apsattv.com/ssungmex.m3u"
+  - platform: samsungtvplus_manual
+    country: no
+    url: "https://www.apsattv.com/ssungnor.m3u"
+  - platform: samsungtvplus_manual
+    country: fi
+    url: "https://www.apsattv.com/ssungfin.m3u"
+  - platform: samsungtvplus_manual
+    country: dk
+    url: "https://www.apsattv.com/ssungden.m3u"
+  - platform: samsungtvplus_manual
+    country: se
+    url: "https://www.apsattv.com/ssungswe.m3u"
+  - platform: samsungtvplus_manual
+    country: pt
+    url: "https://www.apsattv.com/ssungpor.m3u"
+  - platform: samsungtvplus_manual
+    country: lu
+    url: "https://www.apsattv.com/ssunglux.m3u"
+  - platform: samsungtvplus_manual
+    country: be
+    url: "https://www.apsattv.com/ssungbelg.m3u"
+  - platform: samsungtvplus_manual
+    country: ie
+    url: "https://www.apsattv.com/ssungire.m3u"
+  - platform: samsungtvplus_manual
+    country: nl
+    url: "https://www.apsattv.com/ssungneth.m3u"
+
+generated_sources:
+  whale_tv_plus:
+    platform: whaletvplus
+    template: "https://www.apsattv.com/whaletvplus_{country}.m3u"
+    countries: ["ad","ae","af","ag","ai","al","am","ao","aq","ar","as","at","au","aw","ax","az","ba","bb","bd","be","bf","bg","bh","bi","bj","bl","bm","bn","bo","bq","br","bs","bt","bv","bw","by","bz","ca","cc","cd","cf","cg","ch","ci","ck","cl","cm","cn","co","cr","cu","cv","cw","cx","cy","cz","de","dj","dk","dm","do","dz","ec","ee","eg","eh","er","es","et","fi","fj","fk","fm","fo","fr","ga","gb","gd","ge","gf","gg","gh","gi","gl","gm","gn","gp","gq","gr","gs","gt","gu","gw","gy","hk","hm","hn","hr","ht","hu","id","ie","il","im","in","io","iq","ir","is","it","je","jm","jo","jp","ke","kg","kh","ki","km","kn","kp","kr","kw","ky","kz","la","lb","lc","li","lk","lr","ls","lt","lu","lv","ly","ma","mc","md","me","mf","mg","mh","mk","ml","mm","mn","mo","mp","mq","mr","ms","mt","mu","mv","mw","mx","my","mz","na","nc","ne","nf","ng","ni","nl","no","np","nr","nu","nz","om","pa","pe","pf","pg","ph","pk","pl","pm","pn","pr","ps","pt","pw","py","qa","re","ro","rs","ru","rw","sa","sb","sc","sd","se","sg","sh","si","sk","sl","sm","sn","so","sr","ss","st","sv","sx","sy","sz","tc","td","tg","th","tj","tk","tl","tm","tn","to","tr","tt","tv","tw","tz","ua","ug","um","us","uy","uz","va","vc","ve","vg","vi","vn","vu","wf","ws","ye","yt","za","zm","zw"]
+  - platform: lgchannels
+    country: ae
+    url: "https://www.apsattv.com/aelg.m3u"
+  - platform: lgchannels
+    country: ar
+    url: "https://www.apsattv.com/arlg.m3u"
+  - platform: lgchannels
+    country: at
+    url: "https://www.apsattv.com/atlg.m3u"
+  - platform: lgchannels
+    country: au
+    url: "https://www.apsattv.com/aulg.m3u"
+  - platform: lgchannels
+    country: be
+    url: "https://www.apsattv.com/belg.m3u"
+  - platform: lgchannels
+    country: br
+    url: "https://www.apsattv.com/brlg.m3u"
+  - platform: lgchannels
+    country: ca
+    url: "https://www.apsattv.com/calg.m3u"
+  - platform: lgchannels
+    country: ch
+    url: "https://www.apsattv.com/chlg.m3u"
+  - platform: lgchannels
+    country: cl
+    url: "https://www.apsattv.com/cllg.m3u"
+  - platform: lgchannels
+    country: co
+    url: "https://www.apsattv.com/colg.m3u"
+  - platform: lgchannels
+    country: de
+    url: "https://www.apsattv.com/delg.m3u"
+  - platform: lgchannels
+    country: dk
+    url: "https://www.apsattv.com/dklg.m3u"
+  - platform: lgchannels
+    country: es
+    url: "https://www.apsattv.com/eslg.m3u"
+  - platform: lgchannels
+    country: fi
+    url: "https://www.apsattv.com/filg.m3u"
+  - platform: lgchannels
+    country: fr
+    url: "https://www.apsattv.com/frlg.m3u"
+  - platform: lgchannels
+    country: gb
+    url: "https://www.apsattv.com/gblg.m3u"
+  - platform: lgchannels
+    country: ie
+    url: "https://www.apsattv.com/ielg.m3u"
+  - platform: lgchannels
+    country: in
+    url: "https://www.apsattv.com/inlg.m3u"
+  - platform: lgchannels
+    country: it
+    url: "https://www.apsattv.com/itlg.m3u"
+  - platform: lgchannels
+    country: jp
+    url: "https://www.apsattv.com/jplg.m3u"
+  - platform: lgchannels
+    country: kr
+    url: "https://www.apsattv.com/krlg.m3u"
+  - platform: lgchannels
+    country: lu
+    url: "https://www.apsattv.com/lulg.m3u"
+  - platform: lgchannels
+    country: mx
+    url: "https://www.apsattv.com/mxlg.m3u"
+  - platform: lgchannels
+    country: nl
+    url: "https://www.apsattv.com/nllg.m3u"
+  - platform: lgchannels
+    country: no
+    url: "https://www.apsattv.com/nolg.m3u"
+  - platform: lgchannels
+    country: nz
+    url: "https://www.apsattv.com/nzlg.m3u"
+  - platform: lgchannels
+    country: pe
+    url: "https://www.apsattv.com/pelg.m3u"
+  - platform: lgchannels
+    country: pt
+    url: "https://www.apsattv.com/ptlg.m3u"
+  - platform: lgchannels
+    country: pl
+    url: "https://www.apsattv.com/pllg.m3u"
+  - platform: lgchannels
+    country: sg
+    url: "https://www.apsattv.com/sglg.m3u"
+  - platform: lgchannels
+    country: se
+    url: "https://www.apsattv.com/selg.m3u"
+  - platform: lgchannels
+    country: us
+    url: "https://www.apsattv.com/uslg.m3u"
+  - platform: lgchannels_legacy
+    country: all
+    url: "https://www.apsattv.com/lg.m3u"

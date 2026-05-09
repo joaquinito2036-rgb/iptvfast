@@ -1,0 +1,1 @@
+"""IPTVFast generator package."""
