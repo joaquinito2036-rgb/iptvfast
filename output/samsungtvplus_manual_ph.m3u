@@ -1,10 +1,8 @@
 #EXTM3U x-tvg-url="all.xml.gz"
-#EXTINF:-1 tvg-id="65bf96ce6309f574" tvg-name="4000 Blast Movies" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",4000 Blast Movies
-https://amg19223-amg19223c7-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c7-amgplt0351/playlist.m3u8
-#EXTINF:-1 tvg-id="3da055e38b68521f" tvg-name="4001 Premier Sports" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",4001 Premier Sports
+#EXTINF:-1 tvg-id="347a837e2e569589" tvg-name="4003 Premier Sports" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",4003 Premier Sports
 https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
-#EXTINF:-1 tvg-id="9cf0adda85e410c6" tvg-name="4002 Blast X Ani One" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",4002 Blast X Ani One
-https://amg19223-amg19223c9-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c9-amgplt0352/playlist.m3u8
+#EXTINF:-1 tvg-id="ae6e5f713e36fec1" tvg-name="4005 Red Bull TV" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",4005 Red Bull TV
+https://d3k3xxewhm1my2.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="3f690e726ae4b7f9" tvg-name="4020 Euronews World" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",4020 Euronews World
 https://amg00882-amg00882c2-samsung-ph-4542.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="0bc08325ebb594ab" tvg-name="4022 Abante Radyo" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",4022 Abante Radyo
@@ -17,6 +15,8 @@ https://amg02703-amg02703c17-samsung-ph-4546.playouts.now.amagi.tv/playlist.m3u8
 https://amg02703-amg02703c20-samsung-ph-9157.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="24574aa04d88cf74" tvg-name="4027 France 24" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",4027 France 24
 https://amg00106-amg00106c1-samsung-ph-4550.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="50712f8d057f478c" tvg-name="4028 Leadstory Breaking Finance News" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",4028 Leadstory Breaking Finance News
+https://amg02703-amg02703c24-samsung-ph-11451.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="6bad45336ebc9d0b" tvg-name="4030 Masterchef" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",4030 Masterchef
 https://amg00627-amg00627c49-samsung-ph-8176.playouts.now.amagi.tv/playlist/amg00627-banijayfast-masterchefuk-samsungph/playlist.m3u8
 #EXTINF:-1 tvg-id="01f6ddf56ecbbbf1" tvg-name="4033 Hells Kitchen" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",4033 Hells Kitchen
@@ -27,20 +27,18 @@ https://amg00654-itv-amg00654c39-samsung-th-8169.playouts.now.amagi.tv/playlist.
 https://amg00654-itv-amg00654c4-samsung-th-8167.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="fa740b8bbb26edeb" tvg-name="4055 Antiques Road Trip" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",4055 Antiques Road Trip
 https://amg02333-pbs-amg02333c12-samsung-us-8496.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="73f7d4098af446d8" tvg-name="4060 Eggheads" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",4060 Eggheads
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00654-itvstudios-eggheads-samsunguk/playlist.m3u8
-#EXTINF:-1 tvg-id="a2bd6cf2a19208b8" tvg-name="4061 Real Blast (check?)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",4061 Real Blast (check?)
-https://amg19223-amg19223c10-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c10-amgplt0351/playlist.m3u8
 #EXTINF:-1 tvg-id="864ab4c68c6a8351" tvg-name="4064 KCM" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",4064 KCM
 https://amg02159-amg02159c10-amgplt0352.playout.now3.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="400b9e73a55f7ea0" tvg-name="4065 Ani Blast" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",4065 Ani Blast
+https://amg19223-amg19223c9-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c9-amgplt0352/playlist.m3u8
 #EXTINF:-1 tvg-id="52082efa385b32d9" tvg-name="4066 Aniplus" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",4066 Aniplus
 https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
 #EXTINF:-1 tvg-id="d136def7d59819f6" tvg-name="4067 Animax" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",4067 Animax
 https://amg02159-amg02159c9-amgplt0352.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg02159-amg02159c9-amgplt0352/playlist.m3u8
 #EXTINF:-1 tvg-id="796a853c8964f356" tvg-name="4070 Mythbusters" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",4070 Mythbusters
 https://amg00627-amg00627c14-samsung-ph-4556.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mythbusters-samsungph/playlist.m3u8
-#EXTINF:-1 tvg-id="cd198c5f4a8c3a18" tvg-name="4071 Zee One" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",4071 Zee One
-https://amg17931-zee-amg17931c6-samsung-ph-6513.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="fc5db1656a952d26" tvg-name="4071 Zee One HD" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",4071 Zee One HD
+https://amg17931-zee-amg17931c6-samsung-ph-6513.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungph/playlist.m3u8
 #EXTINF:-1 tvg-id="0c103d8679240c0f" tvg-name="4073 Survivor" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",4073 Survivor
 https://amg00627-amg00627c16-samsung-ph-5303.playouts.now.amagi.tv/playlist/amg00627-banijayfast-survivor-samsungph/playlist.m3u8
 #EXTINF:-1 tvg-id="0f9f6e602c889550" tvg-name="4075 Highway Thru Hell" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",4075 Highway Thru Hell
@@ -97,14 +95,16 @@ https://amg00426-lds-amg00426c1-samsung-ph-4626.playouts.now.amagi.tv/playlist.m
 https://amg01076-amg01076c8-samsung-ph-5639.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="f0fb001f7610b78b" tvg-name="4171 Comic U" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",4171 Comic U
 https://amg19223-amg19223c8-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c8-amgplt0351/playlist.m3u8
-#EXTINF:-1 tvg-id="ee48e4791e006cb7" tvg-name="4181 Zee Sine" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",4181 Zee Sine
-https://amg17931-zee-amg17931c9-samsung-ph-6528.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeesine-samsungph/playlist.m3u8
+#EXTINF:-1 tvg-id="5637ed84267e5a19" tvg-name="4181 Blast Movies" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",4181 Blast Movies
+https://amg19223-amg19223c7-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c7-amgplt0351/playlist.m3u8
 #EXTINF:-1 tvg-id="afedb5779984e772" tvg-name="4185 Zee Bollymovies" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",4185 Zee Bollymovies
 https://amg17931-zee-amg17931c8-samsung-ph-6525.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="a680d1cc97c0e8ba" tvg-name="4186 Free Movies" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",4186 Free Movies
 https://amg01553-amg01553c2-samsung-ph-7163.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="fa797955c904f7de" tvg-name="4191 Action Hollywood Movies" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",4191 Action Hollywood Movies
 https://amg01076-amg01076c4-samsung-ph-5316.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ae6d4fbd2b5febef" tvg-name="4192 RCM Movies" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",4192 RCM Movies
+https://amg01076-amg01076c11-samsung-ph-5322.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="85a3497338ab7043" tvg-name="4430 InTravel" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",4430 InTravel
 https://amg00861-amg00861c22-samsung-ph-5411.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="efb47a8781d8e1e9" tvg-name="4505 Duck Dynasty" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",4505 Duck Dynasty
@@ -123,8 +123,6 @@ https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-a
 https://amg19223-amg19223c6-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c6-amgplt0351/playlist.m3u8
 #EXTINF:-1 tvg-id="ea0b7a8dde661215" tvg-name="4621 Tennis+" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",4621 Tennis+
 https://amg01935-amg01935c1-amgplt0352.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0352/playlist.m3u8
-#EXTINF:-1 tvg-id="51ea091e8114e8a9" tvg-name="4625 Red Bull TV" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",4625 Red Bull TV
-https://d3k3xxewhm1my2.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="1676f9eeee8ad45b" tvg-name="4631 Unbeaten" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",4631 Unbeaten
 https://amg00721-amg00721c6-samsung-ph-7082.playouts.now.amagi.tv/playlist/amg00721-inverleigh-unbtn3row-samsungph/playlist.m3u8
 #EXTINF:-1 tvg-id="ad8424191782d5a9" tvg-name="4635 Wedo TV Sports" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",4635 Wedo TV Sports
@@ -173,13 +171,7 @@ https://d1si3n1st4nkgb.cloudfront.net/10000/88258005/hls/master.m3u8?ads.xumo_ch
 https://d1si3n1st4nkgb.cloudfront.net/10000/88258003/hls/master.m3u8?ads.xumo_channelId=88258003
 #EXTINF:-1 tvg-id="b021d8305d946405" tvg-name="4938 Pop" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",4938 Pop
 https://amg01753-amg01753c6-samsung-au-6678.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="e334cb24e7e14b45" tvg-name="Apartment NOT listed" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",Apartment NOT listed
-https://amg02688-amg02688c3-amgplt0352.playout.now3.amagi.tv/playlist/amg02688-amg02688c3-amgplt0352/playlist.m3u8
-#EXTINF:-1 tvg-id="5d85031c4ce2352e" tvg-name="Inspire NOT listed" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",Inspire NOT listed
-https://amg02688-amg02688c2-amgplt0352.playout.now3.amagi.tv/playlist/amg02688-amg02688c2-amgplt0352/playlist.m3u8
+#EXTINF:-1 tvg-id="b55bc3fc266c53b5" tvg-name="CBS News 24x7 (Unlisted)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",CBS News 24x7 (Unlisted)
+https://amg02703-amg02703c22-samsung-ph-11448.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="d0fd13326833f996" tvg-name="InTrouble NOT listed" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",InTrouble NOT listed
 https://amg00861-amg00861c6-samsung-ph-4635.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="31a76d1b06c45449" tvg-name="RCM Movies" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",RCM Movies
-https://amg01076-amg01076c11-samsung-ph-5322.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="3f52e81e6167725e" tvg-name="VILN NOT listed" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",VILN NOT listed
-https://amg02688-amg02688c1-amgplt0352.playout.now3.amagi.tv/playlist/amg02688-amg02688c1-amgplt0352/playlist.m3u8
