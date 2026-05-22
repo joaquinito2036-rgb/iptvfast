@@ -101,6 +101,8 @@ https://amg19223-amg19223c7-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-a
 https://amg17931-zee-amg17931c8-samsung-ph-6525.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="a680d1cc97c0e8ba" tvg-name="4186 Free Movies" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",4186 Free Movies
 https://amg01553-amg01553c2-samsung-ph-7163.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="d5e4799b9eaf1535" tvg-name="4187 Wedo TV Movies" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",4187 Wedo TV Movies
+https://amg00735-amg00735c46-samsung-sg-11189.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="fa797955c904f7de" tvg-name="4191 Action Hollywood Movies" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",4191 Action Hollywood Movies
 https://amg01076-amg01076c4-samsung-ph-5316.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ae6d4fbd2b5febef" tvg-name="4192 RCM Movies" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",4192 RCM Movies
