@@ -1,18 +1,1019 @@
 {
-  "generated_at": "2026-05-26T02:20:30.536746+00:00",
-  "channel_count": 59642,
-  "platform_count": 41,
+  "generated_at": "2026-05-26T09:45:18.030111+00:00",
+  "channel_count": 13035,
+  "platform_count": 38,
   "xmltv": {
     "xmltv_file": "all.xml.gz",
     "xmltv_max_days_requested": 7,
     "xmltv_days_written": 7,
-    "xmltv_channels_written": 6237,
-    "xmltv_programmes_written": 649539,
-    "xmltv_gz_bytes": 39433376,
+    "xmltv_channels_written": 5842,
+    "xmltv_programmes_written": 609214,
+    "xmltv_gz_bytes": 35263335,
     "xmltv_gz_limit_bytes": 104857600,
     "xmltv_gzip_level": 9,
     "xmltv_filtered_by_channel_name": true,
     "xmltv_under_limit": true
   },
-  "errors": []
+  "errors": [
+    {
+      "url": "https://www.apsattv.com/whaletvplus_dk.m3u",
+      "platform": "whaletvplus",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_co.m3u",
+      "platform": "whaletvplus",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_de.m3u",
+      "platform": "whaletvplus",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_cv.m3u",
+      "platform": "whaletvplus",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_cw.m3u",
+      "platform": "whaletvplus",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_do.m3u",
+      "platform": "whaletvplus",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_cx.m3u",
+      "platform": "whaletvplus",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_cr.m3u",
+      "platform": "whaletvplus",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_cz.m3u",
+      "platform": "whaletvplus",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_cy.m3u",
+      "platform": "whaletvplus",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_dm.m3u",
+      "platform": "whaletvplus",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_dz.m3u",
+      "platform": "whaletvplus",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_cn.m3u",
+      "platform": "whaletvplus",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_cu.m3u",
+      "platform": "whaletvplus",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_dj.m3u",
+      "platform": "whaletvplus",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/localnow.m3u",
+      "platform": "localnow",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/vidaa.m3u",
+      "platform": "vidaa",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_cd.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_ch.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_bo.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_cf.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_ca.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_cc.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_bz.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_bw.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_cl.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_ck.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_bv.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_ci.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_bt.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_cg.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_fr.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_fo.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_fm.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_fk.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_fj.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_fi.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_et.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_es.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_er.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_eh.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_ee.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_eg.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_ec.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_ga.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_gb.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_ge.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_gd.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_gi.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_gm.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_gs.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_gf.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_gp.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_gt.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_gw.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_gu.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_gh.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_gq.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_gr.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_gl.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_gg.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_gn.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_im.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_ie.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_hm.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_iq.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_io.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_in.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_il.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_id.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_hu.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_ht.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_hr.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_hn.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_hk.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_gy.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_ir.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_is.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_it.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_kn.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_jo.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_ky.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_km.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_ke.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_kr.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_ki.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_jm.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_jp.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_je.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_kh.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_kw.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_kp.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_kg.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_mc.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_lr.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_lu.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_lv.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_li.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_lc.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_lb.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_kz.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_ly.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_ma.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_ls.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_lt.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_la.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_lk.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_md.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_me.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_mf.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_mp.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_mq.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_ms.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_mm.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_mn.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_mk.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_mu.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_mg.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_mh.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_mv.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_mt.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_ml.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_mr.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_mo.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_nr.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_nc.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_np.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_nl.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_ni.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_nf.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_na.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_mz.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_my.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_mx.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_mw.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_no.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_ng.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_ne.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_nu.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_om.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_nz.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_ps.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_py.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_pm.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_pt.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_pn.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_pf.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_pw.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_pl.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_pr.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_pk.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_ph.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_pg.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_pe.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_pa.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_re.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_sh.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_rs.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_sg.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_sb.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_ro.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_se.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_sc.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_sd.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_sa.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_qa.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_rw.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_ru.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_si.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_sk.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_sm.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_sl.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_tg.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_sz.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_tc.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_sy.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_sv.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_ss.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_sr.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_sn.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_sx.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_th.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_so.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_tj.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_td.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_st.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_us.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_um.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_tk.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_ug.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_tz.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_tt.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_to.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_tn.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_tm.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_tl.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_ua.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_tw.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_tv.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_tr.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    }
+  ]
 }
