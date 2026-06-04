@@ -1,24 +1,18 @@
 {
-  "generated_at": "2026-06-03T20:56:56.562762+00:00",
-  "channel_count": 59569,
+  "generated_at": "2026-06-04T02:52:24.868091+00:00",
+  "channel_count": 59748,
   "platform_count": 41,
   "xmltv": {
     "xmltv_file": "all.xml.gz",
     "xmltv_max_days_requested": 7,
     "xmltv_days_written": 7,
     "xmltv_channels_written": 6266,
-    "xmltv_programmes_written": 658898,
-    "xmltv_gz_bytes": 39768784,
+    "xmltv_programmes_written": 658862,
+    "xmltv_gz_bytes": 39942807,
     "xmltv_gz_limit_bytes": 104857600,
     "xmltv_gzip_level": 9,
     "xmltv_filtered_by_channel_name": true,
     "xmltv_under_limit": true
   },
-  "errors": [
-    {
-      "url": "https://www.apsattv.com/whaletvplus_bj.m3u",
-      "platform": "whaletvplus",
-      "error": "TimeoutError()"
-    }
-  ]
+  "errors": []
 }
