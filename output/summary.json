@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-06-10T02:41:22.340247+00:00",
-  "channel_count": 59782,
+  "generated_at": "2026-06-10T09:52:54.473644+00:00",
+  "channel_count": 59788,
   "platform_count": 41,
   "xmltv": {
     "xmltv_file": "all.xml.gz",
     "xmltv_max_days_requested": 7,
     "xmltv_days_written": 7,
     "xmltv_channels_written": 6268,
-    "xmltv_programmes_written": 653552,
-    "xmltv_gz_bytes": 39572759,
+    "xmltv_programmes_written": 649973,
+    "xmltv_gz_bytes": 39610262,
     "xmltv_gz_limit_bytes": 104857600,
     "xmltv_gzip_level": 9,
     "xmltv_filtered_by_channel_name": true,
