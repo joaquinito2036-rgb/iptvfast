@@ -1,8 +1,4 @@
 #EXTM3U x-tvg-url="all.xml.gz"
-#EXTINF:-1 tvg-id="347a837e2e569589" tvg-name="4003 Premier Sports" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",4003 Premier Sports
-https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
-#EXTINF:-1 tvg-id="ae6e5f713e36fec1" tvg-name="4005 Red Bull TV" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",4005 Red Bull TV
-https://d3k3xxewhm1my2.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="3f690e726ae4b7f9" tvg-name="4020 Euronews World" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",4020 Euronews World
 https://amg00882-amg00882c2-samsung-ph-4542.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="0bc08325ebb594ab" tvg-name="4022 Abante Radyo" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",4022 Abante Radyo
@@ -119,12 +115,18 @@ https://amg26277-amg26277c14-samsung-ph-11099.playouts.now.amagi.tv/playlist.m3u
 https://amg26277-amg26277c4-samsung-ph-11088.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="9c88ef66c35370c2" tvg-name="4600 Blast Sports" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",4600 Blast Sports
 https://amg19223-amg19223c1-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c1-amgplt0351/playlist.m3u8
+#EXTINF:-1 tvg-id="b335b1d3404a284e" tvg-name="4601 Premier Sports" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",4601 Premier Sports
+https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
+#EXTINF:-1 tvg-id="f193936a7d866372" tvg-name="4602 Tap Sports" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",4602 Tap Sports
+https://amg19223-amg19223c2-amgplt0351.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg19223-amg19223c2-amgplt0351/playlist.m3u8
 #EXTINF:-1 tvg-id="dc0908791246a855" tvg-name="4603 Premier Sports 2" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",4603 Premier Sports 2
 https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
 #EXTINF:-1 tvg-id="f26681fd6a12bc2a" tvg-name="4604 Fight Plus" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",4604 Fight Plus
 https://amg19223-amg19223c6-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c6-amgplt0351/playlist.m3u8
 #EXTINF:-1 tvg-id="ea0b7a8dde661215" tvg-name="4621 Tennis+" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",4621 Tennis+
 https://amg01935-amg01935c1-amgplt0352.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0352/playlist.m3u8
+#EXTINF:-1 tvg-id="51ea091e8114e8a9" tvg-name="4625 Red Bull TV" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",4625 Red Bull TV
+https://d3k3xxewhm1my2.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="1676f9eeee8ad45b" tvg-name="4631 Unbeaten" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",4631 Unbeaten
 https://amg00721-amg00721c6-samsung-ph-7082.playouts.now.amagi.tv/playlist/amg00721-inverleigh-unbtn3row-samsungph/playlist.m3u8
 #EXTINF:-1 tvg-id="ad8424191782d5a9" tvg-name="4635 Wedo TV Sports" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="ph",4635 Wedo TV Sports

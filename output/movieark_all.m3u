@@ -25,6 +25,8 @@ https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/8887808ea345
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/0b954aa903624b3a8fb185f45e94819c/playlist.m3u8
 #EXTINF:-1 tvg-id="790c1d25a4f14a6c" tvg-name="Canal do Artesanato" group-title="movieark" platform="movieark" country="br",Canal do Artesanato
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/c62194ee6e7b4e3cbd58821fdc99df6c/playlist.m3u8
+#EXTINF:-1 tvg-id="1ad2876220497e9a" tvg-name="Canal Goat!" group-title="movieark" platform="movieark" country="br",Canal Goat!
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/12b1b2de9b3b40389cdb65c61e899848/playlist.m3u8
 #EXTINF:-1 tvg-id="835037c5911dd9a4" tvg-name="Canal Like+" group-title="movieark" platform="movieark" country="br",Canal Like+
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11768
 #EXTINF:-1 tvg-id="47a3ee40c3f6657a" tvg-name="Canal Rural" group-title="movieark" platform="movieark" country="br",Canal Rural

@@ -163,6 +163,10 @@ https://cc-zv5hyc9jj47n5.akamaized.net/ogc/nsprt/nsprt.m3u8
 https://cc-zv5hyc9jj47n5.akamaized.net/ogc/nsprt/nsprt_h265.m3u8
 #EXTINF:-1 tvg-id="fbc5bf73e0dc8f0e" tvg-name="2310 GE TV (BR)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="br",2310 GE TV (BR)
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
+#EXTINF:-1 tvg-id="a62b5d6637e931fb" tvg-name="2311 Canal Goat (BR)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="br",2311 Canal Goat (BR)
+https://cng-cngt-samsungtvplus-br.otteravision.com/cng/cngt/cngt.m3u8
+#EXTINF:-1 tvg-id="d98501f4755293e0" tvg-name="2311 Canal Goat (BR) alt H265" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="br",2311 Canal Goat (BR) alt H265
+https://cng-cngt-samsungtvplus-br.otteravision.com/cng/cngt/cngt_h265.m3u8
 #EXTINF:-1 tvg-id="5383eca2adc8b871" tvg-name="2312 Desimpedidos (BR)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="br",2312 Desimpedidos (BR)
 https://cc-vvkv6xjfc6w5v.akamaized.net/ogc/desi/desi.m3u8
 #EXTINF:-1 tvg-id="8107bc6a85d5713d" tvg-name="2312 Desimpedidos (BR) alt H265" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="br",2312 Desimpedidos (BR) alt H265
