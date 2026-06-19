@@ -1,24 +1,18 @@
 {
-  "generated_at": "2026-06-19T14:53:40.845891+00:00",
-  "channel_count": 59681,
-  "platform_count": 40,
+  "generated_at": "2026-06-19T19:36:13.625479+00:00",
+  "channel_count": 59855,
+  "platform_count": 41,
   "xmltv": {
     "xmltv_file": "all.xml.gz",
     "xmltv_max_days_requested": 7,
     "xmltv_days_written": 7,
-    "xmltv_channels_written": 6271,
-    "xmltv_programmes_written": 642497,
-    "xmltv_gz_bytes": 39484233,
+    "xmltv_channels_written": 6272,
+    "xmltv_programmes_written": 645101,
+    "xmltv_gz_bytes": 39813808,
     "xmltv_gz_limit_bytes": 104857600,
     "xmltv_gzip_level": 9,
     "xmltv_filtered_by_channel_name": true,
     "xmltv_under_limit": true
   },
-  "errors": [
-    {
-      "url": "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/tubi_all.m3u",
-      "platform": "tubi",
-      "error": "ClientResponseError(RequestInfo(url=URL('https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/tubi_all.m3u'), method='GET', headers=<CIMultiDictProxy('Host': 'raw.githubusercontent.com', 'User-Agent': 'IPTVFast/1.0 (+https://github.com/your-user/iptvfast)', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate')>, real_url=URL('https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/tubi_all.m3u')), (), status=404, message='Not Found', headers=<CIMultiDictProxy('Connection': 'keep-alive', 'Content-Length': '14', 'Content-Security-Policy': \"default-src 'none'; style-src 'unsafe-inline'; sandbox\", 'Strict-Transport-Security': 'max-age=31536000', 'X-Content-Type-Options': 'nosniff', 'X-Frame-Options': 'deny', 'X-XSS-Protection': '1; mode=block', 'Content-Type': 'text/plain; charset=utf-8', 'X-GitHub-Request-Id': 'E510:1DE90:A1AE93:C12309:6A3555D9', 'Accept-Ranges': 'bytes', 'Date': 'Fri, 19 Jun 2026 14:44:41 GMT', 'Via': '1.1 varnish', 'X-Served-By': 'cache-iad-kiad7000110-IAD', 'X-Cache': 'MISS', 'X-Cache-Hits': '0', 'X-Timer': 'S1781880282.571647,VS0,VE4', 'Vary': 'Authorization,Accept-Encoding', 'Access-Control-Allow-Origin': '*', 'Cross-Origin-Resource-Policy': 'cross-origin', 'X-Fastly-Request-ID': 'f8c6238b8bd80549f969b95edb6cbd49f84c1bd5', 'Expires': 'Fri, 19 Jun 2026 14:49:41 GMT', 'Source-Age': '0')>)"
-    }
-  ]
+  "errors": []
 }
