@@ -17,6 +17,8 @@ https://dotjw4onyd4re.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae04
 https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68773ba2e9e90f4e11b35d9d/bunnycontent_main.m3u8
 #EXTINF:-1 tvg-id="ab6e38fc81903772" tvg-name="Ação Total TV" group-title="movieark" platform="movieark" country="br",Ação Total TV
 https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68c7aa01e9e90f4e11dd3dee/bunnycontent_main.m3u8
+#EXTINF:-1 tvg-id="5d0f93b4b3f37e7d" tvg-name="Band News FM" group-title="movieark" platform="movieark" country="br",Band News FM
+https://amg29547-amg29547c2-amgplt0728.playout.now3.amagi.tv/bndnws-std-cc/playlist.m3u8?dnt={{DNT}}&app_bundle={{appPackage}}&app_name={{appName}}&app_store_url={{AppStoreUrl}}&network_name=tinykernel&did={{DID}}&device_make={{DeviceMake}}&device_model={{DeviceModel}}&gdpr={{Gdpr}}&us_privacy={{UsPrivacy}}&GdprConsent={{GdprConsent}}&app_domain={{AppDomain}}&coppa={{Coppa}}&app_version={{AppVersion}}&app_cat={{AppCat}}&ifa_type={{IFA_TYPE}}
 #EXTINF:-1 tvg-id="4ca0ec0097b738cf" tvg-name="Bloomberg TV+" group-title="movieark" platform="movieark" country="br",Bloomberg TV+
 https://94e96a7d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMLWJyX0Jsb29tYmVyZ1RWUGx1c19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="8dd690496131824f" tvg-name="BM&C NEWS" group-title="movieark" platform="movieark" country="br",BM&C NEWS
@@ -35,6 +37,8 @@ https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/286759c5e64a
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/d2e9f2169fab45528fa125f7b2d55927/playlist.m3u8
 #EXTINF:-1 tvg-id="b639b9d60fe4e126" tvg-name="Captain Tsubasa" group-title="movieark" platform="movieark" country="br",Captain Tsubasa
 https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68a42e4fe9e90f4e11c7eac2/bunnycontent_main.m3u8?&content_custom_1_param=&w=1920&h=1080&cb={{CACHEBUSTER}}&ip={{IP}}&ua={{USER_AGENT}}&dnt={{DNT}}&pod_max_dur={{POD_MAX_DUR}}&pod_ad_slots={{POD_AD_SLOTS}}&app_bundle={{APP_BUNDLE}}&app_name={{APP_NAME}}&app_store_url={{APP_STORE_URL}}&min_dur={{MINIMUM_DURATION}}&max_dur={{MAXIMUM_DURATION}}&content_id={{CONTENT_ID}}&content_title={{CONTENT_TITLE}}&content_genre={{CONTENT_GENRE}}&content_categories={{CONTENT_CATEGORIES}}&rating={{RATING}}&channel_name={{CHANNEL_NAME}}&language={{LANGUAGE}}&network_name={{NETWORK_NAME}}&did={{DEVICE_ID}}&device_make={{DEVICE_MAKE}}&device_model={{DEVICE_MODEL}}&ifa_type={{IFA_TYPE}}&gdpr={{GDPR}}&us_privacy={{US_PRIVACY}}&schain={{SCHAIN}}&coppa={{COPPA}}&GdprConsent={{GdprConsent}}
+#EXTINF:-1 tvg-id="cc9381c39ac1d1b3" tvg-name="Caras tv" group-title="movieark" platform="movieark" country="br",Caras tv
+https://playout-amg27041c1p1.playout.now3.amagi.tv/amg27041/amg27041c1/playlist.m3u8?dnt={{DNT}}&app_bundle={{appPackage}}&app_name={{appName}}&app_store_url={{AppStoreUrl}}&network_name=tinykernel&did={{DID}}&device_make={{DeviceMake}}&device_model={{DeviceModel}}&gdpr={{Gdpr}}&us_privacy={{UsPrivacy}}&GdprConsent={{GdprConsent}}&app_domain={{AppDomain}}&coppa={{Coppa}}&app_version={{AppVersion}}&app_cat={{AppCat}}&ifa_type={{IFA_TYPE}}
 #EXTINF:-1 tvg-id="7446c72468733375" tvg-name="CazéTV" group-title="movieark" platform="movieark" country="br",CazéTV
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/5a9eaefac5584455afb01b50b1bcc619/playlist.m3u8
 #EXTINF:-1 tvg-id="0d93708d7853cbac" tvg-name="CBN" group-title="movieark" platform="movieark" country="br",CBN
@@ -179,6 +183,8 @@ https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/1d4c185825d
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7359
 #EXTINF:-1 tvg-id="56489abc3dfb9a3b" tvg-name="Red Bull TV" group-title="movieark" platform="movieark" country="br",Red Bull TV
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/7f1acf7c00bf4d13a0170e0e8c4bcf3b/playlist.m3u8
+#EXTINF:-1 tvg-id="eb2b62eb6d17452a" tvg-name="Rede Vida" group-title="movieark" platform="movieark" country="br",Rede Vida
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/a7f6ea652c00490db36a50c8a6ef9e7f/playlist.m3u8
 #EXTINF:-1 tvg-id="a1177f62a40641d4" tvg-name="Romance Channel" group-title="movieark" platform="movieark" country="br",Romance Channel
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/3f5318807c544310b8a422251ea1afaa/playlist.m3u8
 #EXTINF:-1 tvg-id="8aaa5dc1f8bc650c" tvg-name="Rookie Blue" group-title="movieark" platform="movieark" country="br",Rookie Blue
@@ -203,6 +209,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=15745
 https://amg00527-amg00527c5-amgplt0728.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00527-amg00527c5-amgplt0728/playlist.m3u8
 #EXTINF:-1 tvg-id="d8240accbc16d2dd" tvg-name="Será" group-title="movieark" platform="movieark" country="br",Será
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/a75bb3eed9b546a49f3978312da537ae/playlist.m3u8
+#EXTINF:-1 tvg-id="a2530d0b84c82fe2" tvg-name="Sessão Trash" group-title="movieark" platform="movieark" country="br",Sessão Trash
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/4ddd716806a344f397c726a9dcdb7908/playlist.m3u8
 #EXTINF:-1 tvg-id="797f04e98caac573" tvg-name="SFT Combat" group-title="movieark" platform="movieark" country="br",SFT Combat
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/49a71877481f422f8f469e231e7876b3/playlist.m3u8
 #EXTINF:-1 tvg-id="eef7eb68ffe3166b" tvg-name="SHIFT" group-title="movieark" platform="movieark" country="br",SHIFT
