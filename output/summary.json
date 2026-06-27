@@ -1,18 +1,169 @@
 {
-  "generated_at": "2026-06-26T19:39:41.040848+00:00",
-  "channel_count": 59849,
+  "generated_at": "2026-06-27T02:20:54.811325+00:00",
+  "channel_count": 55017,
   "platform_count": 41,
   "xmltv": {
     "xmltv_file": "all.xml.gz",
     "xmltv_max_days_requested": 7,
     "xmltv_days_written": 7,
-    "xmltv_channels_written": 6286,
-    "xmltv_programmes_written": 640061,
-    "xmltv_gz_bytes": 39735821,
+    "xmltv_channels_written": 6261,
+    "xmltv_programmes_written": 637859,
+    "xmltv_gz_bytes": 39229717,
     "xmltv_gz_limit_bytes": 104857600,
     "xmltv_gzip_level": 9,
     "xmltv_filtered_by_channel_name": true,
     "xmltv_under_limit": true
   },
-  "errors": []
+  "errors": [
+    {
+      "url": "https://www.apsattv.com/jplg.m3u",
+      "platform": "lgchannels",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/colg.m3u",
+      "platform": "lgchannels",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/pelg.m3u",
+      "platform": "lgchannels",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/brlg.m3u",
+      "platform": "lgchannels",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/pllg.m3u",
+      "platform": "lgchannels",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/krlg.m3u",
+      "platform": "lgchannels",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/uslg.m3u",
+      "platform": "lgchannels",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/gblg.m3u",
+      "platform": "lgchannels",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/frlg.m3u",
+      "platform": "lgchannels",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/sglg.m3u",
+      "platform": "lgchannels",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/delg.m3u",
+      "platform": "lgchannels",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/nolg.m3u",
+      "platform": "lgchannels",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/dklg.m3u",
+      "platform": "lgchannels",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/selg.m3u",
+      "platform": "lgchannels",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/ielg.m3u",
+      "platform": "lgchannels",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/calg.m3u",
+      "platform": "lgchannels",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/ptlg.m3u",
+      "platform": "lgchannels",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/itlg.m3u",
+      "platform": "lgchannels",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/chlg.m3u",
+      "platform": "lgchannels",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/nllg.m3u",
+      "platform": "lgchannels",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/cllg.m3u",
+      "platform": "lgchannels",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/inlg.m3u",
+      "platform": "lgchannels",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/nzlg.m3u",
+      "platform": "lgchannels",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/mxlg.m3u",
+      "platform": "lgchannels",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/eslg.m3u",
+      "platform": "lgchannels",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/belg.m3u",
+      "platform": "lgchannels",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/lulg.m3u",
+      "platform": "lgchannels",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/filg.m3u",
+      "platform": "lgchannels",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/aulg.m3u",
+      "platform": "lgchannels",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_ve.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    }
+  ]
 }
