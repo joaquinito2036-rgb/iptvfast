@@ -1,18 +1,29 @@
 {
-  "generated_at": "2026-07-30T13:41:19.091220+00:00",
-  "channel_count": 60077,
+  "generated_at": "2026-07-30T19:24:20.105608+00:00",
+  "channel_count": 59451,
   "platform_count": 41,
   "xmltv": {
     "xmltv_file": "all.xml.gz",
     "xmltv_max_days_requested": 7,
     "xmltv_days_written": 7,
-    "xmltv_channels_written": 6378,
-    "xmltv_programmes_written": 675731,
-    "xmltv_gz_bytes": 42324135,
+    "xmltv_channels_written": 6364,
+    "xmltv_programmes_written": 674916,
+    "xmltv_gz_bytes": 42379360,
     "xmltv_gz_limit_bytes": 104857600,
     "xmltv_gzip_level": 9,
     "xmltv_filtered_by_channel_name": true,
     "xmltv_under_limit": true
   },
-  "errors": []
+  "errors": [
+    {
+      "url": "https://www.apsattv.com/uslg.m3u",
+      "platform": "lgchannels",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/selg.m3u",
+      "platform": "lgchannels",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    }
+  ]
 }
