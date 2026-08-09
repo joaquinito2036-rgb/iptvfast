@@ -11,6 +11,8 @@ https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/d53d83b32f1c
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/61d31f5ea0524ab392ddf5c3ea37d678/playlist.m3u8
 #EXTINF:-1 tvg-id="ac4d81991d49b813" tvg-name="Agro360" group-title="movieark" platform="movieark" country="br",Agro360
 https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/688c65bde9e90f4e11bd8f35/bunnycontent_main.m3u8
+#EXTINF:-1 tvg-id="54ca563c6a6bfb32" tvg-name="Amor de Aluguel by Noverama TV" group-title="movieark" platform="movieark" country="br",Amor de Aluguel by Noverama TV
+https://amg00740-amg00740c38-amgplt0728.playout.now3.amagi.tv/SofaDigital/Amor_de_Aluguel_by_Noverama_TV/playlist.m3u8
 #EXTINF:-1 tvg-id="b178fad1f59c4ac1" tvg-name="Andromeda" group-title="movieark" platform="movieark" country="br",Andromeda
 https://dotjw4onyd4re.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-tcl/master.m3u8?ads.xumo_channelId=88884607
 #EXTINF:-1 tvg-id="59641b28c6da5a84" tvg-name="Assombrações" group-title="movieark" platform="movieark" country="br",Assombrações
@@ -113,8 +115,12 @@ https://amg26329-amg26329c1-amgplt0019.playout.now3.amagi.tv/playlist/amg26329-a
 https://d185afac7321401888ff3bb2fae7ccfc.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/TCL-br_GrjngoFilmesDeFaroeste/playlist.m3u8?ads.wurl_channel=1220&ads.wurl_name=GrjngoFilmesDeFaroeste&ads.coppa=0&ads.device_id={{DID}}&ads.dnt={{DNT}}&ads.us_privacy={{UsPrivacy}}&ads.gdpr={{Gdpr}}&ads.app_name={{appName}}&ads.app_bundle={{appPackage}}&ads.app_store_url={{AppStoreUrl}}&ads.ifa_type=%7BIFA_TYPE%7D&ads.custom=%7BCUSTOM%7D&ads.video_id=662b4f3e20e82808d84e0ae2&ads.consent={{GdprConsent}}
 #EXTINF:-1 tvg-id="c6a56eb1185ec332" tvg-name="Highway To Heaven" group-title="movieark" platform="movieark" country="br",Highway To Heaven
 https://dotjw4onyd4re.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-tcl/master.m3u8?ads.xumo_channelId=88884542
+#EXTINF:-1 tvg-id="a45df8ff6e7f0163" tvg-name="Homeful" group-title="movieark" platform="movieark" country="br",Homeful
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88884655/hls/master.m3u8?declaredCC1Language=pt&ads.xumo_channelId=88884655&ads.xumo_streamId=88884655
 #EXTINF:-1 tvg-id="69d71bdba231b2d6" tvg-name="Hunter x Hunter" group-title="movieark" platform="movieark" country="br",Hunter x Hunter
 https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68ed0ab66453bd1522dfe9b3/bunnycontent_main.m3u8
+#EXTINF:-1 tvg-id="43a1a6520ba25456" tvg-name="Inspetor Bugiganga" group-title="movieark" platform="movieark" country="br",Inspetor Bugiganga
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88884657/hls/master.m3u8?declaredCC1Language=pt&ads.xumo_channelId=88884657&ads.xumo_streamId=88884657
 #EXTINF:-1 tvg-id="cce71870d46f0e62" tvg-name="Inu Yasha" group-title="movieark" platform="movieark" country="br",Inu Yasha
 https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68ed0b996453bd1522dfe9b4/bunnycontent_main.m3u8
 #EXTINF:-1 tvg-id="5c925dbbfc5bbc42" tvg-name="Jesus" group-title="movieark" platform="movieark" country="br",Jesus
@@ -131,6 +137,8 @@ https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/cb18a3c3c72d
 https://amg00627-banijay-amg00627c9-tcl-us-3379.playouts.now.amagi.tv/playlist/amg00627-banijayfast-masterchefbrazil-tclus/playlist.m3u8
 #EXTINF:-1 tvg-id="423a14d5618f1a18" tvg-name="Medo TV" group-title="movieark" platform="movieark" country="br",Medo TV
 https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68c7aa9ee9e90f4e11dd42ea/bunnycontent_main.m3u8
+#EXTINF:-1 tvg-id="2acc5b638bb6e62f" tvg-name="Metropoles" group-title="movieark" platform="movieark" country="br",Metropoles
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/4c72cfc6aeba40e1a41e9f2ca0885131/playlist.m3u8
 #EXTINF:-1 tvg-id="8b71298037c225d2" tvg-name="Moranguinho" group-title="movieark" platform="movieark" country="br",Moranguinho
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/15d2d4a8f740492cb0f81cbb1feb5123/playlist.m3u8
 #EXTINF:-1 tvg-id="c4abba1217bfdfba" tvg-name="Moviesphere" group-title="movieark" platform="movieark" country="br",Moviesphere
@@ -165,10 +173,14 @@ https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/e8f0afbd0dc
 https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/69ba63ecdd8e6418eb54997f/bunnycontent_main.m3u8
 #EXTINF:-1 tvg-id="e1a9bea216d8211d" tvg-name="Os Arquivos do FBI" group-title="movieark" platform="movieark" country="br",Os Arquivos do FBI
 https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68773c30e9e90f4e11b35d9e/bunnycontent_main.m3u8
+#EXTINF:-1 tvg-id="a5dcd04dc9db50ab" tvg-name="Os Smurfs" group-title="movieark" platform="movieark" country="br",Os Smurfs
+https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/6a4625d4aba16f4fd4dba021/bunnycontent_main.m3u8
 #EXTINF:-1 tvg-id="32349ee759ca8d74" tvg-name="PFL MMA" group-title="movieark" platform="movieark" country="br",PFL MMA
 https://b829cb56.wurl.com/VENMLWJyX1BGTE1NQV9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="d395738da7c80200" tvg-name="Play TV" group-title="movieark" platform="movieark" country="br",Play TV
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/766a8419066b439d96b7895f14bf0271/playlist.m3u8
+#EXTINF:-1 tvg-id="7f91aba554566d3d" tvg-name="Pod Pah TV" group-title="movieark" platform="movieark" country="br",Pod Pah TV
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/955191be303b495281b2d8611a086dbb/playlist.m3u8
 #EXTINF:-1 tvg-id="86a570fb75dd8f01" tvg-name="Porta TV" group-title="movieark" platform="movieark" country="br",Porta TV
 https://amg00740-sofa-amg00740c22-tcl-br-9741.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="a9f504630051fdda" tvg-name="Qello Concerts by Stingray" group-title="movieark" platform="movieark" country="br",Qello Concerts by Stingray
@@ -217,6 +229,8 @@ https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/49a71877481f
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=12118
 #EXTINF:-1 tvg-id="6bd782c25d9c0421" tvg-name="Sobrevivi" group-title="movieark" platform="movieark" country="br",Sobrevivi
 https://amg00627-banijay-amg00627c52-tcl-br-10603.playouts.now.amagi.tv/playlist/amg00627-banijayfast-ishouldntbealivebr-tclbr/playlist.m3u8
+#EXTINF:-1 tvg-id="f3220f7d286ffaab" tvg-name="Sonic O Ouriço" group-title="movieark" platform="movieark" country="br",Sonic O Ouriço
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88884660/hls/master.m3u8?declaredCC1Language=pt&ads.xumo_channelId=88884660&ads.xumo_streamId=88884660
 #EXTINF:-1 tvg-id="ec31c39c5df3d387" tvg-name="Sony One Cinema" group-title="movieark" platform="movieark" country="br",Sony One Cinema
 https://3d51ba4c6dea4941b5e1ca10a471504c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/TCL-br_SonyOneCinema/playlist.m3u8?ads.wurl_channel=1585&ads.wurl_name=SonyOneCinema&ads.coppa=0&ads.device_id={{DID}}&ads.dnt={{DNT}}&ads.us_privacy={{UsPrivacy}}&ads.gdpr={{Gdpr}}&ads.app_name={{appName}}&ads.app_bundle={{appPackage}}&ads.app_store_url={{AppStoreUrl}}&ads.ifa_type=%7BIFA_TYPE%7D&ads.custom=%7BCUSTOM%7D&ads.video_id=6791ff38edf6320af87bf83e&ads.consent={{GdprConsent}}
 #EXTINF:-1 tvg-id="c715ead199a4b9a1" tvg-name="SONY ONE EMOÇÕES" group-title="movieark" platform="movieark" country="br",SONY ONE EMOÇÕES
