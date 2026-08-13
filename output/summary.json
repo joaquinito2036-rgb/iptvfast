@@ -1,18 +1,24 @@
 {
-  "generated_at": "2026-08-13T12:56:49.994478+00:00",
-  "channel_count": 60066,
-  "platform_count": 41,
+  "generated_at": "2026-08-13T19:03:44.181088+00:00",
+  "channel_count": 59918,
+  "platform_count": 40,
   "xmltv": {
     "xmltv_file": "all.xml.gz",
     "xmltv_max_days_requested": 7,
     "xmltv_days_written": 7,
     "xmltv_channels_written": 6374,
-    "xmltv_programmes_written": 668821,
-    "xmltv_gz_bytes": 41671604,
+    "xmltv_programmes_written": 670163,
+    "xmltv_gz_bytes": 41933541,
     "xmltv_gz_limit_bytes": 104857600,
     "xmltv_gzip_level": 9,
     "xmltv_filtered_by_channel_name": true,
     "xmltv_under_limit": true
   },
-  "errors": []
+  "errors": [
+    {
+      "url": "https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PBS/.app.json.gz",
+      "platform": "pbs",
+      "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"
+    }
+  ]
 }
