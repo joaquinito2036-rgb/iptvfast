@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-17T06:44:53.449075+00:00",
-  "channel_count": 59764,
-  "platform_count": 39,
+  "generated_at": "2026-08-17T12:42:14.457413+00:00",
+  "channel_count": 38596,
+  "platform_count": 38,
   "xmltv": {
     "xmltv_file": "all.xml.gz",
     "xmltv_max_days_requested": 7,
     "xmltv_days_written": 7,
-    "xmltv_channels_written": 6365,
-    "xmltv_programmes_written": 651531,
-    "xmltv_gz_bytes": 41097824,
+    "xmltv_channels_written": 6288,
+    "xmltv_programmes_written": 646157,
+    "xmltv_gz_bytes": 40514251,
     "xmltv_gz_limit_bytes": 104857600,
     "xmltv_gzip_level": 9,
     "xmltv_filtered_by_channel_name": true,
@@ -16,14 +16,559 @@
   },
   "errors": [
     {
-      "url": "https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PBS/.app.json.gz",
-      "platform": "pbs",
-      "error": "ClientResponseError(RequestInfo(url=URL('https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PBS/.app.json.gz'), method='GET', headers=<CIMultiDictProxy('Host': 'github.com', 'User-Agent': 'IPTVFast/1.0 (+https://github.com/your-user/iptvfast)', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate')>, real_url=URL('https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PBS/.app.json.gz')), (), status=404, message='Not Found', headers=<CIMultiDictProxy('Date': 'Mon, 17 Aug 2026 06:39:57 GMT', 'Content-Type': 'text/html; charset=utf-8', 'Vary': 'X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, X-Requested-With, X-GitHub-Client-Version,Accept-Encoding, Accept, X-Requested-With', 'Cache-Control': 'no-cache', 'Strict-Transport-Security': 'max-age=31536000; includeSubdomains; preload', 'X-Frame-Options': 'deny', 'X-Content-Type-Options': 'nosniff', 'X-XSS-Protection': '0', 'Referrer-Policy': 'no-referrer-when-downgrade', 'Content-Security-Policy': \"default-src 'none'; base-uri 'self'; child-src github.githubassets.com github.com/assets-cdn/worker/ github.com/assets/ gist.github.com/assets-cdn/worker/; connect-src 'self' uploads.github.com www.githubstatus.com collector.github.com raw.githubusercontent.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com *.rel.tunnels.api.visualstudio.com wss://*.rel.tunnels.api.visualstudio.com github.githubassets.com objects-origin.githubusercontent.com copilot-proxy.githubusercontent.com proxy.individual.githubcopilot.com proxy.business.githubcopilot.com proxy.enterprise.githubcopilot.com *.actions.githubusercontent.com wss://*.actions.githubusercontent.com productionresultssa0.blob.core.windows.net productionresultssa1.blob.core.windows.net productionresultssa2.blob.core.windows.net productionresultssa3.blob.core.windows.net productionresultssa4.blob.core.windows.net productionresultssa5.blob.core.windows.net productionresultssa6.blob.core.windows.net productionresultssa7.blob.core.windows.net productionresultssa8.blob.core.windows.net productionresultssa9.blob.core.windows.net productionresultssa10.blob.core.windows.net productionresultssa11.blob.core.windows.net productionresultssa12.blob.core.windows.net productionresultssa13.blob.core.windows.net productionresultssa14.blob.core.windows.net productionresultssa15.blob.core.windows.net productionresultssa16.blob.core.windows.net productionresultssa17.blob.core.windows.net productionresultssa18.blob.core.windows.net productionresultssa19.blob.core.windows.net github-production-repository-image-32fea6.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com wss://alive.github.com wss://alive-staging.github.com api.githubcopilot.com api.individual.githubcopilot.com api.business.githubcopilot.com api.enterprise.githubcopilot.com wss://production-copilot-host.webpubsub.azure.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com copilot-workspace.githubnext.com objects-origin.githubusercontent.com; frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com notebooks.githubusercontent.com; img-src 'self' data: blob: github.githubassets.com media.githubusercontent.com camo.githubusercontent.com identicons.github.com avatars.githubusercontent.com private-avatars.githubusercontent.com github-cloud.s3.amazonaws.com objects.githubusercontent.com release-assets.githubusercontent.com secured-user-images.githubusercontent.com user-images.githubusercontent.com private-user-images.githubusercontent.com opengraph.githubassets.com repository-images.githubusercontent.com marketplace-screenshots.githubusercontent.com copilotprodattachments.blob.core.windows.net/github-production-copilot-attachments/ github-production-user-asset-6210df.s3.amazonaws.com customer-stories-feed.github.com spotlights-feed.github.com explore-feed.github.com objects-origin.githubusercontent.com *.githubusercontent.com; manifest-src 'self'; media-src github.com user-images.githubusercontent.com secured-user-images.githubusercontent.com private-user-images.githubusercontent.com github-production-user-asset-6210df.s3.amazonaws.com gist.github.com github.githubassets.com; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; upgrade-insecure-requests; worker-src github.githubassets.com github.com/assets-cdn/worker/ github.com/assets/ gist.github.com/assets-cdn/worker/\", 'Content-Encoding': 'gzip', 'Server': 'github.com', 'X-GitHub-Request-Id': '3629:3FB718:2AD16E:3B0273:6A82ACBD', 'x-github-edge-region': 'iad', 'Transfer-Encoding': 'chunked')>)"
+      "url": "https://www.apsattv.com/whaletvplus_dj.m3u",
+      "platform": "whaletvplus",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_de.m3u",
+      "platform": "whaletvplus",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_cw.m3u",
+      "platform": "whaletvplus",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_dz.m3u",
+      "platform": "whaletvplus",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_eh.m3u",
+      "platform": "whaletvplus",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_ec.m3u",
+      "platform": "whaletvplus",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_er.m3u",
+      "platform": "whaletvplus",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_dk.m3u",
+      "platform": "whaletvplus",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_do.m3u",
+      "platform": "whaletvplus",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_es.m3u",
+      "platform": "whaletvplus",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_eg.m3u",
+      "platform": "whaletvplus",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_dm.m3u",
+      "platform": "whaletvplus",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_cx.m3u",
+      "platform": "whaletvplus",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_cy.m3u",
+      "platform": "whaletvplus",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_cz.m3u",
+      "platform": "whaletvplus",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_ee.m3u",
+      "platform": "whaletvplus",
+      "error": "ServerDisconnectedError('Server disconnected')"
+    },
+    {
+      "url": "https://www.apsattv.com/localnow.m3u",
+      "platform": "localnow",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_cr.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_ch.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_cn.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_ca.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_cg.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_cl.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_cv.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_cf.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_cu.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_co.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_cd.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_cm.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_ci.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_fr.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_fo.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_ga.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_gf.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_gl.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_fk.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_et.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_gi.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_gh.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_gd.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_ge.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_gb.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_fj.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_fm.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_gg.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_fi.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_gm.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_gn.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_hn.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_ht.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_hr.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_gt.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_hm.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_hk.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_gw.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_gy.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_gp.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_gs.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_gu.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_gr.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_gq.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_jp.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_ke.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_it.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_jo.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_je.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_jm.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_is.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_ir.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_iq.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_io.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_in.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_im.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_hu.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_il.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_ie.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_id.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_kg.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_kh.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_kn.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_km.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_ki.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_lk.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_li.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_la.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_lc.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_lb.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_kw.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_ky.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_kz.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_kp.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_kr.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_ml.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_mk.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_mh.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_mg.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_mf.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_md.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_me.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_mc.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_ma.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_ly.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_lv.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_lu.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_lt.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_ls.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_lr.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_mm.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
+    },
+    {
+      "url": "https://www.apsattv.com/whaletvplus_mn.m3u",
+      "platform": "whaletvplus",
+      "error": "TimeoutError()"
     },
     {
       "url": "https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PBS/.kids_app.json.gz",
       "platform": "pbs_kids",
-      "error": "ClientResponseError(RequestInfo(url=URL('https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PBS/.kids_app.json.gz'), method='GET', headers=<CIMultiDictProxy('Host': 'github.com', 'User-Agent': 'IPTVFast/1.0 (+https://github.com/your-user/iptvfast)', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate')>, real_url=URL('https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PBS/.kids_app.json.gz')), (), status=404, message='Not Found', headers=<CIMultiDictProxy('Date': 'Mon, 17 Aug 2026 06:39:57 GMT', 'Content-Type': 'text/html; charset=utf-8', 'Vary': 'X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, X-Requested-With, X-GitHub-Client-Version,Accept-Encoding, Accept, X-Requested-With', 'Cache-Control': 'no-cache', 'Strict-Transport-Security': 'max-age=31536000; includeSubdomains; preload', 'X-Frame-Options': 'deny', 'X-Content-Type-Options': 'nosniff', 'X-XSS-Protection': '0', 'Referrer-Policy': 'no-referrer-when-downgrade', 'Content-Security-Policy': \"default-src 'none'; base-uri 'self'; child-src github.githubassets.com github.com/assets-cdn/worker/ github.com/assets/ gist.github.com/assets-cdn/worker/; connect-src 'self' uploads.github.com www.githubstatus.com collector.github.com raw.githubusercontent.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com *.rel.tunnels.api.visualstudio.com wss://*.rel.tunnels.api.visualstudio.com github.githubassets.com objects-origin.githubusercontent.com copilot-proxy.githubusercontent.com proxy.individual.githubcopilot.com proxy.business.githubcopilot.com proxy.enterprise.githubcopilot.com *.actions.githubusercontent.com wss://*.actions.githubusercontent.com productionresultssa0.blob.core.windows.net productionresultssa1.blob.core.windows.net productionresultssa2.blob.core.windows.net productionresultssa3.blob.core.windows.net productionresultssa4.blob.core.windows.net productionresultssa5.blob.core.windows.net productionresultssa6.blob.core.windows.net productionresultssa7.blob.core.windows.net productionresultssa8.blob.core.windows.net productionresultssa9.blob.core.windows.net productionresultssa10.blob.core.windows.net productionresultssa11.blob.core.windows.net productionresultssa12.blob.core.windows.net productionresultssa13.blob.core.windows.net productionresultssa14.blob.core.windows.net productionresultssa15.blob.core.windows.net productionresultssa16.blob.core.windows.net productionresultssa17.blob.core.windows.net productionresultssa18.blob.core.windows.net productionresultssa19.blob.core.windows.net github-production-repository-image-32fea6.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com wss://alive.github.com wss://alive-staging.github.com api.githubcopilot.com api.individual.githubcopilot.com api.business.githubcopilot.com api.enterprise.githubcopilot.com wss://production-copilot-host.webpubsub.azure.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com copilot-workspace.githubnext.com objects-origin.githubusercontent.com; frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com notebooks.githubusercontent.com; img-src 'self' data: blob: github.githubassets.com media.githubusercontent.com camo.githubusercontent.com identicons.github.com avatars.githubusercontent.com private-avatars.githubusercontent.com github-cloud.s3.amazonaws.com objects.githubusercontent.com release-assets.githubusercontent.com secured-user-images.githubusercontent.com user-images.githubusercontent.com private-user-images.githubusercontent.com opengraph.githubassets.com repository-images.githubusercontent.com marketplace-screenshots.githubusercontent.com copilotprodattachments.blob.core.windows.net/github-production-copilot-attachments/ github-production-user-asset-6210df.s3.amazonaws.com customer-stories-feed.github.com spotlights-feed.github.com explore-feed.github.com objects-origin.githubusercontent.com *.githubusercontent.com; manifest-src 'self'; media-src github.com user-images.githubusercontent.com secured-user-images.githubusercontent.com private-user-images.githubusercontent.com github-production-user-asset-6210df.s3.amazonaws.com gist.github.com github.githubassets.com; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; upgrade-insecure-requests; worker-src github.githubassets.com github.com/assets-cdn/worker/ github.com/assets/ gist.github.com/assets-cdn/worker/\", 'Content-Encoding': 'gzip', 'Server': 'github.com', 'X-GitHub-Request-Id': '3607:1F043B:295052:38B6C3:6A82ACBD', 'x-github-edge-region': 'iad', 'Transfer-Encoding': 'chunked')>)"
+      "error": "ClientResponseError(RequestInfo(url=URL('https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PBS/.kids_app.json.gz'), method='GET', headers=<CIMultiDictProxy('Host': 'github.com', 'User-Agent': 'IPTVFast/1.0 (+https://github.com/your-user/iptvfast)', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate')>, real_url=URL('https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PBS/.kids_app.json.gz')), (), status=404, message='Not Found', headers=<CIMultiDictProxy('Date': 'Mon, 17 Aug 2026 12:28:33 GMT', 'Content-Type': 'text/html; charset=utf-8', 'Vary': 'X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, X-Requested-With, X-GitHub-Client-Version,Accept-Encoding, Accept, X-Requested-With', 'Cache-Control': 'no-cache', 'Strict-Transport-Security': 'max-age=31536000; includeSubdomains; preload', 'X-Frame-Options': 'deny', 'X-Content-Type-Options': 'nosniff', 'X-XSS-Protection': '0', 'Referrer-Policy': 'no-referrer-when-downgrade', 'Content-Security-Policy': \"default-src 'none'; base-uri 'self'; child-src github.githubassets.com github.com/assets-cdn/worker/ github.com/assets/ gist.github.com/assets-cdn/worker/; connect-src 'self' uploads.github.com www.githubstatus.com collector.github.com raw.githubusercontent.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com *.rel.tunnels.api.visualstudio.com wss://*.rel.tunnels.api.visualstudio.com github.githubassets.com objects-origin.githubusercontent.com copilot-proxy.githubusercontent.com proxy.individual.githubcopilot.com proxy.business.githubcopilot.com proxy.enterprise.githubcopilot.com *.actions.githubusercontent.com wss://*.actions.githubusercontent.com productionresultssa0.blob.core.windows.net productionresultssa1.blob.core.windows.net productionresultssa2.blob.core.windows.net productionresultssa3.blob.core.windows.net productionresultssa4.blob.core.windows.net productionresultssa5.blob.core.windows.net productionresultssa6.blob.core.windows.net productionresultssa7.blob.core.windows.net productionresultssa8.blob.core.windows.net productionresultssa9.blob.core.windows.net productionresultssa10.blob.core.windows.net productionresultssa11.blob.core.windows.net productionresultssa12.blob.core.windows.net productionresultssa13.blob.core.windows.net productionresultssa14.blob.core.windows.net productionresultssa15.blob.core.windows.net productionresultssa16.blob.core.windows.net productionresultssa17.blob.core.windows.net productionresultssa18.blob.core.windows.net productionresultssa19.blob.core.windows.net github-production-repository-image-32fea6.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com wss://alive.github.com wss://alive-staging.github.com api.githubcopilot.com api.individual.githubcopilot.com api.business.githubcopilot.com api.enterprise.githubcopilot.com wss://production-copilot-host.webpubsub.azure.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com copilot-workspace.githubnext.com objects-origin.githubusercontent.com; frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com notebooks.githubusercontent.com; img-src 'self' data: blob: github.githubassets.com media.githubusercontent.com camo.githubusercontent.com identicons.github.com avatars.githubusercontent.com private-avatars.githubusercontent.com github-cloud.s3.amazonaws.com objects.githubusercontent.com release-assets.githubusercontent.com secured-user-images.githubusercontent.com user-images.githubusercontent.com private-user-images.githubusercontent.com opengraph.githubassets.com repository-images.githubusercontent.com marketplace-screenshots.githubusercontent.com copilotprodattachments.blob.core.windows.net/github-production-copilot-attachments/ github-production-user-asset-6210df.s3.amazonaws.com customer-stories-feed.github.com spotlights-feed.github.com explore-feed.github.com objects-origin.githubusercontent.com *.githubusercontent.com; manifest-src 'self'; media-src github.com user-images.githubusercontent.com secured-user-images.githubusercontent.com private-user-images.githubusercontent.com github-production-user-asset-6210df.s3.amazonaws.com gist.github.com github.githubassets.com; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; upgrade-insecure-requests; worker-src github.githubassets.com github.com/assets-cdn/worker/ github.com/assets/ gist.github.com/assets-cdn/worker/\", 'Content-Encoding': 'gzip', 'Server': 'github.com', 'X-GitHub-Request-Id': 'FA6C:9352B:74E3E2:A3A451:6A82FE71', 'x-github-edge-region': 'iad', 'Transfer-Encoding': 'chunked')>)"
+    },
+    {
+      "url": "https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PBS/.app.json.gz",
+      "platform": "pbs",
+      "error": "ClientResponseError(RequestInfo(url=URL('https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PBS/.app.json.gz'), method='GET', headers=<CIMultiDictProxy('Host': 'github.com', 'User-Agent': 'IPTVFast/1.0 (+https://github.com/your-user/iptvfast)', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate')>, real_url=URL('https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PBS/.app.json.gz')), (), status=404, message='Not Found', headers=<CIMultiDictProxy('Date': 'Mon, 17 Aug 2026 12:28:33 GMT', 'Content-Type': 'text/html; charset=utf-8', 'Vary': 'X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, X-Requested-With, X-GitHub-Client-Version,Accept-Encoding, Accept, X-Requested-With', 'Cache-Control': 'no-cache', 'Strict-Transport-Security': 'max-age=31536000; includeSubdomains; preload', 'X-Frame-Options': 'deny', 'X-Content-Type-Options': 'nosniff', 'X-XSS-Protection': '0', 'Referrer-Policy': 'no-referrer-when-downgrade', 'Content-Security-Policy': \"default-src 'none'; base-uri 'self'; child-src github.githubassets.com github.com/assets-cdn/worker/ github.com/assets/ gist.github.com/assets-cdn/worker/; connect-src 'self' uploads.github.com www.githubstatus.com collector.github.com raw.githubusercontent.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com *.rel.tunnels.api.visualstudio.com wss://*.rel.tunnels.api.visualstudio.com github.githubassets.com objects-origin.githubusercontent.com copilot-proxy.githubusercontent.com proxy.individual.githubcopilot.com proxy.business.githubcopilot.com proxy.enterprise.githubcopilot.com *.actions.githubusercontent.com wss://*.actions.githubusercontent.com productionresultssa0.blob.core.windows.net productionresultssa1.blob.core.windows.net productionresultssa2.blob.core.windows.net productionresultssa3.blob.core.windows.net productionresultssa4.blob.core.windows.net productionresultssa5.blob.core.windows.net productionresultssa6.blob.core.windows.net productionresultssa7.blob.core.windows.net productionresultssa8.blob.core.windows.net productionresultssa9.blob.core.windows.net productionresultssa10.blob.core.windows.net productionresultssa11.blob.core.windows.net productionresultssa12.blob.core.windows.net productionresultssa13.blob.core.windows.net productionresultssa14.blob.core.windows.net productionresultssa15.blob.core.windows.net productionresultssa16.blob.core.windows.net productionresultssa17.blob.core.windows.net productionresultssa18.blob.core.windows.net productionresultssa19.blob.core.windows.net github-production-repository-image-32fea6.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com wss://alive.github.com wss://alive-staging.github.com api.githubcopilot.com api.individual.githubcopilot.com api.business.githubcopilot.com api.enterprise.githubcopilot.com wss://production-copilot-host.webpubsub.azure.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com copilot-workspace.githubnext.com objects-origin.githubusercontent.com; frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com notebooks.githubusercontent.com; img-src 'self' data: blob: github.githubassets.com media.githubusercontent.com camo.githubusercontent.com identicons.github.com avatars.githubusercontent.com private-avatars.githubusercontent.com github-cloud.s3.amazonaws.com objects.githubusercontent.com release-assets.githubusercontent.com secured-user-images.githubusercontent.com user-images.githubusercontent.com private-user-images.githubusercontent.com opengraph.githubassets.com repository-images.githubusercontent.com marketplace-screenshots.githubusercontent.com copilotprodattachments.blob.core.windows.net/github-production-copilot-attachments/ github-production-user-asset-6210df.s3.amazonaws.com customer-stories-feed.github.com spotlights-feed.github.com explore-feed.github.com objects-origin.githubusercontent.com *.githubusercontent.com; manifest-src 'self'; media-src github.com user-images.githubusercontent.com secured-user-images.githubusercontent.com private-user-images.githubusercontent.com github-production-user-asset-6210df.s3.amazonaws.com gist.github.com github.githubassets.com; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; upgrade-insecure-requests; worker-src github.githubassets.com github.com/assets-cdn/worker/ github.com/assets/ gist.github.com/assets-cdn/worker/\", 'Content-Encoding': 'gzip', 'Server': 'github.com', 'X-GitHub-Request-Id': 'FA6D:20F47E:72E1C4:A147A9:6A82FE71', 'x-github-edge-region': 'iad', 'Transfer-Encoding': 'chunked')>)"
     }
   ]
 }
