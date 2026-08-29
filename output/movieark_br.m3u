@@ -159,6 +159,8 @@ https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/midRollAndPipA
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/684a4d4563824ac2ab2a93c4ddd9d4ed/playlist.m3u8
 #EXTINF:-1 tvg-id="98ebee2a4442391c" tvg-name="Nerd Show" group-title="movieark" platform="movieark" country="br",Nerd Show
 https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/690c7a306453bd1522fa6018/bunnycontent_main.m3u8
+#EXTINF:-1 tvg-id="c045edc41bcf52cc" tvg-name="Netmovies" group-title="movieark" platform="movieark" country="br",Netmovies
+https://ffalconnow.api.leiniao.com/media-channel-api/ffalcon/RestreamLive/v1/6a731cc3056f7bc47781e9fc/main.m3u8
 #EXTINF:-1 tvg-id="6b75dc2d95a4dd58" tvg-name="New Brasil" group-title="movieark" platform="movieark" country="br",New Brasil
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/midRollAndPipAd/49587eb5acfb435cac34dcfc820bf564/playlist.m3u8
 #EXTINF:-1 tvg-id="0a2f1ac755e07504" tvg-name="Novela Jesus" group-title="movieark" platform="movieark" country="br",Novela Jesus
@@ -239,6 +241,8 @@ https://1bc1c9c406cd46579d83a6c41b2036ed.mediatailor.us-east-1.amazonaws.com/v1/
 https://dad6889f7751402bb70007a5878f0aaf.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/TCL-br_SonyOneSharkTankBrasil/playlist.m3u8
 #EXTINF:-1 tvg-id="a3eabcd9b1b0a6c4" tvg-name="Spark TV Luz E Amor" group-title="movieark" platform="movieark" country="br",Spark TV Luz E Amor
 https://17aaa99d12174024acbe552cc2f26b17.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/TCL-br_SparkTVLuzyAmor/playlist.m3u8?ads.wurl_channel=1042&ads.wurl_name=SparkTVLuzyAmor&ads.coppa=0&ads.device_id={{DID}}&ads.dnt={{DNT}}&ads.us_privacy={{UsPrivacy}}&ads.gdpr={{Gdpr}}&ads.app_name={{appName}}&ads.app_bundle={{appPackage}}&ads.app_store_url={{AppStoreUrl}}&ads.ifa_type=%7BIFA_TYPE%7D&ads.custom=%7BCUSTOM%7D&ads.video_id=66ebc0dcd4f4b36851a814b9&ads.consent={{GdprConsent}}
+#EXTINF:-1 tvg-id="2ef7bd8d2daebdbc" tvg-name="Sporty Net" group-title="movieark" platform="movieark" country="br",Sporty Net
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/fe87ffbfed544016861c529f5324cfb4/playlist.m3u8
 #EXTINF:-1 tvg-id="66663da271b5cbb6" tvg-name="Stingray Brazilian Pop" group-title="movieark" platform="movieark" country="br",Stingray Brazilian Pop
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/bb3311a60bfc4354bcfdcc56f132c6e6/playlist.m3u8
 #EXTINF:-1 tvg-id="82ff93f0201da0d9" tvg-name="Stingray Classica" group-title="movieark" platform="movieark" country="br",Stingray Classica
