@@ -199,11 +199,6 @@ https://kqeddt.lls.pbs.org/lls/kqeddt/kqeddt-dash-drm/dash-drm.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_key=https://proxy.drm.pbs.org/license/widevine/4f6c1fc9-455c-4bee-b81a-81e6db77c4c2-dash
 https://krwgdt.lls.pbs.org/lls/krwgdt/krwgdt-dash-drm/dash-drm.mpd
-#EXTINF:-1 tvg-id="d0e78e5d887ed8a4" tvg-name="KSMQ" tvg-logo="https://image.pbs.org/stations/ksmq-white-logo-0WxpJKI.png" group-title="pbs" platform="pbs" country="all",KSMQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_key=https://proxy.drm.pbs.org/license/widevine/9077c26d-0b62-4124-9ea4-81977e30abdb-dash
-https://ksmqdt.lls.pbs.org/lls/ksmqdt/ksmqdt-dash-drm/dash-drm.mpd
 #EXTINF:-1 tvg-id="fb76ba1acce25888" tvg-name="KSPS PBS" tvg-logo="https://image.pbs.org/stations/ksps-white-logo-hiGSqpb.png" group-title="pbs" platform="pbs" country="all",KSPS PBS
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -254,6 +249,11 @@ https://wcbbdt.lls.pbs.org/lls/wcbbdt/wcbbdt-dash-drm/dash-drm.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_key=https://proxy.drm.pbs.org/license/widevine/f0bec590-7c64-43fd-81f2-ddb149d0125f-dash
 https://wmvsdt.lls.pbs.org/lls/wmvsdt/wmvsdt-dash-drm/dash-drm.mpd
+#EXTINF:-1 tvg-id="c7725bc1762d1ee0" tvg-name="Minnesota PBS" tvg-logo="https://image.pbs.org/stations/ktca-white-logo-pRSqmad.png" group-title="pbs" platform="pbs" country="all",Minnesota PBS
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_key=https://proxy.drm.pbs.org/license/widevine/39e4fe71-a415-4a62-935e-3424f313e2d9-dash
+https://ktcadt.lls.pbs.org/lls/ktcadt/ktcadt-dash-drm/dash-drm.mpd
 #EXTINF:-1 tvg-id="66ca68ebca970558" tvg-name="Montana PBS" tvg-logo="https://image.pbs.org/stations/kusm-white-logo-cvpuZZW.png" group-title="pbs" platform="pbs" country="all",Montana PBS
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -469,11 +469,6 @@ https://wptddt.lls.pbs.org/lls/wptddt/wptddt-dash-drm/dash-drm.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_key=https://proxy.drm.pbs.org/license/widevine/1e636e1f-bc6e-4a41-820a-56b13e60d0ca-dash
 https://wnetdt.lls.pbs.org/lls/wnetdt/wnetdt-dash-drm/dash-drm.mpd
-#EXTINF:-1 tvg-id="ee6be69baf288c21" tvg-name="Twin Cities PBS" tvg-logo="https://image.pbs.org/stations/ktca-black-logo-fX9jA0G.png" group-title="pbs" platform="pbs" country="all",Twin Cities PBS
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_key=https://proxy.drm.pbs.org/license/widevine/39e4fe71-a415-4a62-935e-3424f313e2d9-dash
-https://ktcadt.lls.pbs.org/lls/ktcadt/ktcadt-dash-drm/dash-drm.mpd
 #EXTINF:-1 tvg-id="d701f43bde4357a2" tvg-name="Valley PBS" tvg-logo="https://image.pbs.org/stations/kvpt-black-logo-kVIF9q3.png" group-title="pbs" platform="pbs" country="all",Valley PBS
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
