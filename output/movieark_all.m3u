@@ -87,6 +87,14 @@ https://eae43398.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMLW
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/a75bb3eed9b546a49f3978312da537ae/playlist.m3u8
 #EXTINF:-1 tvg-id="fddbdc009e8a4182" tvg-name="FIFA+" group-title="movieark" platform="movieark" country="br",FIFA+
 https://2eefbe2c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMLWJyX0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="db99df84bf5de1b3" tvg-name="Film Plus" group-title="movieark" platform="movieark" country="br",Film Plus
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/aab19982787e483a8350a1ba06826cab/playlist.m3u8
+#EXTINF:-1 tvg-id="c6e9be6dd76a589f" tvg-name="Film Plus Action" group-title="movieark" platform="movieark" country="br",Film Plus Action
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/3454e59a9e684ebfa9efc1a3feb15bb7/playlist.m3u8
+#EXTINF:-1 tvg-id="cf70676938bccffe" tvg-name="Film Plus Emotion" group-title="movieark" platform="movieark" country="br",Film Plus Emotion
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/c2483f88d9b34e3abbea1544f72ddb16/playlist.m3u8
+#EXTINF:-1 tvg-id="19e7813b6e51627b" tvg-name="Film Plus Family" group-title="movieark" platform="movieark" country="br",Film Plus Family
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/ad9587541ca94b08aefe8b63f11537fa/playlist.m3u8
 #EXTINF:-1 tvg-id="304a2b35bf442781" tvg-name="Filmelier TV" group-title="movieark" platform="movieark" country="br",Filmelier TV
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/59df292b969c470fb6201c8c99dc02de/playlist.m3u8
 #EXTINF:-1 tvg-id="30570475d9bbcd1a" tvg-name="Filmelier TV Esperança" group-title="movieark" platform="movieark" country="br",Filmelier TV Esperança
