@@ -95,6 +95,8 @@ https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/3454e59a9e6
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/c2483f88d9b34e3abbea1544f72ddb16/playlist.m3u8
 #EXTINF:-1 tvg-id="19e7813b6e51627b" tvg-name="Film Plus Family" group-title="movieark" platform="movieark" country="br",Film Plus Family
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/ad9587541ca94b08aefe8b63f11537fa/playlist.m3u8
+#EXTINF:-1 tvg-id="20f5967b070ab499" tvg-name="Film Plus Shorts" group-title="movieark" platform="movieark" country="br",Film Plus Shorts
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/fc0d4c63094142a2afe9600b98fda7b2/playlist.m3u8
 #EXTINF:-1 tvg-id="304a2b35bf442781" tvg-name="Filmelier TV" group-title="movieark" platform="movieark" country="br",Filmelier TV
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/59df292b969c470fb6201c8c99dc02de/playlist.m3u8
 #EXTINF:-1 tvg-id="30570475d9bbcd1a" tvg-name="Filmelier TV Esperança" group-title="movieark" platform="movieark" country="br",Filmelier TV Esperança
@@ -191,6 +193,8 @@ https://b829cb56.wurl.com/VENMLWJyX1BGTE1NQV9ITFM/playlist.m3u8
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/766a8419066b439d96b7895f14bf0271/playlist.m3u8
 #EXTINF:-1 tvg-id="7f91aba554566d3d" tvg-name="Pod Pah TV" group-title="movieark" platform="movieark" country="br",Pod Pah TV
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/955191be303b495281b2d8611a086dbb/playlist.m3u8
+#EXTINF:-1 tvg-id="d22c6043a7498ce6" tvg-name="Pokemon" group-title="movieark" platform="movieark" country="br",Pokemon
+https://amg01927-amg01927c5-amgplt0728.playout.now3.amagi.tv/ts-us-w2-n2/playlist/amg01927-amg01927c5-amgplt0728/playlist.m3u8
 #EXTINF:-1 tvg-id="86a570fb75dd8f01" tvg-name="Porta TV" group-title="movieark" platform="movieark" country="br",Porta TV
 https://amg00740-sofa-amg00740c22-tcl-br-9741.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="a9f504630051fdda" tvg-name="Qello Concerts by Stingray" group-title="movieark" platform="movieark" country="br",Qello Concerts by Stingray
@@ -319,5 +323,7 @@ https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/ac78411d160e
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/1edb59fc36da4004ba4452a3e00993b2/playlist.m3u8
 #EXTINF:-1 tvg-id="3abf8ffe4a2b1034" tvg-name="World Poker Tour Portuguese" group-title="movieark" platform="movieark" country="br",World Poker Tour Portuguese
 https://d8nb73nfb7dd5.cloudfront.net/scheduler/scheduleMaster/466.m3u8
+#EXTINF:-1 tvg-id="f76c33dcc0b83157" tvg-name="X Sports" group-title="movieark" platform="movieark" country="br",X Sports
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/bd3a464ef79742bc9a6e0266c0ceb668/playlist.m3u8
 #EXTINF:-1 tvg-id="65e62c0080450c44" tvg-name="Z Nation" group-title="movieark" platform="movieark" country="br",Z Nation
 https://dotjw4onyd4re.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-tcl/master.m3u8?ads.xumo_channelId=88884609
