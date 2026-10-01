@@ -21,10 +21,14 @@ https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68773ba2e9e9
 https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68c7aa01e9e90f4e11dd3dee/bunnycontent_main.m3u8
 #EXTINF:-1 tvg-id="5d0f93b4b3f37e7d" tvg-name="Band News FM" group-title="movieark" platform="movieark" country="br",Band News FM
 https://amg29547-amg29547c2-amgplt0728.playout.now3.amagi.tv/bndnws-std-cc/playlist.m3u8?dnt={{DNT}}&app_bundle={{appPackage}}&app_name={{appName}}&app_store_url={{AppStoreUrl}}&network_name=tinykernel&did={{DID}}&device_make={{DeviceMake}}&device_model={{DeviceModel}}&gdpr={{Gdpr}}&us_privacy={{UsPrivacy}}&GdprConsent={{GdprConsent}}&app_domain={{AppDomain}}&coppa={{Coppa}}&app_version={{AppVersion}}&app_cat={{AppCat}}&ifa_type={{IFA_TYPE}}
+#EXTINF:-1 tvg-id="30e3534d32f96fe9" tvg-name="Bandeirantes" group-title="movieark" platform="movieark" country="br",Bandeirantes
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/18bf0c9b77d443ebba97ff7e27381394/playlist.m3u8
 #EXTINF:-1 tvg-id="4ca0ec0097b738cf" tvg-name="Bloomberg TV+" group-title="movieark" platform="movieark" country="br",Bloomberg TV+
 https://94e96a7d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMLWJyX0Jsb29tYmVyZ1RWUGx1c19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="8dd690496131824f" tvg-name="BM&C NEWS" group-title="movieark" platform="movieark" country="br",BM&C NEWS
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/8887808ea3454f8ab4a529620ad0c3c2/playlist.m3u8
+#EXTINF:-1 tvg-id="10df709b4d0d9b37" tvg-name="Booh!" group-title="movieark" platform="movieark" country="br",Booh!
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/ae48d90078af4f5e960904810501e546/playlist.m3u8
 #EXTINF:-1 tvg-id="3df9b6932a568116" tvg-name="BR IN TV" group-title="movieark" platform="movieark" country="br",BR IN TV
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/0b954aa903624b3a8fb185f45e94819c/playlist.m3u8
 #EXTINF:-1 tvg-id="790c1d25a4f14a6c" tvg-name="Canal do Artesanato" group-title="movieark" platform="movieark" country="br",Canal do Artesanato
@@ -55,6 +59,8 @@ https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/cda1dd579f4c
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/97d678e115854c73b5bfaf87c2d43956/playlist.m3u8
 #EXTINF:-1 tvg-id="091e94a45cedab56" tvg-name="CNN Brasil Money" group-title="movieark" platform="movieark" country="br",CNN Brasil Money
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/050d362b39c14375a498bf75e6631d85/playlist.m3u8
+#EXTINF:-1 tvg-id="6bcf8ad2407c842e" tvg-name="CSI New York" group-title="movieark" platform="movieark" country="br",CSI New York
+https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/6aaff44baba16f4fd4fd83b1/bunnycontent_main.m3u8
 #EXTINF:-1 tvg-id="9bdbad77b5483917" tvg-name="Cultne.tv" group-title="movieark" platform="movieark" country="br",Cultne.tv
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/02b9186bdf434d889ccb380a153ed7ba/playlist.m3u8
 #EXTINF:-1 tvg-id="8eed9fd33ceaca1b" tvg-name="Curta! Humanidades" group-title="movieark" platform="movieark" country="br",Curta! Humanidades
