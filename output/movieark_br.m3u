@@ -53,8 +53,8 @@ https://ffalconnow-us.api.leiniao.com/media-channel-api/ffalcon/RestreamLive/v1/
 https://ffalconnow-us.api.leiniao.com/media-channel-api/ffalcon/RestreamLive/v1/685e4ad9298d37c2bc151f8d/main.m3u8
 #EXTINF:-1 tvg-id="ddc2ae54e0d9fa4f" tvg-name="CINDIE LITE" group-title="movieark" platform="movieark" country="br",CINDIE LITE
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/b1226ff17e924e59803c486e434e96d4/playlist.m3u8
-#EXTINF:-1 tvg-id="1d5e002a11e440e0" tvg-name="Cine Familia" group-title="movieark" platform="movieark" country="br",Cine Familia
-https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/ae48d90078af4f5e960904810501e546/playlist.m3u8
+#EXTINF:-1 tvg-id="e6d45d7a46b02d54" tvg-name="Cine Familia" group-title="movieark" platform="movieark" country="br",Cine Familia
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/ebdd098e1daf4002a64bb6e5014cd704/playlist.m3u8
 #EXTINF:-1 tvg-id="12a34facd87173fa" tvg-name="CinEspanto" group-title="movieark" platform="movieark" country="br",CinEspanto
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/cda1dd579f4c4beea6fc1c6a0064d807/playlist.m3u8
 #EXTINF:-1 tvg-id="f186d83414274091" tvg-name="CNN Brasil" group-title="movieark" platform="movieark" country="br",CNN Brasil
