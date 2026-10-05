@@ -264,7 +264,7 @@ https://kusmdt.lls.pbs.org/lls/kusmdt/kusmdt-dash-drm/dash-drm.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_key=https://proxy.drm.pbs.org/license/widevine/73ece717-f112-426c-9877-0312a1391291-dash
 https://wcfedt.lls.pbs.org/lls/wcfedt/wcfedt-dash-drm/dash-drm.mpd
-#EXTINF:-1 tvg-id="42c75312b2a21cce" tvg-name="mpb" tvg-logo="https://image.pbs.org/stations/wmpn-white-logo-mNSRT4e.png" group-title="pbs" platform="pbs" country="all",mpb
+#EXTINF:-1 tvg-id="b05aff7cc28ebb61" tvg-name="MPB" tvg-logo="https://image.pbs.org/stations/wmpn-white-logo-mNSRT4e.png" group-title="pbs" platform="pbs" country="all",MPB
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_key=https://proxy.drm.pbs.org/license/widevine/9f106c58-06b4-4b0a-b328-1721fd590df6-dash
