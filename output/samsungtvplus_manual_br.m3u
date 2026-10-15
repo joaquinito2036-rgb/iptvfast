@@ -1,10 +1,6 @@
 #EXTM3U x-tvg-url="all.xml.gz"
 #EXTINF:-1 tvg-id="8df1677fa19c009f" tvg-name="2001 GE TV (BR)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="br",2001 GE TV (BR)
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
-#EXTINF:-1 tvg-id="9cc0bb2ef85ecc51" tvg-name="2003 60 Dias infiltrados na prisão (BR)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="br",2003 60 Dias infiltrados na prisão (BR)
-https://pb-rgoucsi31222d.akamaized.net/60DaysIn.m3u8
-#EXTINF:-1 tvg-id="eb072737ce455879" tvg-name="2003 Pequenas Grandes Mulheres LA (BR)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="br",2003 Pequenas Grandes Mulheres LA (BR)
-https://pb-ht1r2nvqla54n.akamaized.net/LittleWomenLA.m3u8
 #EXTINF:-1 tvg-id="f1fa02eaf26d767e" tvg-name="2038 Record News (BR)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="br",2038 Record News (BR)
 https://rnw-rn-samsungtvplus.otteravision.com/rnw/rn/rnw_rn.m3u8
 #EXTINF:-1 tvg-id="a27b554e1f23594a" tvg-name="2038 Record News (BR) alt H265" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="br",2038 Record News (BR) alt H265
@@ -25,7 +21,7 @@ https://pb-qdlphgd0nvd7v.akamaized.net/BandnewsFM.m3u8
 https://amg30834-amg30834c1-amgplt0026.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg30834-amg30834c1-amgplt0026/playlist.m3u8
 #EXTINF:-1 tvg-id="b4be2b48d6c178a7" tvg-name="2045 Oeste TV (BR)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="br",2045 Oeste TV (BR)
 https://cc-ugbqi59nx461h.akamaized.net/playlist.m3u8
-#EXTINF:-1 tvg-id="e5fdc1bc437990b1" tvg-name="2047 TVT News" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="br",2047 TVT News
+#EXTINF:-1 tvg-id="6e85943059f5a06e" tvg-name="2047 TVT News (BR)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="br",2047 TVT News (BR)
 https://pb-k6qlbl6pc1xqh.akamaized.net/TVTNews.m3u8
 #EXTINF:-1 tvg-id="cc795046f20e3a3c" tvg-name="2051 Times Brasil CNBC (BR) (Substituto BRLG)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="br",2051 Times Brasil CNBC (BR) (Substituto BRLG)
 https://f593663c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfVGltZXNCcmFzaWxsaWNlbmNpYWRvZXhjbHVzaXZvQ05CQ19ITFM/playlist.m3u8
@@ -75,6 +71,10 @@ https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Banijay/DealOrNoDeal_BR/DealOrNoDeal.m3u8
 #EXTINF:-1 tvg-id="906bf74c8db9095a" tvg-name="2111 Negocio Fechado (BR)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="br",2111 Negocio Fechado (BR)
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Banijay/HardcorePawn_BR/HardcorePawn.m3u8
+#EXTINF:-1 tvg-id="9f5985213da731b4" tvg-name="2115 60 Dias infiltrados na prisão (BR)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="br",2115 60 Dias infiltrados na prisão (BR)
+https://pb-rgoucsi31222d.akamaized.net/60DaysIn.m3u8
+#EXTINF:-1 tvg-id="897ee070d5d7588d" tvg-name="2117 Pequenas Grandes Mulheres LA (BR)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="br",2117 Pequenas Grandes Mulheres LA (BR)
+https://pb-ht1r2nvqla54n.akamaized.net/LittleWomenLA.m3u8
 #EXTINF:-1 tvg-id="6f25b5318df59efc" tvg-name="2120 MTV Catfish (BR)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="br",2120 MTV Catfish (BR)
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/626c2a3502d84a0007cec817/master.m3u8?advertisingId=&appName=web&appVersion=8.0.0-111b2b9dc00bd0bea9030b30662159ed9e7c8bc6&app_name=web&clientDeviceType=0&clientID=52064e3f-cd83-409e-8919-5cec3956fd3d&clientModelNumber=1.0.0&country=BR&deviceDNT=false&deviceId=52064e3f-cd83-409e-8919-5cec3956fd3d&deviceLat=-22.8400&deviceLon=-43.3400&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=122.0.0&marketingRegion=BR&serverSideAds=false&sessionID=adfd7660-c87d-11f1-8db1-9af9e4595910&sid=adfd7660-c87d-11f1-8db1-9af9e4595910&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjY4YWY0NTUyLWZiNzQtNDc5OC1iNzRlLTI1MjFjZmRjYzg4ZCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJhZGZkNzY2MC1jODdkLTExZjEtOGRiMS05YWY5ZTQ1OTU5MTAiLCJjbGllbnRJUCI6IjE3Ny4xOTIuMjU1LjM4IiwiY2l0eSI6IlJpbyBEZSBKYW5laXJvIiwicG9zdGFsQ29kZSI6IjIxNTQ1LTI3MCIsImNvdW50cnkiOiJCUiIsImRtYSI6NzYwMDgsImFjdGl2ZVJlZ2lvbiI6IkJSIiwiZGV2aWNlTGF0IjotMjIuODQwMDAwMTUyNTg3ODksImRldmljZUxvbiI6LTQzLjM0MDAwMDE1MjU4Nzg5LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjIuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjAuMC0xMTFiMmI5ZGMwMGJkMGJlYTkwMzBiMzA2NjIxNTllZDllN2M4YmM2IiwiY2xpZW50SUQiOiI1MjA2NGUzZi1jZDgzLTQwOWUtODkxOS01Y2VjMzk1NmZkM2QiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9TYW9fUGF1bG8iLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckFkU2Vzc2lvbkV2ZW50Ijp7ImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckRhc2hOZyI6eyJqaXRQYWNrIjoicmVwYWNrSml0LGRlY3J5cHQifSwic3RpdGNoZXJIbHNOZyI6eyJkZW11eGVkQXVkaW8iOiJqaXQifX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiNTIwNjRlM2YtY2Q4My00MDllLTg5MTktNWNlYzM5NTZmZDNkIiwiZndWY0lEMkNvcHBhIjoiNTIwNjRlM2YtY2Q4My00MDllLTg5MTktNWNlYzM5NTZmZDNkIiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiI1MjA2NGUzZi1jZDgzLTQwOWUtODkxOS01Y2VjMzk1NmZkM2QiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIxMDQ2IiwiX2Z3XzNQX1VJRCI6IklETDpBc0xKZlpZLUM3WjlrODBRYzItMDJvN29vOS15V3M0djFmWkJrZnZBRkI4ZDBtUERXb2dYX1NVeXpzYTA1TUhuUXVPUUZ3QkV3dlUyZzNTVWtlbGV0bmo2R3VrT0JpRXBwaXlYSHVqbmtRX2lRaktrRC12LS1JU0lqcWkxeUtXOVFWRmxpWUVkNC0zV1c4WVE4S1FaZDFhNG9hRlN6Wll0Wkh2NXZ3b3ljdERKRS1FMzV4U3YyZ196X2xfSDVPSWF3WGh0Q3FQcEY2T053Uk9WUFJIM2dFYWdDR1F1a0R1TkZNdGM1NE4wTllqb3RlUXAzRkhROHo5bjZvSEpDUTNjZm5GUHVrQzd1aWJIc1lma1RzUDRsV096azRrTFJLYWVPRlByUEtYdlZfaHpnU2c0a2hfXzRLNzRWX0wzWFBRNnU0UloxNjYzZkt6TDVyRWtQNFdjUG8wY3pLSE1OR2UyZm9uODhjQUVZdyIsImZtc19ydWxlaWQiOiIxMDAwMCwxMDAwOSwxMDAxMywxMDAxNCwxMDAyMCwxMDAyMSwxMDAxNiwxMDAxNSwxMDAyMyJ9fSwic2Vzc2lvblN0YXJ0VGltZSI6MTc5MjA1Nzc1NDA3MywiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkJSOk5USXdOalJsTTJZdFkyUTRNeTAwTURsbExUZzVNVGt0TldObFl6TTVOVFptWkROayIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3OTIxNDQxNTQsImlhdCI6MTc5MjA1Nzc1NCwianRpIjoiY2ZlZGJjM2EtZWNiYy00ZDgxLTgzYjgtNTI0MzA4NmJjMzQyIn0.OWxZEuDUhCiDHDQ3NHPOMnsrh9VmAZolu5zyP0PXs6Y&masterJWTPassthrough=true&includeExtendedEvents=true
 #EXTINF:-1 tvg-id="11cded18f67d82b9" tvg-name="2125 MTV Jovens e Mães" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="br",2125 MTV Jovens e Mães
@@ -85,6 +85,8 @@ https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Receitas_Fast_BR/Receitas_
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/Sabor_e_Arte_BR/Sabor_e_Arte.m3u8
 #EXTINF:-1 tvg-id="19210a1e24bcebed" tvg-name="2170 Tastemade" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="br",2170 Tastemade
 https://dfr80qz435crc.cloudfront.net/IJKL/Amagi/Tastemade/Tastemade_BR/Tastemade.m3u8
+#EXTINF:-1 tvg-id="0aa36f7b66164712" tvg-name="2171 Ideias Incríveis" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="br",2171 Ideias Incríveis
+https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/The_Soul_Publishing/Ideias_Incriveis_BR/Ideias_Incriveis.m3u8
 #EXTINF:-1 tvg-id="bd5659973a65d766" tvg-name="2172 Tastemade Casa" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="br",2172 Tastemade Casa
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Tastemade/TastemadeHome_BR/TastemadeHome.m3u8
 #EXTINF:-1 tvg-id="0f6d14a0f5efe1f8" tvg-name="2173 Homeful (BR) Substituto LG" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="br",2173 Homeful (BR) Substituto LG
@@ -93,10 +95,10 @@ https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=9999253
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Tastemade/TastemadeTravel_BR/TastemadeTravel.m3u8
 #EXTINF:-1 tvg-id="d5b071ba8e269cc8" tvg-name="2178 Travel Plus (BR)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="br",2178 Travel Plus (BR)
 https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/TravelPlus/Travel_Plus_BR/Travel_Plus.m3u8
-#EXTINF:-1 tvg-id="12ef42f9ff1b2653" tvg-name="2183 Salon Line (BR)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="br",2183 Salon Line (BR)
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/SalonLine/SalonLine_BR/SalonLine.m3u8
 #EXTINF:-1 tvg-id="a75d48c75b60a9d4" tvg-name="2185 Demand Africa (BR)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="br",2185 Demand Africa (BR)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungbr-demand-africa-por-samsungbrazil/playlist.m3u8
+#EXTINF:-1 tvg-id="79c8ab449ff1a6e4" tvg-name="2190 Salon Line (BR)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="br",2190 Salon Line (BR)
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/SalonLine/SalonLine_BR/SalonLine.m3u8
 #EXTINF:-1 tvg-id="1dd5ee03cdd8de1c" tvg-name="2195 Zenlife by Stingray (BR)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="br",2195 Zenlife by Stingray (BR)
 https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungbr/master.m3u8
 #EXTINF:-1 tvg-id="3baabe776c2dfa71" tvg-name="2197 Luxe Fireplace Vibes" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="br",2197 Luxe Fireplace Vibes
@@ -243,8 +245,6 @@ https://failarmy-international-br.samsung.wurl.tv/playlist.m3u8
 https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="bcbc04c0a0f45b7e" tvg-name="2512 Mark Rober TV" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="br",2512 Mark Rober TV
 https://pb-slu3sr0tscoho.akamaized.net/MarkRoberTV.m3u8
-#EXTINF:-1 tvg-id="6f404e188396391e" tvg-name="2514 Ideias Incríveis" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="br",2514 Ideias Incríveis
-https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/The_Soul_Publishing/Ideias_Incriveis_BR/Ideias_Incriveis.m3u8
 #EXTINF:-1 tvg-id="181528eef3f1dfc2" tvg-name="2516 Canal do Artesanato" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="br",2516 Canal do Artesanato
 https://ogc-cda.otteravision.com/ogc/cda/cda.m3u8
 #EXTINF:-1 tvg-id="0dde616f7cf2262e" tvg-name="2524 Sobrevivi" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="br",2524 Sobrevivi
@@ -289,6 +289,8 @@ https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimemovie-samsungbr/playlist.m3u8
 #EXTINF:-1 tvg-id="4e10936d647cb83f" tvg-name="2695 MyTime Movie Network alt (BR)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="br",2695 MyTime Movie Network alt (BR)
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="420a04a03c98eec7" tvg-name="2697 Film Plus TV (BR)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="br",2697 Film Plus TV (BR)
+https://pb-7dac9juxe0240.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-id="49d16b20940f20c6" tvg-name="2705 Spark TV (BR)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="br",2705 Spark TV (BR)
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sr15nxkp06uk9/playlist.m3u8
 #EXTINF:-1 tvg-id="76dcfaa8d6beb161" tvg-name="2710 Filmelier Esperanca (BR)" group-title="samsungtvplus_manual" platform="samsungtvplus_manual" country="br",2710 Filmelier Esperanca (BR)
