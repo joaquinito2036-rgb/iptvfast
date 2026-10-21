@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T02:47:29.161167+00:00",
+  "generated_at": "2026-10-21T11:03:35.136421+00:00",
   "files": [
     "10play_all.m3u",
     "10play_au.m3u",
@@ -353,6 +353,6 @@
     "xumo_all.m3u",
     "zeasn_all.m3u"
   ],
-  "channel_count": 60256,
+  "channel_count": 60258,
   "errors_count": 2
 }
