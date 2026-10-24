@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T10:13:39.324555+00:00",
+  "generated_at": "2026-10-24T15:16:52.101692+00:00",
   "channel_count": 60164,
   "platform_count": 38,
   "xmltv": {
@@ -7,8 +7,8 @@
     "xmltv_max_days_requested": 7,
     "xmltv_days_written": 7,
     "xmltv_channels_written": 6878,
-    "xmltv_programmes_written": 752968,
-    "xmltv_gz_bytes": 40868865,
+    "xmltv_programmes_written": 752971,
+    "xmltv_gz_bytes": 40868892,
     "xmltv_gz_limit_bytes": 104857600,
     "xmltv_gzip_level": 9,
     "xmltv_filtered_by_channel_name": true,
@@ -18,17 +18,7 @@
     {
       "url": "https://www.apsattv.com/rakuten-jp.m3u",
       "platform": "rakuten_jp",
-      "error": "ClientResponseError(RequestInfo(url=URL('https://www.apsattv.com/rakuten-jp.m3u'), method='GET', headers=<CIMultiDictProxy('Host': 'www.apsattv.com', 'User-Agent': 'IPTVFast/1.0 (+https://github.com/your-user/iptvfast)', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate')>, real_url=URL('https://www.apsattv.com/rakuten-jp.m3u')), (), status=404, message='Not Found', headers=<CIMultiDictProxy('strict-transport-security': 'max-age=0; includeSubDomains', 'Content-Type': 'text/html; charset=iso-8859-1', 'Content-Encoding': 'gzip', 'Vary': 'Accept-Encoding', 'Content-Length': '256', 'Date': 'Sat, 24 Oct 2026 10:05:21 GMT', 'Server': 'LiteSpeed', 'alt-svc': 'h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000', 'Connection': 'Keep-Alive')>)"
-    },
-    {
-      "url": "https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/all/radio.json.gz",
-      "platform": "matt_all_radio",
-      "error": "ClientResponseError(RequestInfo(url=URL('https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/all/radio.json.gz'), method='GET', headers=<CIMultiDictProxy('Host': 'github.com', 'User-Agent': 'IPTVFast/1.0 (+https://github.com/your-user/iptvfast)', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate')>, real_url=URL('https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/all/radio.json.gz')), ())"
-    },
-    {
-      "url": "https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/Roku/.channels.json.gz",
-      "platform": "roku_matt",
-      "error": "ClientResponseError(RequestInfo(url=URL('https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/Roku/.channels.json.gz'), method='GET', headers=<CIMultiDictProxy('Host': 'github.com', 'User-Agent': 'IPTVFast/1.0 (+https://github.com/your-user/iptvfast)', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate')>, real_url=URL('https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/Roku/.channels.json.gz')), ())"
+      "error": "ClientResponseError(RequestInfo(url=URL('https://www.apsattv.com/rakuten-jp.m3u'), method='GET', headers=<CIMultiDictProxy('Host': 'www.apsattv.com', 'User-Agent': 'IPTVFast/1.0 (+https://github.com/your-user/iptvfast)', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate')>, real_url=URL('https://www.apsattv.com/rakuten-jp.m3u')), (), status=404, message='Not Found', headers=<CIMultiDictProxy('strict-transport-security': 'max-age=0; includeSubDomains', 'Content-Type': 'text/html; charset=iso-8859-1', 'Content-Encoding': 'gzip', 'Vary': 'Accept-Encoding', 'Content-Length': '256', 'Date': 'Sat, 24 Oct 2026 15:08:09 GMT', 'Server': 'LiteSpeed', 'alt-svc': 'h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000', 'Connection': 'Keep-Alive')>)"
     },
     {
       "url": "https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/.channels.json.gz",
@@ -41,19 +31,29 @@
       "error": "ClientResponseError(RequestInfo(url=URL('https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/Plex/.channels.json.gz'), method='GET', headers=<CIMultiDictProxy('Host': 'github.com', 'User-Agent': 'IPTVFast/1.0 (+https://github.com/your-user/iptvfast)', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate')>, real_url=URL('https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/Plex/.channels.json.gz')), ())"
     },
     {
-      "url": "https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PBS/.app.json.gz",
-      "platform": "pbs",
-      "error": "ClientResponseError(RequestInfo(url=URL('https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PBS/.app.json.gz'), method='GET', headers=<CIMultiDictProxy('Host': 'github.com', 'User-Agent': 'IPTVFast/1.0 (+https://github.com/your-user/iptvfast)', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate')>, real_url=URL('https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PBS/.app.json.gz')), ())"
-    },
-    {
       "url": "https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/SamsungTVPlus/.channels.json.gz",
       "platform": "samsungtvplus_matt",
       "error": "ClientResponseError(RequestInfo(url=URL('https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/SamsungTVPlus/.channels.json.gz'), method='GET', headers=<CIMultiDictProxy('Host': 'github.com', 'User-Agent': 'IPTVFast/1.0 (+https://github.com/your-user/iptvfast)', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate')>, real_url=URL('https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/SamsungTVPlus/.channels.json.gz')), ())"
     },
     {
+      "url": "https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/all/radio.json.gz",
+      "platform": "matt_all_radio",
+      "error": "ClientResponseError(RequestInfo(url=URL('https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/all/radio.json.gz'), method='GET', headers=<CIMultiDictProxy('Host': 'github.com', 'User-Agent': 'IPTVFast/1.0 (+https://github.com/your-user/iptvfast)', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate')>, real_url=URL('https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/all/radio.json.gz')), ())"
+    },
+    {
       "url": "https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/all/tv.json.gz",
       "platform": "matt_all_tv",
       "error": "ClientResponseError(RequestInfo(url=URL('https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/all/tv.json.gz'), method='GET', headers=<CIMultiDictProxy('Host': 'github.com', 'User-Agent': 'IPTVFast/1.0 (+https://github.com/your-user/iptvfast)', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate')>, real_url=URL('https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/all/tv.json.gz')), ())"
+    },
+    {
+      "url": "https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PBS/.app.json.gz",
+      "platform": "pbs",
+      "error": "ClientResponseError(RequestInfo(url=URL('https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PBS/.app.json.gz'), method='GET', headers=<CIMultiDictProxy('Host': 'github.com', 'User-Agent': 'IPTVFast/1.0 (+https://github.com/your-user/iptvfast)', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate')>, real_url=URL('https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PBS/.app.json.gz')), ())"
+    },
+    {
+      "url": "https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/Roku/.channels.json.gz",
+      "platform": "roku_matt",
+      "error": "ClientResponseError(RequestInfo(url=URL('https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/Roku/.channels.json.gz'), method='GET', headers=<CIMultiDictProxy('Host': 'github.com', 'User-Agent': 'IPTVFast/1.0 (+https://github.com/your-user/iptvfast)', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate')>, real_url=URL('https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/Roku/.channels.json.gz')), ())"
     },
     {
       "url": "https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PBS/.kids_app.json.gz",
