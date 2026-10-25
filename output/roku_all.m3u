@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="all.xml.gz"
 #EXTINF:-1 tvg-id="50b18dea9c5c51568c1343fcd3d88ec9" tvg-name="ABC7 Sarasota" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/50b18dea9c5c51568c1343fcd3d88ec9/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1746557592232_WWSB_EPG_Hud_LogoWWSB_HUD_logo_260x147_Centered.png" group-title="News" platform="roku" country="all",ABC7 Sarasota
-https://jmp2.uk/rok-50b18dea9c5c51568c1343fcd3d88ec9.m3u8
+https://aka-live1050.delivery.roku.com/9c7ca2ba-ded2-437e-b542-9d7b09e68f90/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-id="fb8579bf16248ce630f42f129ed2e8d5" tvg-name="Acorn TV Mysteries" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/fb8579bf16248ce630f42f129ed2e8d5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1761252500000_ACORNTV_MYSTERIES_hud_efefef_center_260x147_Bill_Watts.png" group-title="TV & Entertainment" platform="roku" country="all",Acorn TV Mysteries
 https://aka-live1050.delivery.roku.com/d8dfff39-cf8c-4b6f-b5e1-6b4e590e4c1a/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-id="fac7a914e241bef68c80c2f6e549458e" tvg-name="ALF" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/fac7a914e241bef68c80c2f6e549458e/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1786973976928_alf_logo_hud.png" group-title="Comedy" platform="roku" country="all",ALF
