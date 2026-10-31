@@ -119,7 +119,7 @@ https://kdindt.lls.pbs.org/lls/kdindt/kdindt-dash-drm/dash-drm.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_key=https://proxy.drm.pbs.org/license/widevine/09a284cb-6c79-44ac-a327-80b0150b31e0-dash
 https://wjctdt.lls.pbs.org/lls/wjctdt/wjctdt-dash-drm/dash-drm.mpd
-#EXTINF:-1 tvg-id="37245e83e6ea9c2f" tvg-name="KAMU" tvg-logo="https://image.pbs.org/stations/kamu-black-logo-eruIdqe.png" group-title="pbs" platform="pbs" country="all",KAMU
+#EXTINF:-1 tvg-id="37245e83e6ea9c2f" tvg-name="KAMU" tvg-logo="https://image.pbs.org/stations/kamu-black-logo-hZ3Hbnf.png" group-title="pbs" platform="pbs" country="all",KAMU
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_key=https://proxy.drm.pbs.org/license/widevine/0a2058d6-59bc-4799-bbe5-06cf6304d244-dash
