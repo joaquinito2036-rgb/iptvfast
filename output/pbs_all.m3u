@@ -34,7 +34,7 @@ https://kuatdt.lls.pbs.org/lls/kuatdt/kuatdt-dash-drm/dash-drm.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_key=https://proxy.drm.pbs.org/license/widevine/584207a4-c378-4df6-baac-7fbe54b93fcd-dash
 https://wipbdt.lls.pbs.org/lls/wipbdt/wipbdt-dash-drm/dash-drm.mpd
-#EXTINF:-1 tvg-id="bbb7d9143a5ccb5e" tvg-name="Basin PBS" tvg-logo="https://image.pbs.org/stations/kpbt-white-logo-L9b5zUt.png" group-title="pbs" platform="pbs" country="all",Basin PBS
+#EXTINF:-1 tvg-id="bbb7d9143a5ccb5e" tvg-name="Basin PBS" tvg-logo="https://image.pbs.org/stations/kpbt-white-logo-wtZ2jvy.png" group-title="pbs" platform="pbs" country="all",Basin PBS
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_key=https://proxy.drm.pbs.org/license/widevine/03627652-598a-4808-9bdb-e0f519e43665-dash
