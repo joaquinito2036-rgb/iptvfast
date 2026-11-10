@@ -239,7 +239,7 @@ https://wyindt.lls.pbs.org/lls/wyindt/wyindt-dash-drm/dash-drm.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_key=https://proxy.drm.pbs.org/license/widevine/c3189c40-021c-4946-be9c-563a61bd06d5-dash
 https://wlpbdt.lls.pbs.org/lls/wlpbdt/wlpbdt-dash-drm/dash-drm.mpd
-#EXTINF:-1 tvg-id="8713594b2618a621" tvg-name="Maine PBS" tvg-logo="https://image.pbs.org/stations/wcbb-black-logo-gZJ2OCR.png" group-title="pbs" platform="pbs" country="all",Maine PBS
+#EXTINF:-1 tvg-id="8713594b2618a621" tvg-name="Maine PBS" tvg-logo="https://image.pbs.org/stations/wcbb-black-logo-fMh1i01.png" group-title="pbs" platform="pbs" country="all",Maine PBS
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_key=https://proxy.drm.pbs.org/license/widevine/0d61938a-fe4b-43ff-89d5-59d769e148de-dash
