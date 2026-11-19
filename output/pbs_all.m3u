@@ -319,11 +319,11 @@ https://krcbdt.lls.pbs.org/lls/krcbdt/krcbdt-dash-drm/dash-drm.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_key=https://proxy.drm.pbs.org/license/widevine/c7493093-905b-41e5-badd-1d79130ccb6f-dash
 https://ktnwdt.lls.pbs.org/lls/ktnwdt/ktnwdt-dash-drm/dash-drm.mpd
-#EXTINF:-1 tvg-id="9d3ec69c98360228" tvg-name="Ocean State Media" tvg-logo="https://image.pbs.org/stations/wsbe-white-logo-iTeDBxT.png" group-title="pbs" platform="pbs" country="all",Ocean State Media
+#EXTINF:-1 tvg-id="27bc43649908c590" tvg-name="Ocean State Media" tvg-logo="https://image.pbs.org/stations/wsbe-white-logo-iTeDBxT.png" group-title="pbs" platform="pbs" country="all",Ocean State Media
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_key=https://proxy.drm.pbs.org/license/widevine/8ef49703-72af-4204-a95b-de4c820e1f25-dash
-https://wsbedt.lls.pbs.org/lls/wsbedt/wsbedt-dash-drm/dash-drm.mpd
+https://urs-anonymous-detect.pbs.org/redirect/c5a90bbafc4143eebbf566dda61859ff/
 #EXTINF:-1 tvg-id="9d753a8ed89a6c97" tvg-name="OETA" tvg-logo="https://image.pbs.org/stations/keta-black-logo-cRc5zYm.png" group-title="pbs" platform="pbs" country="all",OETA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
