@@ -319,11 +319,11 @@ https://krcbdt.lls.pbs.org/lls/krcbdt/krcbdt-dash-drm/dash-drm.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_key=https://proxy.drm.pbs.org/license/widevine/c7493093-905b-41e5-badd-1d79130ccb6f-dash
 https://ktnwdt.lls.pbs.org/lls/ktnwdt/ktnwdt-dash-drm/dash-drm.mpd
-#EXTINF:-1 tvg-id="9d3ec69c98360228" tvg-name="Ocean State Media" tvg-logo="https://image.pbs.org/stations/wsbe-white-logo-iTeDBxT.png" group-title="pbs" platform="pbs" country="all",Ocean State Media
+#EXTINF:-1 tvg-id="27bc43649908c590" tvg-name="Ocean State Media" tvg-logo="https://image.pbs.org/stations/wsbe-white-logo-iTeDBxT.png" group-title="pbs" platform="pbs" country="all",Ocean State Media
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_key=https://proxy.drm.pbs.org/license/widevine/8ef49703-72af-4204-a95b-de4c820e1f25-dash
-https://wsbedt.lls.pbs.org/lls/wsbedt/wsbedt-dash-drm/dash-drm.mpd
+https://urs-anonymous-detect.pbs.org/redirect/c5a90bbafc4143eebbf566dda61859ff/
 #EXTINF:-1 tvg-id="9d753a8ed89a6c97" tvg-name="OETA" tvg-logo="https://image.pbs.org/stations/keta-black-logo-cRc5zYm.png" group-title="pbs" platform="pbs" country="all",OETA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -714,6 +714,8 @@ https://wyesdt.lls.pbs.org/lls/wyesdt/wyesdt-dash-drm/dash-drm.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_key=https://proxy.drm.pbs.org/license/widevine/055df2f2-fa24-4260-ab7c-5ce404eea076-dash
 https://kcwcdt.lls.pbs.org/lls/kcwcdt/kcwcdt-dash-drm/dash-drm.mpd
+#EXTINF:-1 tvg-id="ec0039d409733d4b5c562980a3e1a21e" tvg-name="123GO! Español" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ec0039d409733d4b5c562980a3e1a21e/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1792623999740_123GO_Espanol_InfoHUD_Mono_260x147.png" group-title="TV & Entertainment" platform="roku" country="all",123GO! Español
+https://aka-live1050.delivery.roku.com/87a1f0d1-fbdd-42ee-a0d3-abbf1c11d7cf/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-id="a46e0aed15be88afdbc560324da36d60" tvg-name="4Fangs" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a46e0aed15be88afdbc560324da36d60/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1790376444903_HUD_FourFangs260x147.png" group-title="Crime Drama" platform="roku" country="all",4Fangs
 https://aka-live1050.delivery.roku.com/d8e2c343-8b68-4d54-ab7a-63fe1920cb04/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-id="50b18dea9c5c51568c1343fcd3d88ec9" tvg-name="ABC7 Sarasota" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/50b18dea9c5c51568c1343fcd3d88ec9/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1746557592232_WWSB_EPG_Hud_LogoWWSB_HUD_logo_260x147_Centered.png" group-title="News" platform="roku" country="all",ABC7 Sarasota
@@ -737,7 +739,7 @@ https://aka-live1050.delivery.roku.com/4f9e883b-309e-4957-8f28-a98d21bb6b54/t2-o
 #EXTINF:-1 tvg-id="3ee48530e00e0abe8eb40c71fc819aa0" tvg-name="Astro Ciencia" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3ee48530e00e0abe8eb40c71fc819aa0/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1774998916966_HUD_260x147.png" group-title="Documentary" platform="roku" country="all",Astro Ciencia
 https://aka-live1050.delivery.roku.com/dd813fa7-65f1-4775-9b9f-e60743205211/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-id="1672824c4fd55e5dbfcb57f147910270" tvg-name="Atlanta News First" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1672824c4fd55e5dbfcb57f147910270/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1684345590463_WANF_EPGHud_LogoWANF_HUD_logo_260x147.png" group-title="News" platform="roku" country="all",Atlanta News First
-https://aka-live1050.delivery.roku.com/eeb4a526-4b3b-4c33-a9e9-b481f5358dec/t2-origin/out/v1/live.m3u8
+https://jmp2.uk/rok-1672824c4fd55e5dbfcb57f147910270.m3u8
 #EXTINF:-1 tvg-id="45d1a1d195389ccd95894d31b7d8627d" tvg-name="AYM Sports 3 USA" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/45d1a1d195389ccd95894d31b7d8627d/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1783653182084_logo_aym3_UHD_channel_identifier_260x147.png" group-title="TV & Entertainment" platform="roku" country="all",AYM Sports 3 USA
 https://aka-live1050.delivery.roku.com/19b3731e-ee52-4a47-9eb0-06313e388f78/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-id="5e709cfe55d955ec899903cde681a5a4" tvg-name="Azteca Internacional" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5e709cfe55d955ec899903cde681a5a4/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1698120582938_AI_Roku_260x147_Mono_INTERNACIONAL_CB_Oct23.png" group-title="TV & Entertainment" platform="roku" country="all",Azteca Internacional
@@ -795,7 +797,7 @@ https://aka-live1050.delivery.roku.com/7ee12862-2d8d-447d-9124-553bfec17e48/t2-o
 #EXTINF:-1 tvg-id="d0d9af56b7735c318b66afe21089d028" tvg-name="Cleveland 19 News Plus" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d0d9af56b7735c318b66afe21089d028/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1684345937107_WOIO_EPG%2526Hud_LogoWOIO_HUD_logo_260x147.png" group-title="News" platform="roku" country="all",Cleveland 19 News Plus
 https://aka-live1050.delivery.roku.com/ed666203-17c5-4378-b730-0f2b9e63f35e/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-id="2a243861dea754eabb13a92e1106a4af" tvg-name="Complex TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/2a243861dea754eabb13a92e1106a4af/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1775050519108_ROKU_Editable_260x147_Cente.png" group-title="TV & Entertainment" platform="roku" country="all",Complex TV
-https://jmp2.uk/rok-2a243861dea754eabb13a92e1106a4af.m3u8
+https://aka-live1050.delivery.roku.com/0e76e004-cc61-4824-8b5a-84431c342fb9/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-id="390053bfbc6858999cb0d6354b57d938" tvg-name="Confess by Nosey" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/390053bfbc6858999cb0d6354b57d938/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1685734780162_Confess-by-NoseyImage-HUD-1_260x147px_1_Tayler_Petrowski.png" group-title="TV & Entertainment" platform="roku" country="all",Confess by Nosey
 https://aka-live1050.delivery.roku.com/cb36da83-72f9-4120-86d4-3d071d01f01a/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-id="5b18fd4082c85d698f6f71702d82be28" tvg-name="COPS en Español" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5b18fd4082c85d698f6f71702d82be28/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1694471259398_COPSenESPANOL_Image_HUD_2_Meela_Hice.png" group-title="Crime" platform="roku" country="all",COPS en Español
@@ -901,7 +903,7 @@ https://aka-live1050.delivery.roku.com/3b9632ba-c77b-44a5-834b-02b20cbac4dc/t2-o
 #EXTINF:-1 tvg-id="beb2be3222295798a8828458bea458ba" tvg-name="FreeTV Estelar" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/beb2be3222295798a8828458bea458ba/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1710282592041_FREETV_Estelar_center_260x147.png" group-title="TV & Entertainment" platform="roku" country="all",FreeTV Estelar
 https://aka-live1050.delivery.roku.com/ac814b53-c78f-4058-a042-0927be42f7b0/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-id="842a871b7e9a7817c72209b689e43254" tvg-name="FreeTV Hits" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/842a871b7e9a7817c72209b689e43254/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1780011054969_FreeTVHitsInfo-HUD_260x147.png" group-title="Music" platform="roku" country="all",FreeTV Hits
-https://jmp2.uk/rok-842a871b7e9a7817c72209b689e43254.m3u8
+https://aka-live1050.delivery.roku.com/54cab157-8bd1-4965-a044-b57fb015c885/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-id="59d2dbddc997559bb7b689a7c887cba4" tvg-name="FreeTV Sureño" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/59d2dbddc997559bb7b689a7c887cba4/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1707769538137_FreeTVSureno260x147.png" group-title="TV & Entertainment" platform="roku" country="all",FreeTV Sureño
 https://aka-live1050.delivery.roku.com/0ba884d1-4f83-46e0-b777-a30e59e0db6c/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-id="624f67e783acee9909159694148f04bc" tvg-name="FreeTV Terror" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/624f67e783acee9909159694148f04bc/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1790370179333_FreTV-Terror-HUD_260x147.png" group-title="Movies" platform="roku" country="all",FreeTV Terror
@@ -963,7 +965,7 @@ https://aka-live1050.delivery.roku.com/cdb0b44d-432d-49f2-a1ad-07f84857f300/t2-o
 #EXTINF:-1 tvg-id="97db4de8d8568332f9743c3999e67b3e" tvg-name="Latinus" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/97db4de8d8568332f9743c3999e67b3e/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1783644927570_LogoHUDLatinus260x147.png" group-title="TV & Entertainment" platform="roku" country="all",Latinus
 https://aka-live1050.delivery.roku.com/2564ec91-6cbd-467c-bc1b-7fafa03d7807/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-id="8ba514251e1a58b7b53368177baa1041" tvg-name="Law & Crime" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8ba514251e1a58b7b53368177baa1041/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1705443337284_lc-roku-epg-infohud-260x147.png" group-title="News" platform="roku" country="all",Law & Crime
-https://aka-live1050.delivery.roku.com/c8620cf9-c802-4867-a846-ed2960692499/t2-origin/out/v1/live.m3u8
+https://jmp2.uk/rok-8ba514251e1a58b7b53368177baa1041.m3u8
 #EXTINF:-1 tvg-id="ffe5d9e0480d1c5e1dcead3abd966ac7" tvg-name="Let's Make a Deal" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ffe5d9e0480d1c5e1dcead3abd966ac7/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1741793674388_LMAD_HUDLogoCenterAligned_260x147.png" group-title="Game Show" platform="roku" country="all",Let's Make a Deal
 https://aka-live1050.delivery.roku.com/ddc48aa1-1b05-4d11-b0a8-86c74ff37d29/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-id="223627443ebe5007b1b9461cc1ea297e" tvg-name="Life with Derek" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/223627443ebe5007b1b9461cc1ea297e/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1788370831477_US_ROKU_LIFEWITHDEREK_INFOHUD_260x147.png" group-title="TV & Entertainment" platform="roku" country="all",Life with Derek
@@ -1069,7 +1071,7 @@ https://aka-live1050.delivery.roku.com/5d0f57fa-5d2c-4cc9-be25-724388641ebb/t2-o
 #EXTINF:-1 tvg-id="a9aae4e62e6fd8e401033cd14ceeaaa2" tvg-name="RCN Noticias" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a9aae4e62e6fd8e401033cd14ceeaaa2/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1744238957605_RCNNoticiaslogoefefef260x147copyJuanMVelasquez.png" group-title="News" platform="roku" country="all",RCN Noticias
 https://aka-live1050.delivery.roku.com/128d0d37-7010-4d4a-8c5e-9a2825693aae/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-id="02aa7b1a311bf3dde1883ea9b1fc9ee5" tvg-name="Real America's Voice en Español" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/02aa7b1a311bf3dde1883ea9b1fc9ee5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1783652270212_Info_Hud_260x147_efefef.png" group-title="TV & Entertainment" platform="roku" country="all",Real America's Voice en Español
-https://jmp2.uk/rok-02aa7b1a311bf3dde1883ea9b1fc9ee5.m3u8
+https://aka-live1050.delivery.roku.com/a253e1c7-bfae-47eb-b209-6eca6a1b10d5/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-id="cc72c25b76295e07862192d21bbff05b" tvg-name="Real Crime" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/cc72c25b76295e07862192d21bbff05b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1669079132437_RealCrime_White_260x147_Horizontal.png" group-title="Crime" platform="roku" country="all",Real Crime
 https://aka-live1050.delivery.roku.com/c895006b-2c77-41fa-9e98-c13815305e63/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-id="c5e8a74546771de365652cd053f73351" tvg-name="Red Bull TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c5e8a74546771de365652cd053f73351/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1747061731258_260x147_hud_rbtv_logo.png" group-title="Sports" platform="roku" country="all",Red Bull TV
